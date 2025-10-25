@@ -1,0 +1,1492 @@
+Journal of Small Business Management
+ISSN: 0047-2778 (Print) 1540-627X (Online) Journal homepage: www.tandfonline.com/journals/ujbm20
+The new normal: The status quo of AI adoption in
+SMEs
+Julia Schwaeke, Anna Peters, Dominik K. Kanbach, Sascha Kraus & Paul
+Jones
+To cite this article: Julia Schwaeke, Anna Peters, Dominik K. Kanbach, Sascha Kraus & Paul
+Jones (2025) The new normal: The status quo of AI adoption in SMEs, Journal of Small Business
+Management, 63:3, 1297-1331, DOI: 10.1080/00472778.2024.2379999
+To link to this article:  https://doi.org/10.1080/00472778.2024.2379999
+© 2024 The Author(s). Published with
+license by Taylor & Francis Group, LLC.
+Published online: 13 Aug 2024.
+Submit your article to this journal 
+Article views: 39830
+View related articles 
+View Crossmark data
+Citing articles: 60 View citing articles 
+Full Terms & Conditions of access and use can be found at
+https://www.tandfonline.com/action/journalInformation?journalCode=ujbm20The new normal: The status quo of AI adoption in SMEs
+Julia Schwaekea, Anna Petersa, Dominik K. Kanbacha,b, Sascha Krausc,d, 
+and Paul Jones
+e
+aStrategic Entrepreneurship Research Group, HHL Leipzig Graduate School of Management, Germany; 
+bSchool of Business, Woxsen University, India; cFaculty of Economics and Management, Free University 
+of Bozen-Bolzano, Italy; dDepartment of Business Management, University of Johannesburg, South 
+Africa; eSchool of Management, Swansea University, UK
+ABSTRACT
+The recent surge in the adoption of artificial intelligence (AI) by 
+small and medium-sized enterprises (SMEs) has garnered sig-
+nificant research attention. However, the existing literature 
+reveals a fragmented landscape that hinders our understanding 
+of how SMEs use AI. We address this through a systematic 
+literature review wherein we analyze 106 peer-reviewed articles 
+on AI adoption in SMEs and categorize states and trends into 
+eight clusters: (1) compatibility, (2) infrastructure, (3) knowl -
+edge, (4) resources, (5) culture, (6) competition, (7) regulation, 
+and (8) ecosystem: according to the technology–organization– 
+environment model. Our research provides valuable insights 
+and identifies significant gaps in existing literature, notably 
+overlooking trends identification as a pivotal driver and neglect -
+ing legal requirements. Our study clarifies AI implementation 
+within SMEs, offering a holistic and theoretically grounded per-
+spective to empower researchers and practitioners to facilitate 
+more effective adoption and application of AI within the SME 
+sector.KEYWORDS 
+AI; artificial intelligence; 
+small business; SME; 
+technology
+Introduction
+Within the dynamic landscape of science and technology, artificial intelligence 
+(AI) has emerged as a catalyst reshaping our interactions with technology, our 
+problem-solving methods, and even our comprehension of intelligence itself 
+(Giuggioli & Pellegrini, 2023 ). Despite the vast potential of AI, its integration 
+within small and medium-sized enterprises (SMEs) faces considerable hurdles, 
+notably the challenges of change management (Nagy et al., 2023 ). Overcoming 
+these challenges and fostering AI adoption is imperative for SMEs to thrive 
+(Lemos et al., 2022 ).
+Critically, boosting AI use within SMEs requires navigating the com -
+plexities inherent in identifying suitable AI technologies and applying 
+CONTACT Paul Jones 
+ w.p.jones@swansea.ac.uk 
+ School of Management, Swansea University, Singleton Park, 
+Sketty, Swansea SA2 8PP, UKJOURNAL OF SMALL BUSINESS MANAGEMENT    
+2025, VOL. 63, NO. 3, 1297–1331 
+https://doi.org/10.1080/00472778.2024.2379999
+© 2024 The Author(s). Published with license by Taylor & Francis Group, LLC.  
+This is an Open Access article distributed under the terms of the Creative Commons Attribution License (http://creativecommons.org/ 
+licenses/by/4.0/ ), which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly 
+cited. The terms on which this article has been published allow the posting of the Accepted Manuscript in a repository by the author(s) 
+or with their consent.them across an array of organizational functions and deployment scenar -
+ios (Hansen & Bøgh, 2021 ). The literature on applying AI in SMEs, while 
+abundant, often lacks coherence and comprehensiveness (bin Ahmad 
+et al., 2019 ; Giuggioli & Pellegrini, 2023 ; Treiblmaier, 2018 ). This is 
+unfortunate, as AI adoption by SMEs has substantial potential benefits 
+ranging from productivity enhancements to cost reductions to improved 
+employee experiences (Chaudhuri et al., 2022 ).
+Failure to embrace AI could have dire consequences for SMEs, 
+including lost competitiveness and market share, diminished economic 
+influence, and reduced employment opportunities (Baabdullah et al.,  
+2021 ). While AI adoption strategies vary, they typically involve increas -
+ing investments, automating processes, and upgrading systems and 
+technologies to remain competitive (Hansen & Bøgh, 2021 ). It is essen -
+tial to note, however, that overly complex AI applications may not be 
+feasible for SMEs because of their cost and complexity (Moeuf et al.,  
+2020 ).
+Various theories exist to explain technology adoption within various 
+contexts (Orr, 2003 ; Venkatesh et al., 2003 ). AI implementation within 
+the SME context requires a theory that can comprehensively analyze its 
+complexity and versatility (Khan et al., 2021 ). This study employs the 
+technology—organization—environment (TOE) model (Tornatzky & 
+Fleischer, 1990 ) to systematically analyze the current state of the literature. 
+This framework offers valuable insights into the internal and external 
+factors influencing technology adoption decisions within organizational 
+contexts (Hossain & Quaddus, 2012 ).
+The TOE model allows a structured examination of the dynamics influ -
+encing AI adoption in SMEs by considering factors such as technological 
+readiness, organizational capabilities, and environmental influences (El- 
+Haddadeh, 2020 ). Against this backdrop, our study provides a structured 
+overview of AI research within the SME sector, identifying challenges, 
+facilitators, opportunities, and implementation domains. Employing 
+a systematic literature review (SLR), we integrate existing research to offer 
+valuable insights for researchers and practitioners. Through this consolida -
+tion, we aim to advance AI adoption in SMEs and contribute to the existing 
+body of knowledge in this field.
+The study is structured as follows. The theoretical background for defin -
+ing AI within the context of implementation within SMEs using the TOE 
+model is presented; our research methods are described; followed by the 
+results; and a comparative analysis of our findings with previous research, 
+offering academic and practical recommendations. We identify the limita -
+tions of the research and avenues for future research, which also presents 
+the conclusions.1298
+ J. SCHWAEKE ET AL.Theoretical foundation of artificial intelligence and its implementation 
+requirements in small and medium-sized enterprises
+Definition of artificial intelligence
+AI has rapidly transformed the world and impacted all areas of business 
+functionality (Budhwar et al., 2023 ). It encompasses three generations: 
+(1) artificial narrow intelligence, designed for specific tasks, (2) artificial 
+general intelligence, capable of independently solving a wide range of 
+problems, and (3) artificial superintelligence, anticipated to possess 
+scientific creativity along with social and technical skills (Deepa et al.,  
+2024 ). AI, often referred to as machine-generated intelligence, empowers 
+machines to perform tasks and tackle complex challenges that have 
+traditionally exceeded human cognitive capabilities (Giuggioli & 
+Pellegrini, 2023 ). The technical maturity and market readiness of AI- 
+related methods and processes are continually improving, reflecting the 
+high-level engineering and research activity within this domain. 
+Machine learning and deep learning, often synonymous with AI, 
+describe how computers can learn patterns based on input data. AI 
+also comprises various vital subdomains, such as voice recognition, 
+image identification, natural language processing, expert systems, neural 
+networks, planning, robotics, and intelligent agents (Whitson, 2024 ). AI 
+is characterized by its multidisciplinary nature (Hermann, 2023 ) and 
+integration with cutting-edge technologies (Hansen & Bøgh, 2021 ). 
+Moreover, AI plays a crucial role in the Internet of Things (IoT), 
+which constitutes an interconnected network of physical devices capable 
+of communication and remote monitoring (Ashton, 2009 ). AI encom -
+passes various methods, including machine learning, an analytical 
+approach applicable to data from IoT devices (Hansen & Bøgh, 2021 ). 
+AI processes vast volumes of IoT data to generate actionable insights, 
+bridging the software languages enforced by IoT devices (bin Ahmad 
+et al., 2019 ). In addition, AI enhances augmented reality (AR), 
+a human–computer interaction system that merges real and virtual 3D 
+objects in real time (Azuma et al., 2001 ). AI plays a critical role in the 
+advancement of manufacturing assembly robots, enabling them to work 
+more efficiently, safely, and intelligently and improving processing accu -
+racy and effectiveness (Soori et al., 2023 ). Last, AI intersects with 
+blockchain, a distributed ledger technology that securely and transpar -
+ently records digital assets (Treiblmaier, 2018 ). This study focuses on 
+AI-related technologies from a business perspective, as AI has shifted 
+from a futuristic concept understood by a select group of experts to 
+become an affordable mainstream solution transcending its application 
+solely to large enterprises (Giuggioli & Pellegrini, 2023 ).JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1299Factors influencing the adoption of artificial intelligence in small and 
+medium-sized enterprises
+The definition of SMEs varies by country (Ardic et al., 2011 ). SMEs are defined 
+by the EU Commission as organizations with fewer than 250 employees and 
+revenues below EUR 50 million per year (European Commission, n.d.). 
+Meanwhile, in the United States, the Small Business Administration cate-
+gorizes small businesses based on ownership structure, employee count, earn -
+ings, and industry (United States Small Business Administration, n.d.). For 
+example, in production, an SME generally consists of 500 or fewer employees. 
+The Internal Revenue Service defines small businesses as entities with assets of 
+$10 million or less, while those surpassing this threshold are considered large 
+businesses (Internal Revenue Service, 2023 ). Compared with larger corpora -
+tions, SMEs often face limitations due to constrained human and financial 
+resources (Dörr et al., 2023 ). However, new technologies are anticipated to 
+profoundly affect SMEs and society at large, which could ameliorate some 
+constraints encountered by SMEs (Ameen et al., 2022 ). In recent years, the 
+emergence of AI-related technologies such as blockchain, IoT, and social 
+media have affected organizational processes and are poised to replace tradi -
+tional methods in SMEs (Giuggioli & Pellegrini, 2023 ). While studies show 
+that implementing AI technologies offers new market opportunities and 
+process development potential for SMEs (Chatterjee et al., 2022 ), a recent 
+Deloitte report indicates a discrepancy—94% of business leaders believe that 
+AI will be crucial for success in the next five years, but that its implementation 
+will lead to delayed outcomes. Consequently, willingness to invest in AI 
+decreased from 85% in 2021 to 76% in the surveyed group (Mittal et al., 2022 ).
+Several determinants influence SMEs’ adoption of AI technologies. 
+Compatibility, readiness, efficiency improvement, and time savings are key 
+factors that directly and indirectly affect AI adoption through accounting 
+automation (Devkota et al., 2022 ; Lee & Tajudeen, 2020 ). Chatterjee et al. 
+(2022 ) emphasize the significance of perceived usefulness, ease of use, will-
+ingness to change, and strategic planning for successful applications of AI 
+technology. Dörr et al. (2023 ) identify various determinants for successful 
+digital transformation, encompassing executive management, strategy, 
+employees, culture, data management, and more. Korherr et al. (2022 ) outline 
+critical factors for transitioning to analytics-based decision-making involving 
+management behavior, infrastructure, organization, and culture. Importantly, 
+AI offers many opportunities to SMEs. Empirical studies reveal that the 
+application of intelligent communication systems leads to a higher degree of 
+customer experience and satisfaction, thereby providing a higher degree of 
+loyalty and opening new market opportunities due to a higher level of custo -
+mer data (Rizomyliotis et al., 2022 ). Furthermore, AI enhances SME decision- 
+making for complex analyses where SMEs deal with large data and provide 1300
+ J. SCHWAEKE ET AL.customers with bespoke services and products. In addition, SMEs can achieve 
+enhanced efficiency through automated processes (Hunter, 2019 ). An increase 
+in organizational innovativeness and capabilities leads to a corresponding 
+increase in the adoption of AI technologies by SMEs. These findings under -
+score the importance of fostering an environment conducive to SME innova -
+tion coupled with the development of relevant capabilities. This suggests that 
+SMEs that cultivate a culture of innovation and possess the necessary capabil -
+ities are more likely to embrace and effectively use AI technologies (El- 
+Haddadeh, 2020 ). Despite the market opportunities offered by digital tech-
+nologies, SMEs encounter challenges when adopting them (Ameen et al.,  
+2022 ). SMEs are typically unable to compete with dynamic market challenges. 
+The limited availability of technologies and resources constrains SMEs from 
+flourishing and becoming leaders and drivers of economic growth in light of 
+complex circumstances within the global environment (Chatterjee et al.,  
+2022 ). Nonetheless, SMEs play a pivotal role in the international economy. 
+Recognizing this, the EU aims to enhance SMEs’ business activities and ensure 
+their alignment with updated technologies because their international compe -
+titiveness influences economic stability (Hansen & Bøgh, 2021 ).
+Technology–organization–environment model
+The TOE framework was essentially coined by Tornatzky et al. (1983 ) to 
+exhaustively explicate behavioral intentions and the implementation of inno -
+vation at the firm level (Nguyen et al., 2022 ). The literature on SME adoption 
+of AI technologies encompasses various clusters, each delineating AI adap -
+tiveness within an organizational context. To provide a structured analysis and 
+delineate avenues for further research, we employ the TOE framework, a well- 
+established theoretical model present in recent academic literature (El- 
+Haddadeh, 2020 ; Nguyen et al., 2022 ; Tornatzky et al., 1983 ). Using 
+a theoretical foundation to study the adoption of digital innovations in 
+organizations necessitates careful attention to the factors that influence the 
+adoption process. In this context, existing literature has confirmed that the 
+TOE framework is suitable for analyzing the specific innovation dynamics 
+affecting organizational adoption, particularly in the case of technical innova -
+tion dynamics (El-Haddadeh, 2020 ). Understanding the various factors influ -
+encing organizational adoption of AI can link the adoption of new 
+technologies to a company’s technological, organizational, and environmental 
+characteristics. This linkage provides scholars and decision-makers with 
+a broader perspective on the factors affecting AI adoption within the SME 
+context (Khan et al., 2021 ). While frameworks like the technology acceptance 
+model and the unified theory of acceptance and use of technology focus on 
+individual acceptance decisions, the complexity and scale of organizational 
+technologies often necessitate a more robust framework. The TOE framework JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1301delineates factors influenced by an organization’s introduction of information 
+technology from three contextual perspectives: environmental, technological, 
+and organizational (Tornatzky & Fleischer, 1990 ).
+The environmental context encompasses the external conditions in which 
+companies operate, such as industry dynamics, competitors, and governmen -
+tal influence. The technological context comprises internal and external tech-
+nologies faced by the organization, encompassing market-available 
+technologies and those existing within the organization. Last, the organiza -
+tional context delineates the attributes and resources of the firm, including 
+size, hierarchy, and human resources (Tornatzky et al., 1983 ).
+Various studies have applied the TOE model in various ways ranging from 
+cost-setting, security concerns, and management support as independent 
+variables to integrating organizational factors with theories of innovation 
+diffusion and technology acceptance. These studies have contributed to our 
+understanding of the factors influencing AI adoption in SMEs (Lee & Lee,  
+2014 ). Each study highlights how the three elements—technology, organiza -
+tion, and environment—affect how a firm identifies the need for, searches for, 
+and adopts new technology. SMEs must carefully navigate the adoption of 
+innovative and disruptive technologies due to the significant impact such 
+changes can have on technological, organizational, and environmental 
+dynamics (Khan et al., 2021 ).
+However, empirical studies testing the TOE framework have used 
+slightly different factors within the technological, organizational, and 
+environmental contexts. Researchers agree with Tornatzky and 
+Fleischer (1990 ) that these three contexts influence adoption, but they 
+have identified unique sets of factors or measures for each specific 
+technology or context being studied. For example, Zhu et al. (2004 ) 
+argue that “technology readiness” is a crucial factor in the technological 
+context affecting the adoption of e-business. Similarly, “firm size,” 
+“global scope,” and “financial resources” are key factors in understand -
+ing how the organizational context influences e-business adoption 
+(Baker, 2011 ). Other scholars suggest that complexity and observability 
+were not significant factors for Chinese SMEs in adopting digital inno -
+vations, whereas they were highly significant for Pakistani SMEs in 
+adopting mobile payment systems (Khan et al., 2021 ). Notably, recent 
+research by Nguyen et al. (2022 ) highlights top management support, 
+entrepreneurial orientation, and technological orientation as significant 
+factors positively influencing AI adoption. These results are also sup-
+ported by scholars focusing on determinants of AI adoption within the 
+enterprise environment (Dörr et al., 2023 ; Korherr et al., 2022 ), ulti-
+mately leading to improved processes and better performance, as shown 
+in Figure 1 (Nguyen et al., 2022 ). Scholars have explored the critical 
+factors for adopting IoT, AI, and cloud computing within organizations 1302
+ J. SCHWAEKE ET AL.using the TOE model. They have discovered that technological factors, 
+such as compatibility and uncertainty, are the primary influences for 
+applying AI technologies, while organizational factors like company size 
+appear to be less significant (Jang et al., 2022 ).
+By structuring different clusters and integrating them into a theoretical 
+foundation, the TOE model facilitates a comprehensive analysis of 
+whether technologies are adaptable within an organization. Therefore, 
+we contend that examining the influential factors within the three clus-
+ters—technology, organization, and environment—will provide scholars 
+and practitioners with a comprehensive understanding of the current 
+state of research on AI application in SMEs. This highlights the usefulness 
+of the TOE model in comprehending and analyzing AI technology adop -
+tion by SMEs.
+Methodology
+The chosen research methodology, SLR, is known for its transparency, replic -
+ability, and structured overviewing of existing research (Tranfield et al., 2003 ). 
+This approach is used to explore AI technology applications within SMEs. The 
+SLR approach offers several benefits, including (1) reproducible steps for 
+review validity and (2) comprehensive synthesis and analysis of accumulated 
+knowledge (Kraus et al., 2023 ). Employing SLR to systematically map AI- 
+related studies in SMEs provides a holistic understanding of AI technology 
+applications within this domain in the literature (Kraus et al., 2022 ; Sauer & 
+Seuring, 2023 ). Furthermore, scholars within the managerial field (a focus of 
+this study) have proven that SLR is quite important (Kraus et al., 2023 , 2024 ; 
+Öztürk et al., 2024 ).
+Environment—for 
+example,
+industry dynamics,
+competitors, and
+governmental 
+AI adoption intention
+Organization—for example, leadership, resources,and processesTechnology: compatibility ofnew and existing technologies within 
+the company
+Improved processesFigure 1. Technology–organization–environment model based on the conceptual model of 
+Nguyen et al. (2022 ).JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1303Search strategy
+We employed EBSCO and Web of Science as the journal databases for our 
+study because of the extensive body of literature they cover. Appendix A 
+provides a table of their subdatabases, including their contributions to this 
+study. Our focus was on the subject areas “artificial intelligence” and “SME.” 
+We conducted our searches using Boolean search terms in the title, abstract, 
+and keywords sections. Specifically, we used the term “artificial intelligence” in 
+conjunction with various other terms like “SMEs or small and medium-sized 
+enterprises,” “SME,” and “small business.” We employed diverse spellings and 
+synonyms to encompass a broad range of possibilities, such as “artificial 
+intelligence,” “ai,” “deep learning,” and “machine learning.” These feasible 
+options resulted in the 36 search strings found in Appendix B, all of which 
+were utilized. The period reviewed was before and including August 2023. We 
+focused on peer-reviewed journal articles to ensure methodological rigor 
+(Jones et al., 2011 ). In Figure 2, one can find the number of publications 
+per year for the papers in the study.
+Initially, our search yielded 12,548 articles. Details of the SLR process 
+and the number of papers retained after each stage can be found in 
+Figure 3. The material collection comprises only peer-to-peer-reviewed 
+articles to obtain a comparable body of research. We included all peer- 
+reviewed journals that were output by the research strings in German and 
+English. The observed time frame is 2003 until June 2024, as AI began 
+gaining importance for SMEs in the early 2000s. The search identified 768 
+articles in the EBSCO database for further analysis after eliminating 
+0
+5
+10
+15
+20
+25
+30
+35
+40
+45
+200320082009201220132014201520172018201920202021202220232024* Number of
+ publicat
+ions per 
+yearFigure 2. Publications included in the study by year of publication. *until June, 2024.1304
+ J. SCHWAEKE ET AL.duplications (see Figure 3). Subsequently, we evaluated the quality of these 
+remaining papers by reading their abstracts. Further exclusion criteria 
+retained only articles linked to Artificial Intelligence and SMEs within 
+a business context. Studies outside the business scope were discounted 
+after reading the titles and abstracts. Considered out of scope was any 
+research regarding the mathematical nature of AI and its IT components, 
+as technical descriptions of the technologies do not answer the research 
+questions. Non-peer-reviewed publications were also discounted. Further 
+excluded were articles that did not explicitly analyze the application of AI 
+technologies within SMEs, but rather within larger companies. Our study 
+includes all industries identified in the contributions identified. This 
+review process led us to identify 305 papers specifically centered on AI 
+in SMEs. After reading the full texts of the remaining articles and apply -
+ing the filter criteria, the final sample comprised 106 articles from the 
+EBSCO and Web of Science databases.
+We examined the identified studies based on the three clusters of the 
+TOE model and assessed the influential factors within these clusters to 
+Defin ing the aim of the study and research string
+12,548 articles identified within EBSCO and Web of 
+Scien ce Datab ases
+5,768 remaining after applying quality thresholds 
+(Peer Reviewed & English/German)
+768 remaining after screening for duplicates
+305 remaining after abstract reading
+317 remaining after cross-referencing
+106 as final sampleFigure 3. Selection process of the literature review according to Tranfield et al. (2003 ).JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1305determine which factors are essential for SMEs to consider when adopt -
+ing AI.
+Results
+The 106 articles in our SLR are categorized into eight distinct clusters, each 
+representing a different aspect of the impact of AI on SMEs, as depicted in 
+Table 1. The largest cluster, “Compatibility,” with 19 contributions, discusses 
+the importance of aligning old and new IT systems, strategies, and company 
+values. The “Culture” cluster (19) explores attitudes toward innovation and 
+technology adoption. The third-largest cluster, “Resources” (17), focuses on 
+financial and personnel resources, leadership styles to mitigate scarce 
+resources, and strategic utilization. The “Infrastructure” cluster, with 16 con-
+tributions, discusses SMEs’ need to adopt AI, relying on existing IT infra -
+structure and a business-focused approach. The “Knowledge” cluster, with 10 
+contributions, emphasizes the significance of employees’ expertise and knowl -
+edge, highlighting their role in successful technology transformation, knowl -
+edge exchange with global experts, digital proficiency, and their correlation 
+with positive attitudes toward AI technologies. In the “Ecosystem” cluster (9), 
+SMEs strategically collaborate with external organizations for research and 
+development (R&D), leveraging diverse knowledge sources and external sup-
+port to effectively integrate AI into their operations. In the “Competition” 
+cluster (8), competitive pressures drive organizations to adopt AI technologies 
+to enhance performance and gain a competitive advantage. The “Regulation” 
+cluster (8) discusses AI regulation in SMEs, emphasizing the importance of 
+strategic policies and government involvement with investments in training 
+curricula crucial to equipping the workforce with digital skills. A list of the 
+individual contributions analyzed in this study can be found in Appendix C.
+Application of the technology–organization–environment model to our 
+systematic literature review
+Technology
+The first enabler cluster within the TOE model consists of aspects of technol -
+ogy. Here we evaluate the compatibility of new and existing technology within 
+the company’s IT landscape (Nguyen et al., 2022 ).
+Compatibility
+Research indicates that the primary drivers for AI implementation originate 
+from within the company. A key factor in successful adoption is compatibility, 
+which involves aligning AI with the company’s strategy and current IT land -
+scape (Almeida & Wasim, 2023 ). Hansen and Bøgh (2021 ) highlight that 1306
+ J. SCHWAEKE ET AL.Table 1. Articles by cluster based on elaborations of the authors.
+Cluster Compatibility Infrastructure Knowledge Resources Culture Competition Regulation Ecosystem
+Number of 
+Articles19 16 10 17 19 8 8 9
+Exemplar of 
+ArticlesAlmeida and Wasim 
+(2023 ) 
+Chatterjee et al. (2022 ) 
+Hansen and Bøgh 
+(2021 )Barczak et al. (2019 ) 
+Chowdhury et al. 
+(2023 ) 
+Delen et al. (2013 )Bagale et al. (2023 ) 
+Choudrie et al. (2023 ) 
+von Garrel and Jahn 
+(2022 )Baabdullah et al. 
+(2021 ) 
+Dörr et al. (2023 ) 
+Kraus et al. (2017 )Ballestar et al. 
+(2021 ) 
+Lu et al. (2022 ) 
+Weber (2023 )Albats et al. 
+(2020 ) 
+Barata et al. 
+(2023 ) 
+Wang et al. 
+(2022 )Boubaker et al. 
+(2023 ) 
+Dey et al. (2023 ) 
+Hwang and Kim 
+(2022 )Haddoud et al. 
+(2023 ) 
+Khan et al. (2021 ) 
+Qu et al. (2021 )JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1307alignment with existing IT processes and the current IT strategy is crucial for 
+AI adoption. In addition, integrating AI into the existing IT landscape pro-
+vides competitive advantages like improved productivity and scalability 
+(Hunter, 2019 ).
+Ensuring smooth integration of new technologies is essential, especially for 
+manufacturing SMEs, which often use machinery and production methods 
+over extended periods. These companies need to avoid compatibility issues 
+that could lead to additional adjustments, effort, and financial investment 
+(Hansen & Bøgh, 2021 ). Therefore, when SMEs invest in new technologies, 
+they prioritize ensuring these technologies work seamlessly with their existing 
+systems. As AI integration advances, other factors gain significance. Some 
+emphasize the strategic importance of technology road mapping for efficient 
+AI application, noting that unplanned technology frameworks can impede AI 
+adoption and advocating for a value-centric approach (Kim & Seo, 2023 ). 
+Compatibility also encompasses work practices, needs, and company culture, 
+which can influence AI adoption (Chatterjee et al., 2022 ). Perceived ease of use 
+is critical for technology acceptance, and perceived usefulness, defined as the 
+belief that using a system will enhance job performance, plays a significant 
+role. When SME leaders believe AI can enhance performance, they are more 
+likely to adopt it (Fatima & Bilal, 2019 ). Numerous studies have consistently 
+shown that perceived usefulness positively influences the intention to use and 
+implement AI (Escobar et al., 2023 ; Chatterjee et al., 2022 ).
+Infrastructure within small and medium-sized enterprises
+AI readiness in SMEs is intricately linked to their IT and technological 
+infrastructures (Polas et al., 2022 ). AI technologies are highly integrated and 
+interconnected, functioning systematically rather than in isolation. When 
+implementing AI, SMEs must adopt a technical as well as a business-focused 
+approach. Even though AI readiness focuses strongly on IT aspects, SMEs can 
+survive, grow, and remain competitive by recognizing the strategic value of 
+digital applications (Denicolai et al., 2021 ).
+The importance of AI readiness might have financial implications for SMEs 
+when not preparing the digital change. If AI readiness in terms of IT infra -
+structure is low, SMEs may perceive investments in AI as excessive and the 
+technology as too difficult to manage (Chowdhury et al., 2023 ). Therefore, the 
+ability of SMEs to adapt quickly to changes significantly influences their 
+capacity to innovate and adopt new technologies like AI.
+A holistic perspective ensures that AI integration aligns with organizational 
+objectives, promoting seamless incorporation into existing processes (Polas 
+et al., 2022 ).
+Denning (2020 ) notes that in today’s dynamic business landscape, the 
+successful integration of AI hinges on delivering seamless and efficient IT 
+processes.1308
+ J. SCHWAEKE ET AL.Organization
+The second enabler cluster focuses on organizational aspects within compa -
+nies, such as knowledge, resources, and culture (Nguyen et al., 2022 ).
+Knowledge
+The human aspect, a key AI enabler in SMEs, involves employees’ expertise 
+and knowledge. Choudrie et al. (2023 ) emphasize the role of expertise in 
+successful technology transformation and its impact on innovation diffusion. 
+Knowledge exchange connects global experts (Łabędzka, 2021 ), highlighting 
+employees’ digital proficiency to apply new technologies. Expertise and knowl -
+edge lead to relative advantages and predict a positive attitude toward AI 
+technologies (von Garrel & Jahn, 2022 ). If employees believe AI enhances their 
+performance, they embrace it and perceive value in user-friendly AI. 
+Willingness to change is vital because of new technology’s uncertainties 
+(Łabędzka, 2021 ). On top of that, efficient utilization of AI technologies equips 
+human resources with essential information and skills, such as computer 
+literacy, critical thinking, and effective decision-making (Grashof and Kopka 
+(2023 ). By embracing advanced technologies and integrating AI strategically 
+with human resources, SMEs can leverage the transformative potential of AI to 
+gain a competitive advantage, foster innovation, and achieve sustainable 
+growth (Choudrie et al., 2023 ). A human-centric approach is highlighted by 
+Bagale et al. (2023 ), who demonstrate that perceived AI usefulness positively 
+impacts digital transformation, demanding effectiveness, performance, trust, 
+and risk management.
+Resources
+AI adoption faces challenges including finances, resistance, compatibility, 
+complexity, and legal issues. SMEs may face challenges related to limited 
+funds (Dörr et al., 2023 ). Not surprisingly, AI adoption in SMEs is often 
+influenced by financial and personnel resources, which can either support or 
+hinder its implementation (Kraus et al., 2017 ). SMEs may face hindrances due 
+to poor technical expertise, inadequate skills, or improper management styles 
+due to limited AI education (Liu, 2023 ). Furthermore, the lack of AI specialists 
+limits the potential for AI in SMEs (Lemos et al., 2022 ). Challenges also arise 
+from the feasibility of overhauling systems and processes, limited access to 
+resources for implementing technology, high risks associated with technology 
+adoption, and concerns about its effectiveness (Baabdullah et al., 2021 ). 
+Limited funds impact SMEs’ AI investment (Venkateswarlu et al., 2022 ), 
+hampering cost-effectiveness (Khan et al., 2023 ). In addition, with limited 
+financial resources, SMEs often acknowledge the benefits of AI systems but 
+fear the associated costs (Dörr et al., 2023 ). Smaller enterprises, however, 
+benefit from streamlined communication and fewer management levels, JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1309allowing direct management involvement in R&D (Sousa & Wilks, 2018 ). This 
+direct involvement minimizes the risk of miscommunication between techni -
+cal personnel and senior management, fostering agile decision-making pro-
+cesses. Capacity issues arise from limited funds, impacting research and 
+networks. However, despite perceiving resource constraints as a barrier, 
+SMEs possess a greater awareness of environmental needs, leading to 
+a higher intention to innovate (Rojas-Córdova et al., 2020 ). The agile and 
+adaptable nature of SMEs, coupled with their direct leadership involvement, 
+presents advantages in implementing AI. Although resource limitations may 
+exist, SMEs’ responsiveness to environmental demands drives their determi -
+nation to innovate and embrace transformative technologies.
+Culture
+Within SMEs, the integration of AI presents several challenges, with organiza -
+tional culture emerging as a pivotal factor. Delving into the organizational 
+culture cluster, one might explore how SMEs that have embraced AI undergo 
+a profound transformation in their cultural fabric (bin Ahmad et al., 2019 ). 
+This reshaping of processes and business paradigms brought about by AI 
+profoundly influences a firm’s culture.
+Research indicates that this cultural facet can be dissected into three distinct 
+components. First, fostering a learning culture involves honing the work -
+force’s AI-related skills and capabilities through shared learning spaces, 
+enabling mutual knowledge exchange and constructive feedback. This learn -
+ing readiness within the workforce enhances the organization’s agility in 
+assimilating new technologies, thereby bolstering sustainable growth. 
+Simultaneously, the exigency for ongoing skill acquisition on individual and 
+organizational levels becomes apparent. This readiness hinges on adept IT 
+resources and well-prepared employees poised to seamlessly adopt innovative 
+technologies (Khan et al., 2022 ). Comprehensive education and practical 
+training empower SME workers, allaying apprehensions and facilitating per-
+ceived ease of use (Hamdan et al., 2022 ).
+Communication constitutes the second facet of organizational culture per-
+tinent to AI implementation. Open dialogue with stakeholders and employees 
+is vital for acclimatizing them to the constant flux accompanying AI integra -
+tion (Khan et al., 2022 ). A learning organization ethos, marked by 
+a willingness to embrace change and learn from errors, is fundamental for 
+AI adoption in SMEs (Kucharska & Bedford, 2020 ). The embrace of mistakes 
+is intrinsic to this culture, catalyzing growth underscored by adept managerial 
+support.
+This brings us to the third dimension of organizational culture—leadership 
+style and management commitment in the context of AI. Top-tier manage -
+ment’s unwavering support proves to be important in the successful assimila -
+tion of new technologies. The fluidity of leadership styles is imperative, 1310
+ J. SCHWAEKE ET AL.mirroring AI’s propensity to reshape business models, necessitating the ability 
+to unfreeze, freeze, and refreeze resources in alignment with congenial strate -
+gies (Khan et al., 2022 ). Leadership plays a strong role in the dynamic 
+capabilities of firms through the ongoing development of new practices 
+(Quansah & Hartz, 2022 ). Quansah et al. (2021 ) observed that adaptive SME 
+leaders engage key stakeholders in knowledge development and deployment to 
+survive uncertainty. Notably, leadership roles demand adaptability and pro-
+blem-solving prowess and by investing in workforce development, firms gain 
+a competitive edge. The intricate interplay between AI integration and orga -
+nizational culture within SMEs is a multifaceted endeavor. A proactive learn -
+ing culture, continuous skills development, transparent communication, and 
+adaptable leadership collectively shape a fertile ground for SMEs to seamlessly 
+integrate AI and forge a path toward sustainable progress.
+Environment
+The third enabler cluster focuses on external factors, such as competitors, 
+governmental regulations, and ecosystems (Nguyen et al., 2022 ).
+Competition
+External competitive pressures can influence the adoption of AI in an organi -
+zation. If competing organizations perform more effectively, other organiza -
+tions are pressured to compete as well. With increasing competitive pressure, 
+organizations can use emerging technologies to gain a competitive advantage 
+(Chaudhuri et al., 2022 ). The increasing opportunity to obtain a higher service 
+orientation with AI, as well as to develop new business models and open up 
+new markets, are further relevant factors (Merkel-Kiss & von Garrel, 2022 ). 
+Experts and expert communities played a key role across different stages of the 
+SMEs’ innovation process (Albats et al., 2020 ).
+Regulation
+The regulation of AI in SMEs necessitates strategic policies and government 
+involvement to ensure their successful integration. As AI’s significance con-
+tinues to grow, investing in training curricula becomes paramount to equip 
+the workforce with essential digital skills for the future (World Economic 
+Forum, 2020 ). Given the crucial role of SMEs on national and global levels, 
+understanding their performance and efficiency is vital for effective policy -
+making (Boubaker et al., 2023 ). However, SMEs face a challenge in embracing 
+digital transformation without a positive return on investment (ROI) (Hwang 
+& Kim, 2022 ). Effective policies and government support must address these 
+challenges, offering incentives, and guidance to facilitate AI adoption in SMEs, 
+ensuring their competitiveness and sustainable growth in the global economy 
+(Dey et al., 2023 ).JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1311Ecosystem
+SMEs strategically employ various approaches to harness the potential of AI in 
+their operations. One key approach is collaborating within their ecosystem. 
+Due to limited innovative resources and capabilities, SMEs often partner with 
+external organizations for collaborative R&D (Qu et al., 2021 ). This collabora -
+tion is vital for several reasons. For instance, it allows SMEs to bypass the 
+significant internal investment of time and resources required to develop 
+technological capabilities, thereby focusing on new product development 
+(Tsai & Wang, 2008 ). In addition, collaborations between SMEs and industrial 
+partners using machine learning-based decisions result in high satisfaction 
+rates when R&D expenditure and research intensity are high (Jun et al., 2021 ).
+Haddoud et al. (2023 ) demonstrate that collaborative practices in AI appli -
+cations help SMEs overcome institutional voids, facilitating the successful 
+development of innovative products and enhancing their access to export 
+markets. This collaborative innovation provides access to diverse knowledge, 
+aiding AI implementation and technology integration. Moreover, SMEs lever -
+age external support to foster innovation, with networks serving as key sources 
+of innovation (Hermawati & Gunawan, 2021 ).
+Collaborative AI activities with external partners and universities enable 
+SMEs to explore operational opportunities and achieve international growth 
+(Haddoud et al., 2023 ). Furthermore, better access to customers can leverage 
+the potential of AI. By using AI technologies, SMEs can work closely with 
+customers and obtain first-hand feedback (Hermawati & Gunawan, 2021 ). AI 
+tools can quickly gather customer feedback cost-efficiently, though they have 
+weaknesses such as lower accuracy, distortion, low user seriousness, and less 
+structured data (Mount & Martinez, 2014 ).
+By strategically employing these approaches, SMEs effectively integrate AI 
+into their operations, driving innovation and securing competitive advantages 
+in today’s dynamic business landscape.
+Improved processes and better performance
+Research has demonstrated that the application of AI offers numerous benefits 
+for SMEs when well-integrated into the existing IT landscape. Scholars have 
+investigated various use cases and business functions where AI can be effec -
+tively applied, such as risk management, human resources, and marketing. For 
+instance, AI can predict credit risks, thereby lowering costs and enhancing 
+decision-making processes (Jutasompakorn et al., 2023 ).
+In marketing, AI provides innovative AR experiences that significantly 
+improve customer satisfaction (Sousa & Wilks, 2018 ). It also allows firms to 
+gather first-hand customer feedback cost-efficiently, despite potential weak -
+nesses in accuracy and structure (Mount & Martinez, 2014 ). In addition, AI 
+enhances customer experiences and loyalty by supporting supply chain and 1312
+ J. SCHWAEKE ET AL.sustainable practices (Liu, 2023 ). AI tools improve decision-making and 
+insights, contributing to better customer satisfaction (Babucea & Rabontu,  
+2022 ; Rizomyliotis et al., 2022 ). Furthermore, AI in e-commerce boosts market 
+share, efficiency, profitability, and customer satisfaction by providing faster 
+product information and behavior analysis (Fonseka et al., 2022b ).
+In the realm of human resources, AI supports administrative tasks and 
+personnel searches, addressing challenges related to employment and educa -
+tion (Weber, 2023 ). The involvement of top managers in AI initiatives facil-
+itates the implementation of action plans, including human resources training 
+and communication of AI benefits (Baabdullah et al., 2021 ).
+AI analysis tools play a crucial role in enhancing resource efficiency, redu -
+cing costs, and providing extra value for companies (Chaudhuri et al., 2022 ). 
+In particular, AI enhances efficiency in automating processes, creating inno -
+vative insights, engaging with stakeholders, and providing an improved cus-
+tomer experience (Zhang et al., 2021 ). Despite these benefits, challenges 
+persist, such as identifying suitable processes and achieving team acceptance 
+(Andrade, 2020 ; Beerbaum, 2021 ; Carraro, 2021 ; Hindel et al., 2020 ; Hofmann 
+et al., 2020 ; Ribeiro et al., 2021 ; Turcu & Turcu, 2021 ). In addition, AI can only 
+be adopted efficiently throughout the organization with the commitment of 
+senior management, making that commitment crucial in enabling technolo -
+gical ecosystems through AI adaptation initiatives (Lemos et al., 2022 ).
+Discussion
+We crossed our eight thematic clusters with the three dimensions of the TOE 
+model to highlight the most relevant emerging areas, as shown in Figure 4. The 
+discussion surrounding the advantages and disadvantages inherent in AI 
+integration underscores the multifaceted nature of this process. While AI 
+promises significant benefits in terms of efficiency, accuracy, and customer 
+satisfaction across various domains, it also poses challenges such as financial 
+constraints, resistance, compatibility issues, and legal and technical complex -
+ities. Implementing and using AI unequivocally leads to an increase in enter -
+prise innovation (Barczak et al., 2019 ). AI technologies, distinguished by their 
+integrated and connected characteristics, operate systematically rather than in 
+isolation, shaping their seamless incorporation within the SME ecosystem 
+(Hwang & Kim, 2022 ). For SMEs, implementing transformative technologies 
+like AI necessitates a business-focused approach surpassing mere IT consid -
+erations (Denicolai et al., 2021 ). This holistic perspective ensures alignment 
+with organizational objectives and that AI’s integration augments existing 
+processes. Our findings indicate that implementing AI leads to process 
+improvements due to improved customer communication and efficient hand -
+ling of data, which aligns with the TOE model. AI enables SMEs to reach wider 
+customer bases, optimize profits, and save resources (Chaudhuri et al., 2022 ; JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1313Christen et al., 2022 ). Moreover, the pivotal role of a positive ROI emerges as 
+a decisive factor in determining the feasibility of AI adoption, emphasizing the 
+need for a thorough understanding of its potential benefits and costs. Our 
+examination reveals that the adoption of AI in SMEs is characterized by 
+facilitators and impediments, shaping the trajectory of its integration. 
+However, the mapping of these clusters with the TOE model underscores 
+Figure 4. Clustered findings in the TOE model (elaboration by the authors).1314
+ J. SCHWAEKE ET AL.nuanced gaps, particularly in the environmental aspect. Governmental policies 
+play a pivotal role in influencing SMEs’ digital transformation efforts, neces -
+sitating supportive frameworks to overcome financial constraints associated 
+with AI implementation (Siahaan & Tan, 2022 ). Furthermore, external com -
+petitive pressures drive AI adoption as organizations seek to gain 
+a competitive edge through enhanced customer anticipation and data manage -
+ment capabilities (Chaudhuri et al., 2022 ). Despite acknowledging the impor -
+tance of resource allocation and positive ROI, challenges such as financial 
+constraints, resistance, compatibility issues, and legal complexities persist in 
+the adoption journey (Hwang & Kim, 2022 ; Kraus et al., 2017 ; Merkel-Kiss & 
+von Garrel, 2022 ). Moreover, the issue of legal uncertainties surrounding AI 
+adoption in SMEs underscores the need for comprehensive frameworks to 
+provide guidance for navigating regulatory landscapes (Merkel-Kiss & von 
+Garrel, 2022 ).
+Similarly, the observability dimension underscores the necessity of visible 
+perceived value to drive AI adoption, emphasizing effectiveness, performance, 
+trustworthiness, and risk mitigation (Chatterjee et al., 2022 ; Nguyen et al.,  
+2022 ).
+While limited resources are seen as one of the most hindering factors, 
+management commitment can compensate for that negative, as it strengthens 
+communication between experts, driving an innovative and progressive mind -
+set within the company (Rojas-Córdova et al., 2020 ). Hence, senior manage -
+ment commitment emerges as a critical determinant in fostering AI 
+integration initiatives, facilitating action plan implementation, and overcom -
+ing organizational challenges (Lemos et al., 2022 ). In addition, firm size 
+influences AI adoption dynamics, with smaller enterprises leveraging stream -
+lined communication channels and heightened innovation intentions (Qu 
+et al., 2021 ; Rojas-Córdova et al., 2020 ).
+Entrepreneurial orientation further shapes SMEs’ approach to technological 
+adoption, with a balance between risk-taking and effective risk-management 
+practices driving innovation efforts (Kemendi et al., 2022 , Schwertner, 2017 ; 
+Miller, 1983 ). The holistic integration of AI technologies within SME ecosys -
+tems underscores its transformative potential, driving process improvements, 
+enhanced customer experiences, and sustainable practices (Christen et al.,  
+2022 ; Denicolai et al., 2021 ; Hwang & Kim, 2022 ; Liu, 2023 ; Merkel-Kiss & 
+von Garrel, 2022 ; Rizomyliotis et al., 2022 ).
+In summary, our findings contribute to a nuanced understanding of AI 
+adoption in SMEs, emphasizing the need for interdisciplinary approaches and 
+targeted interventions to maximize its potential benefits while mitigating the 
+associated challenges.JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1315Theoretical implications
+The ongoing trend of technology development will result in AI being of 
+relevance to academia for a long time, as with technology, the needs and 
+drivers of AI might change. In addition, as the majority of companies globally 
+fit into the SME segment, a large sample size will be available when conducting 
+research (Organization for Economic Co-operation and Development, 2020 ). 
+Our study contributes to the existing literature by synthesizing research find-
+ings within a theoretical framework and identifying emerging areas for future 
+research. It emphasizes the multidimensional nature of AI adoption in SMEs 
+and underscores the importance of considering environmental, technological, 
+and organizational factors in facilitating successful implementation. By lever -
+aging the TOE framework, researchers can gain a deeper understanding of the 
+enablers and barriers to AI adoption and identify research fields for fostering 
+a culture of innovation and technological advancement within SMEs. In 
+addition, researchers can gain an understanding of the interdependencies 
+between identified clusters. Furthermore, the research ideas proposed will 
+fill existing research gaps and hence facilitate more research opportunities 
+for other researchers and might even enhance classroom discussions. Our 
+study represents a comprehensive examination of this subject matter through 
+a structured literature review, making it a valuable addition to the landscape of 
+scientific research. By mapping our findings to the TOE model, a predictor for 
+successfully implementing AI in SMEs, we highlight areas where existing 
+literature provides substantial insights and areas where further research is 
+required. This approach ensures that future research within this domain can 
+be more precise.
+Managerial relevance
+Our systematic literature analysis reveals that AI adoption in SMEs can 
+positively impact business when new technologies align with existing prac -
+tices. Decision-makers should foster a learning culture, invest in the work -
+force, engage in transparent communication, and practice adaptable 
+leadership. To implement AI successfully, a robust legal framework is essential 
+to guide decision-makers. SMEs must address challenges like limited 
+resources, resistance, and compatibility. By acquiring necessary skills, effec -
+tively managing, and assessing AI’s benefits, SMEs can overcome these chal-
+lenges and harness AI’s power.
+In the evolving business landscape, SMEs should leverage their size and 
+agility. Streamlined communication, innovation readiness, and leadership 
+involvement enhance adaptability to AI-driven changes, driving innovation 
+and competitive advantage. Our findings highlight the crucial role of external 
+factors, such as governmental policies and competitive pressures, in shaping 1316
+ J. SCHWAEKE ET AL.the AI adoption landscape for SMEs. Supportive policies are needed to miti-
+gate financial constraints and foster an environment conducive to AI imple -
+mentation, underscoring policymakers’ role in facilitating technological 
+advancement within the SME sector.
+SMEs’ AI readiness depends on IT infrastructure and strategic integration 
+with HR. Aligning AI with existing practices, addressing challenges, and 
+considering customer needs enhance adoption success. AI can help SMEs 
+optimize profits, reach broader customer bases, and improve efficiency. 
+Overcoming challenges and addressing AI specialist shortages are vital for 
+SME transformation. Understanding and addressing these challenges enable 
+SMEs to harness AI’s potential and thrive in the digital era.
+Researching the integration of AI in SMEs is highly relevant, as it can 
+significantly impact a firm’s competitive position within its industry 
+(Giuggioli & Pellegrini, 2023 ). Decisions made by management today regard -
+ing AI adoption will have far-reaching implications for these enterprises’ 
+futures. Our study builds on the existing body of knowledge by emphasizing 
+the significance of AI for SMEs and elucidating the key enablers, barriers, 
+organizational structures, and technological and human resources essential for 
+successful AI implementation. Researching AI adoption in SMEs is crucial, as 
+it can be a lever for a company’s success within its segment.
+Future research and limitations
+Three areas for further research are particularly compelling. First, researchers 
+often analyze SMEs’ AI adoption in isolation, focusing on how different 
+aspects independently affect performance outcomes. However, it is essential 
+to consider potential interactions, including compensating and synergistic 
+effects, among these interdependent factors. Future research should explore 
+how diverse facets of AI adoption across various functional domains such as 
+marketing, networking, and technology collectively influence SME perfor -
+mance (Albats et al., 2023 ). This research should delve deeper into digitaliza -
+tion strategies within SMEs, ensuring that AI fits well with existing practices, 
+recognizing challenges, and developing KPI frameworks for assessing AI 
+implementation. Second, researchers should focus on country-specific phe-
+nomena in SME adoption of AI. Local factors, such as regulatory frameworks, 
+cultural nuances, government incentives, and economic conditions, signifi -
+cantly influence AI implementation. Investigating how these factors shape the 
+strategies and outcomes of AI use by SMEs in different countries can provide 
+valuable insights for tailoring AI adoption strategies and policies to the unique 
+characteristics of SMEs in diverse global contexts (Boubaker et al., 2023 ). 
+Third, research should examine AI adoption and impact within various SME 
+contexts, such as founder- and family owned enterprises (Worek & Aaltonen,  
+2023 ) and women- and minority-owned enterprises (Mendonça de Lima et al.,  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 13172023 ). These distinct ownership structures and demographics can introduce 
+unique dynamics and challenges to AI integration. Investigating how AI 
+adoption strategies, barriers, and outcomes differ among these SME categories 
+can enhance understanding of tailored approaches for maximizing AI’s ben-
+efits while addressing the specific constraints and opportunities associated 
+with each ownership or demographic profile.
+This study has two principal limitations. First, it exclusively encompasses 
+published peer-reviewed papers. This narrow focus raises the possibility of pub-
+lication bias, wherein studies with statistically significant results tend to receive 
+preferential publication over those with nonsignificant results (Egger et al., 2001 ). 
+Consequently, it is prudent to exercise caution when extrapolating our findings to 
+broader contexts. Second, although we have exclusively reported on capabilities 
+that have received the highest frequency of research attention, it nevertheless 
+remains plausible that these capabilities may not necessarily possess the strongest 
+correlation with performance outcomes. To discern which capabilities exhibit the 
+most robust relationships with performance, we encourage further research endea -
+vors, such as meta-analyses dedicated to each category of capability.
+Conclusion
+The integration of AI within SMEs is a multifaceted endeavor influenced by 
+various enablers and barriers along technological, organizational, and environ -
+mental dimensions. The exploration of literature regarding AI’s impact on SMEs 
+underscores its potential to enhance efficiency, competitiveness, customer experi -
+ence, and sustainability across domains such as finance, marketing, and human 
+resource management (Hansen & Bøgh, 2021 ).
+The TOE model is a robust framework for understanding the factors driving AI 
+adoption in SMEs. Our findings align with this model, demonstrating the sig-
+nificance of factors like technology compatibility, organizational culture, senior 
+management commitment, innovation perception, and risk-taking propensity, but 
+also show that some dimensions are underrepresented in the literature (Nguyen 
+et al., 2022 ). These blind spots include trend identification and legal requirements 
+for AI implementation, noting that academia calls for clear policies through legal 
+requirements.
+Overall, this research increases the understanding of the complex interplay 
+between AI adoption and SMEs, offering valuable insights into how SMEs 
+navigate the dynamic landscape of technological innovation. AI technologies 
+present SMEs with a plethora of opportunities to optimize profits, reach 
+a broader customer base, and improve efficiency and competitive advantage 
+(Hansen & Bøgh, 2021 ). This research aligns existing literature with the 
+operational TOE model and underscores that successful AI adoption depends 
+on aligning existing practices and cultures and addressing customer needs 
+while simultaneously considering potential challenges, including financing, 1318
+ J. SCHWAEKE ET AL.resistance, compatibility, complexity, and legal issues. Compatibility spans 
+across work methodologies, necessities, and cultural aspects, exerting an 
+influence on AI integration (Chatterjee et al., 2022 ). When AI aligns with 
+the specific needs and innovation objectives of SMEs, the likelihood of their 
+enthusiastic adoption increases. By embracing AI-driven efficiency improve -
+ments, SMEs can enhance customer experiences, foster sustainable practices, 
+and position themselves at the forefront of digital transformation. AI adoption 
+by SMEs faces challenges and barriers ranging from financial constraints and 
+internal resistance to organizational complexity and legal considerations 
+(Venkateswarlu et al., 2022 ). To foster successful AI implementation, SMEs 
+must recognize and address these challenges. Furthermore, addressing the 
+scarcity of AI specialists is crucial to maximizing the benefits of AI technol -
+ogies in SMEs. Understanding and overcoming these challenges is essential if 
+SMEs are to harness the transformative potential of AI and thrive in this 
+dynamic digital era. Aspects such as a learning culture and openness toward 
+AI are part of the organizational dimension, and it should be noted that 
+a positive culture and therefore a welcoming attitude toward new technology 
+will improve the likelihood of AI adoption within SMEs.
+Disclosure statement
+No potential conflict of interest was reported by the authors.
+ORCID
+Paul Jones 
+ http://orcid.org/0000-0003-0417-9143
+References
+Abrokwah-Larbi, K. (2024 ). The impact of customer-focus on the performance of business organi -
+zations: Evidence from SMEs in an emerging West African economy. African Journal of Economic 
+and Management Studies , 15(1), 31–59. https://doi.org/10.1108/AJEMS-04-2022-0167  
+Abrokwah-Larbi, K., & Awuku-Larbi, Y. (2024 ). The impact of artificial intelligence in market -
+ing on the performance of business organizations: Evidence from SMEs in an emerging 
+economy. Journal of Entrepreneurship in Emerging Economies , 16(4), 1090–1117. https://doi. 
+org/10.1108/JEEE-07-2022-0207  
+Abualsauod, E. H. (2023 ). Quality improvement in retail-distribution of Saudi thobe using 
+six-sigma. International Journal of Retail & Distribution Management . https://doi.org/10. 
+1108/IJRDM-02-2023-0091  
+Albats, E., Alexander, A., Mahdad, M., Miller, K., & Post, G. (2020 ). Stakeholder management 
+in SME open innovation: Interdependences and strategic actions. Journal of Business 
+Research , 119, 291–301. https://doi.org/10.1016/j.jbusres.2019.07.038  
+Albats, E., Podmetina, D., & Vanhaverbeke, W. (2023 ). Open innovation in SMEs: A process 
+view towards business model innovation. Journal of Small Business Management , 61(6), 
+2519–2560. https://doi.org/10.1080/00472778.2021.1913595  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1319Almeida, F., & Wasim, J. (2023 ). The role of data-driven solutions for SMEs in responding to 
+COVID-19. International Journal of Innovation and Technology Management , 20(1). https:// 
+doi.org/10.1142/S0219877023500013  
+Ameen, N., Choudrie, J., Jones, P., & Anand, A. (2022 ). Innovative technologies and 
+small-medium sized enterprises in times of crisis. Information Systems Frontiers , 24(4), 
+1055–1060. https://doi.org/10.1007/s10796-022-10353-7  
+Andrade, C. (2020 ). The limitations of online surveys. Indian Journal of Psychological Medicine , 
+42(6), 575–576. https://doi.org/10.1177/0253717620957496  
+Ardic, O. P., Mylenko, N., & Saltane, V. (2011 ). Small and medium enterprises: A cross-country 
+analysis with a new data set. https://documents1.worldbank.org/curated/en/ 
+967301468339577330/pdf/WPS5538.pdf 
+Ashton, K. (2009 ). That “internet of things” thing. RFID Journal , 22(7), 97–114.
+Azuma, R., Baillot, Y., Behringer, R., Feiner, S., Julier, S., & MacIntyre, B. (2001 ). Recent 
+advances in augmented reality. IEEE Computer Graphics and Applications , 21(6), 34–47.  
+https://doi.org/10.1109/38.963459  
+Baabdullah, A. M., Alalwan, A. A., Slade, E. L., Raman, R., & Khatatneh, K. F. (2021 ). SMEs and 
+artificial intelligence (AI): Antecedents and consequences of AI-based B2B practices. Industrial 
+Marketing Management , 98, 255–270. https://doi.org/10.1016/j.indmarman.2021.09.003  
+Babucea, A. G., & Rabontu, C. I. (2022 ). Big data analytics in the context of business enterprises 
+“constantin Brâncuşi” din târgu-jiu seria economie. In C.-E. Stegaroiu & C. Enea (Eds.), 
+Economy series . Analele Universităţii. Annals of “constantin brancusi” (Vol. 1, pp. 67–74). 
+University of Targu-Jiu.
+Bagale, G. S., Vandadi, V. R., Singh, D., Sharma, D. K., Garlapati, D. V. K., Bommisetti, R. K., 
+Gupta, R. K., Setsiawan, R., Subramaniyaswamy, V., & Sengan, S. (2023 ). Retracted article: 
+Small and medium-sized enterprises’ contribution in digital technology. Annals of 
+Operations Research , 326(Suppl. 1), 3–4. https://doi.org/10.1007/s10479-021-04235-5  
+Baker, J. (2011 ). The technology–organization–environment framework. Information systems 
+theory: Explaining and predicting our digital society. In Integrated series in information systems 
+(Vol. 1, p. 28). Springer Science+Business. https://doi.org/10.1007/978-1-4419-6108-2_12  
+Ballestar, M. T., Díaz-Chao, Á., Sainz, J., & Torrent-Sellens, J. (2021 ). Impact of robotics on 
+manufacturing: A longitudinal machine learning perspective. Technological Forecasting & 
+Social Change , 162, 120348. https://doi.org/10.1016/j.techfore.2020.120348  
+Barata, S. F. P. G., Ferreira, F. A. F., Carayannis, E. G., & Ferreira, J. J. M. (2023 ). Determinants 
+of e-commerce, artificial intelligence, and agile methods in small- and medium-sized 
+enterprises. IEEE Transactions on Engineering Management , 71, 6903–6917. https://doi. 
+org/10.1109/TEM.2023.3269601  
+Barczak, A., Dembińska, I., & Marzantowicz, Ł. (2019 ). Analysis of the risk impact of imple -
+menting digital innovations for logistics management. Processes , 7(11), 815. https://doi.org/ 
+10.3390/pr7110815  
+Barton, R., & Thomas, A. (2009 ). Implementation of intelligent systems, enabling integration of 
+SMEs to high-value supply chain networks. Engineering Applications of Artificial Intelligence , 
+22(6), 929–938. https://doi.org/10.1016/j.engappai.2008.10.016  
+Beerbaum, D. (2021 ). Applying agile methodology to regulatory compliance projects in the financial 
+industry: A case study research. SSRN Electronic Journal . https://doi.org/10.2139/ssrn.3834205  
+Bettoni, A., Matteri, D., Montini, E., Gładysz, B., & Carpanzano, E. (2021 ). An AI adoption 
+model for SMEs: A conceptual framework. IFAC-Papersonline , 54(1), 702–708. https://doi. 
+org/10.1016/j.ifacol.2021.08.082  
+bin Ahmad, A. M., Masri, R. B., & Lee, C. A. (2019 ). Future challenges to the entrepreneur in 
+relation to the changing business environment. Global Business & Management Research , 
+11(2), 197–205.1320
+ J. SCHWAEKE ET AL.Boubaker, S., Le, T. D. Q., Ngo, T., & Manita, R. (2023 ). Predicting the performance of MSMEs: 
+A hybrid DEA-machine learning approach. Annals of Operations Research , 1–23. https://doi. 
+org/10.1007/s10479-023-05230-8  
+Budhwar, P., Chowdhury, S., Wood, G., Aguinis, H., Bamber, G. J., Beltran, J. R., Boselie, P., 
+Lee Cooke, F., Decker, S., DeNisi, A., Dey, P. K., Guest, D., Knoblich, A. J., Malik, A., 
+Paauwe, J., Papagiannidis, S., Patel, C., Pereira, V. Ren S., & Tung, R. L. (2023 ). Human 
+resource management in the age of generative artificial intelligence: Perspectives and 
+research directions on ChatGPT. Human Resource Management Journal , 33(3), 606–659.  
+https://doi.org/10.1111/1748-8583.12524  
+Calabrese, A., Costa, R., Tiburzi, L., & Brem, A. (2023 ). Merging two revolutions: A 
+human-artificial intelligence method to study how sustainability and industry 4.0 are 
+intertwined. Technological Forecasting & Social Change , 188, 122265. https://doi.org/10. 
+1016/j.techfore.2022.122265  
+Calheiros-Lobo, N., Vasconcelos Ferreira, J., & Au-Yong-Oliveira, M. (2023 ). SME internatio -
+nalization and export performance: A systematic review with bibliometric analysis. 
+Sustainability , 15(11), 2071–1050. https://doi.org/10.3390/su15118473  
+Camacho-Miñano, M.-M., Segovia-Vargas, M.-J., & Pascual-Ezama, D. (2015 ). Which char -
+acteristics predict the survival of insolvent firms? An SME reorganization prediction model. 
+Journal of Small Business Management , 53(2), 340–354. https://doi.org/10.1111/jsbm.12076  
+Carraro, L. (2021 ). An analysis of the business process model and notation support in robotic 
+process automation tools.
+Chatterjee, S., Chaudhuri, R., Vrontis, D., & Basile, G. (2022 ). Digital transformation and 
+entrepreneurship process in SMEs of India: A moderating role of adoption of AI-CRM 
+capability and strategic planning. Journal of Strategy and Management , 15(3), 416–433.  
+https://doi.org/10.1108/JSMA-02-2021-0049  
+Chaudhuri, R., Chatterjee, S., Vrontis, D., & Chaudhuri, S. (2022 ). Innovation in SMEs, AI 
+dynamism, and sustainability: The current situation and way forward. Sustainability , 14(19), 
+2071–1050. https://doi.org/10.3390/su141912760  
+Chen, J., Lim, C. P., Tan, K. H., Govindan, K., & Kumar, A. (2021 ). Artificial intelligence-based 
+human-centric decision support framework: An application to predictive maintenance in 
+asset management under pandemic environments. Annals of Operations Research , 1–24.  
+https://doi.org/10.1007/s10479-021-04373-w  
+Cho, I., & Ju, Y. (2023 ). Text mining method to identify artificial intelligence technologies for the 
+semiconductor industry in Korea . World patent information. 74 https://doi.org/10.1016/j. 
+wpi.2023.102212  
+Choudrie, J., Manandhar, N., Castro, C., & Obuekwe, C. (2023 ). Hey Siri, Google! Can you help 
+me? A qualitative case study of smartphones AI functions in SMEs. Technological 
+Forecasting & Social Change , 189, 189. https://doi.org/10.1016/j.techfore.2023.122375  
+Chowdhury, S., Dey, P., Joel-Edgar, S., Bhattacharya, S., Rodriguez-Espindola, O., Abadie, A., 
+& Truong, L. (2023 ). Unlocking the value of artificial intelligence in human resource 
+management through AI capability framework. Human Resource Management Review , 33 
+(1), 100899. https://doi.org/10.1016/j.hrmr.2022.100899  
+Christen, T., Hess, M., Grichnik, D., & Wincent, J. (2022 ). Value-based pricing in digital 
+platforms: A machine learning approach to signaling beyond core product attributes in 
+cross-platform settings. Journal of Business Research , 152, 82–92. https://doi.org/10.1016/j. 
+jbusres.2022.07.042  
+Dabić, M., Vlačić, B., Kiessling, T., Caputo, A., & Pellegrini, M. (2023 ). Serial entrepreneurs: 
+A review of literature and guidance for future research. Journal of Small Business 
+Management , 61(3), 1107–1142. https://doi.org/10.1080/00472778.2021.1969657  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1321Das, S. D., & Bala, P. K. (2023 ). What drives MLOps adoption? An analysis using the TOE 
+framework. Journal of Decision Systems , 1–37. https://doi.org/10.1080/12460125.2023.2214306  
+de Lima, R. M., Pisker, B., & Corrêa, V. S. (2023 ). Gender bias in artificial intelligence: 
+A systematic review of the literature. Journal of Telecommunications and the Digital 
+Economy , 11(2), 8–30. https://doi.org/10.18080/jtde.v11n2.690  
+Dedhia, S. (2021 ). Impact of big data & analytics (BD&A) learning intentions with moderating 
+effect of transformational leadership as SME perspective. Turkish Online Journal of 
+Qualitative Inquiry , 12(7), 14015–14022.
+Deepa, R., Sekar, S., Malik, A., Kumar, J., & Attri, R. (2024 ). Impact of AI-focussed technologies 
+on social and technical competencies for HR managers – a systematic review and research 
+agenda. Technological Forecasting & Social Change , 202, N.PAG. https://doi.org/10.1016/j. 
+techfore.2024.123301  
+Delen, D., Zaim, H., Kuzey, C., & Zaim, S. (2013 ). A comparative analysis of machine learning 
+systems for measuring the impact of knowledge management practices. Decision Support 
+Systems , 54(2), 1150–1160. https://doi.org/10.1016/j.dss.2012.10.040  
+Denicolai, S., Zucchella, A., & Magnani, G. (2021 ). Internationalization, digitalization, and 
+sustainability: Are SMEs ready? A survey on synergies and substituting effects among 
+growth paths. Technological Forecasting & Social Change , 166, 120650. https://doi.org/10. 
+1016/j.techfore.2021.120650  
+Denning, S. (2020 ). How software developers instigated the transformation of management. 
+Strategy & Leadership , 48(3), 27–32. https://doi.org/10.1108/SL-02-2020-0029  
+Devkota, N., Paudel, R., Parajuli, S., Paudel, U. R., & Bhandari, U. (2022 ). Artificial intelligence 
+adoption among Nepalese industries: Industrial readiness, challenges, and way forward. In J. 
+R. Saura & F. Debasa (Eds.), Handbook of research on artificial intelligence in government 
+practices and processes (pp. 210–225). IGI Global.
+Dey, P. K., Chowdhury, S., Abadie, A., Vann Yaroson, E., & Sarkar, S. (2023 ). Artificial 
+intelligence-driven supply chain resilience in Vietnamese manufacturing small- and 
+medium-sized enterprises. International Journal of Production Research , 62(15), 
+5417–5456. https://doi.org/10.1080/00207543.2023.2179859  
+Dörr, L., Fliege, K., Lehmann, C., Kanbach, D. K., & Kraus, S. (2023 ). A taxonomy on 
+influencing factors towards digital transformation in SMEs. Journal of Small Business 
+Strategy , 33(1), 53–69. https://doi.org/10.53703/001c.66283  
+Drydakis, N. (2022 ). Artificial intelligence and reduced SMEs’ business risks. A dynamic 
+capabilities analysis during the COVID-19 pandemic. Information Systems Frontiers , 24 
+(4), 1223–1247. https://doi.org/10.1007/s10796-022-10249-6  
+Egger, M., Dickersin, K., & Smith, G. D. (2001 ). Problems and limitations in conducting 
+systematic reviews. In M. Egger, G. D. Smith, & D. G. Altman (Eds.), Systematic reviews 
+in health care: Meta-analysis in context (2nd ed. pp. 43–68). BMJ Publishing Group. https:// 
+doi.org/10.1002/9780470693926.ch3  
+El-Haddadeh, R. (2020 ). Digital innovation dynamics influence on organisational adoption: 
+The case of cloud computing services. Information Systems Frontiers , 22(4), 985–999. https:// 
+doi.org/10.1007/s10796-019-09912-2  
+Escobar, O., Schiavone, F., Khvatova, T., & Maalaoui, A. (2023 ). Lead user innovation and 
+entrepreneurship: Analyzing the current state of research. Journal of Small Business 
+Management , 61(3), 1174–1191. https://doi.org/10.1080/00472778.2021.1955126  
+European Commission. (n.d.). Retrieved August 20, 2023, from. https://single-market- 
+economy.ec.europa.eu/smes/sme-definition_en 
+Faqihi, A., & Miah, S. J. (2023 ). Artificial intelligence-driven talent management system: 
+Exploring the risks and options for constructing a theoretical foundation. Journal of Risk 
+and Financial Management , 16(1), 1–18. https://doi.org/10.3390/jrfm16010031  1322
+ J. SCHWAEKE ET AL.Fatima, T., & Bilal, A. R. (2019 ). Achieving SME performance through individual entrepre -
+neurial orientation and active social networking perspective. Journal of Entrepreneurship in 
+Emerging Economics , 12(3), 399–411. https://doi.org/10.1108/JEEE-03-2019-0037  
+Fonseka, K., Jaharadak, A. A., & Raman, M. (2022a ). Impact of e-commerce adoption on business 
+performance of SMEs in Sri Lanka; moderating role of artificial intelligence. International Journal 
+of Social Economics , 49(10), 1–14. https://doi.org/10.1108/IJSE-12-2021-0752  
+Fonseka, K., Jaharadak, A. A., & Raman, M. (2022b ). Impact of e-commerce adoption on 
+business performance of SMEs in Sri Lanka; moderating role of artificial intelligence. 
+International Journal of Social Economics , 49(10), 1518–1531. https://doi.org/10.1108/IJSE- 
+12-2021-0752  
+Giuggioli, G., & Pellegrini, M. M. (2023 ). Artificial intelligence as an enabler for entrepreneurs: 
+A systematic literature review and an agenda for future research. International Journal of 
+Entrepreneurial Behavior and Research , 29(4), 816–837. https://doi.org/10.1108/IJEBR-05-2021- 
+0426  
+Grashof, N., & Kopka, A. (2023 ). Artificial intelligence and radical innovation: An opportunity 
+for all companies? Small Business Economics , 61(2), 771–797. https://doi.org/10.1007/ 
+s11187-022-00698-3  
+Guebitz, B., Schnedl, H., & Khinast, J. G. (2012 ). A risk management ontology for quality-by- 
+design based on a new development approach according GAMP 5.0. Expert Systems with 
+Applications , 39(8), 7291–7301. https://doi.org/10.1016/j.eswa.2012.01.089  
+Haddoud, M. Y., Kock, N., Onjewu, A.-K. E., Jafari-Sadeghi, V., & Jones, P. (2023 ). Technology, 
+innovation and SMEs’ export intensity: Evidence from Morocco. Technological Forecasting & 
+Social Change , 191. https://doi.org/10.1016/j.techfore.2023.122475  
+Hamdan, I. K. A., Sumarliah, E., & Fauziyah, F. (2022 ). A machine learning method to predict 
+the technology adoption of blockchain in Palestinian firms. International Journal of 
+Emerging Markets , 17(4), 1008–1029. https://doi.org/10.1108/IJOEM-05-2021-0769  
+Hansen, E. B., & Bøgh, S. (2021 ). Artificial intelligence and internet of things in small and 
+medium-sized enterprises: A survey. Journal of Manufacturing Systems , 58(B), 362–372.  
+https://doi.org/10.1016/j.jmsy.2020.08.009  
+Hermann, I. (2023 ). Artificial intelligence in fiction: Between narratives and metaphors. AI & 
+Society , 38(1), 319–329. https://doi.org/10.1007/s00146-021-01299-6  
+Hermawati, A., & Gunawan, E. (2021 ). The implementation of dynamic capabilities for small and 
+medium-sized enterprises in creating innovation. VINE Journal of Information and Knowledge 
+Management Systems , 51(1), 92–108. https://doi.org/10.1108/VJIKMS-08-2019-0121  
+Hervás-Oliver, J.-L., Parrilli, M. D., Rodríguez-Pose, A., & Sempere-Ripoll, F. (2021 ). The 
+drivers of SME innovation in the regions of the EU. Research Policy , 50(9), 104316. https:// 
+doi.org/10.1016/j.respol.2021.104316  
+Hindel, J., Cabrera, L. M., & Stierle, M. (2020 ). Robotic process automation: Hype or hope? In 
+Z. Tracks (Ed.), Wirtschaftsinformatik (pp. 1750–1762). https://doi.org/10.30844/wi_2020_r6- 
+hindel  
+Hoang, T. G., & Bui, M. L. (2023 ). Business intelligence and analytic (BIA) stage-of-practice in 
+micro-, small- and medium-sized enterprises (MSMEs). Journal of Enterprise Information 
+Management , 36(4), 1080–1104. https://doi.org/10.1108/JEIM-01-2022-0037  
+Hofmann, P., Samp, C., & Urbach, N. (2020 ). Robotic process automation. Electronic Markets , 
+30(1), 99–106. https://doi.org/10.1007/s12525-019-00365-8  
+Hossain, M. A., & Quaddus, M. (2012 ). Expectation–confirmation theory in information system 
+research: A review and analysis (Vol. 28). Springer. https://doi.org/10.1007/978-1-4419- 
+6108-2_21  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1323Huin, S. F., Luong, L. H. S., & Abhary, K. (2003 ). Knowledge-based tool for planning of 
+enterprise resources in ASEAN SMEs. Robotics and Computer-Integrated Manufacturing , 19 
+(5), 409–414. https://doi.org/10.1016/S0736-5845(02)00033-9  
+Hunter, S. (2019 ). Leveraging artificial intelligence and big data to unlock the potential in 
+bespoke SME lending. Journal of Digital Banking , 4(2), 111–118.
+Hwang, W.-S., & Kim, H.-S. (2022 ). Does the adoption of emerging technologies improve 
+technical efficiency? Evidence from Korean manufacturing SMEs. Small Business Economics , 
+59(2), 627–643. https://doi.org/10.1007/s11187-021-00554-w  
+Ichim Somogyi, D. (2020 ). Enterprise’s digital transformation—digital technologies incorpo -
+rated by European Union’s businesses. Annales Universitatis Apulensis Series Oeconomica , 
+22(2), 169–177. https://doi.org/10.29302/oeconomica.2020.22.2.15  
+Ipinnaiye, O., Dineen, D., & Lenihan, H. (2017 ). Drivers of SME performance: A holistic and 
+multivariate approach. Small Business Economics , 48(4), 883–911. https://doi.org/10.1007/ 
+s11187-016-9819-5  
+Jang, H.-H., Phuong, H. T., Vo, T.-T.-T., & Gim, G. (2022 ). TOE model analysis for AI vision 
+open API. International Journal of Software Innovation , 10(1), 1–16. https://doi.org/10.4018/ 
+IJSI.297509  
+Jones, M. V., Coviello, N., & Tang, Y. K. (2011 ). International entrepreneurship research 
+(1989–2009): A domain ontology and thematic analysis. Journal of Business Venturing , 26 
+(6), 632–659. https://doi.org/10.1016/j.jbusvent.2011.04.001  
+Jun, S.-P., Yoo, H. S., & Hwang, J. (2021 ). A hybrid recommendation model for successful R&D 
+collaboration: Mixing machine learning and discriminant analysis. Technological Forecasting 
+& Social Change , 170, 120871. https://doi.org/10.1016/j.techfore.2021.120871  
+Jüngling, S., Fetai, I., Rogger, A., Morandi, D., & Peraic, M. (2022 ). On the track to application 
+architectures in public transport service companies. Applied Sciences , 12(12), 6073. https:// 
+doi.org/10.3390/app12126073  
+Jutasompakorn, P., Perdana, A., & Balachandran, V. (2023 ). Enhancing decision making with 
+machine learning: The case of aurora crowdlending platform. Journal of Information 
+Technology Teaching Cases , 13(1), 58–66. https://doi.org/10.1177/20438869211060847  
+Kemendi, Á., Michelberger, P., & Mesjasz-Lech, A. (2022 ). Industry 4.0 and 5.0—organiza -
+tional and competency challenges of enterprises. Polish Journal of Management Studies , 26 
+(2), 209–232. https://doi.org/10.17512/pjms.2022.26.2.13  
+Khan, A. A., Laghari, A. A., Li, P., Dootio, M. A., & Karim, S. (2023 ). The collaborative role of 
+blockchain, artificial intelligence, and industrial internet of things in digitalization of small 
+and medium-size enterprises. Scientific Reports , 13(1), 1656. https://doi.org/10.1038/s41598- 
+023-28707-9  
+Khan, N. A., Khan, A. N., Bahadur, W., & Ali, M. (2021 ). Mobile payment adoption: A 
+multi-theory model, multi-method approach and multi-country study. International 
+Journal of Mobile Communications , 19(4), 467. https://doi.org/10.1504/IJMC.2021.116119  
+Khan, R. U., Richardson, C., & Salamzadeh, Y. (2022 ). Spurring competitiveness, social and 
+economic performance of family-owned SMEs through social entrepreneurship; a multi- 
+analytical SEM & ANN perspective. Technological Forecasting & Social Change , 184, N.PAG.  
+https://doi.org/10.1016/j.techfore.2022.122047  
+Kim, J.-S., & Seo, D. (2023 ). Foresight and strategic decision-making framework from artificial 
+intelligence technology development to utilization activities in small-and-medium-sized 
+enterprises. Foresight , 25(6), 769–787. https://doi.org/10.1108/FS-06-2022-0069  
+Koppel, T., & Tšernikova, O. (2023 ). Factors affecting the SME ability to enter the AI 
+revolution. EUAS Conference Proceedings , Tallinn, Estonia. (p. 12).1324
+ J. SCHWAEKE ET AL.Korherr, P., Kanbach, D., Kraus, S., & Jones, P. (2022 ). The role of management in fostering 
+analytics: The shift from intuition to analytics-based decision-making. Journal of Decision 
+Systems , 1–17. https://doi.org/10.1080/12460125.2022.2062848 
+Kraus, S., Bouncken, R. B., & Yela Aránega, A. (2024 ). The burgeoning role of literature review 
+articles in management research: An introduction and outlook. Review of Managerial 
+Science , 18(2), 299–314. https://doi.org/10.1007/s11846-024-00729-1  
+Kraus, S., Breier, M., Lim, W. M., Dabić, M., Kumar, S., Kanbach, D., Mukherjee, D., 
+Corvello, V., Piñeiro-Chousa, J., Liguori, E., Palacios-Marqués, D., Schiavone, F., 
+Ferraris, A., Fernandes, C., & Ferreira, J. J. (2022 ). Literature reviews as independent studies: 
+Guidelines for academic practice. Review of Managerial Science , 16(8), 2577–2595. https:// 
+doi.org/10.1007/s11846-022-00588-8  
+Kraus, S., Mahto, R. V., & Walsh, S. T. (2023 ). The importance of literature reviews in small 
+business and entrepreneurship research. Journal of Small Business Management , 61(3), 
+1095–1106. https://doi.org/10.1080/00472778.2021.1955128  
+Kraus, S., Mitter, C., Eggers, F., & Stieg, P. (2017 ). Drivers of internationalization success: 
+A conjoint choice experiment on German SME managers. Review of Managerial Science , 11 
+(3), 691–716. https://doi.org/10.1007/s11846-016-0201-4  
+Kucharska, W., & Bedford, D. A. D. (2020 ). Love your mistakes!—They help you adapt to 
+change. How do knowledge, collaboration and learning cultures foster organizational 
+intelligence? Journal of Organizational Change Management , 33(7), 1329–1354. https://doi. 
+org/10.1108/JOCM-02-2020-0052  
+Łabędzka, J. (2021 ). Industry 4.0—policy-based approaches to efficient implementation in 
+SMEs. Engineering Management in Production and Services , 13(4), 72–78. https://doi.org/ 
+10.2478/emj-2021-0032  
+Lee, C. S., & Tajudeen, F. P. (2020 ). Usage and impact of artificial intelligence on accounting: 
+213 evidence from Malaysian organisations. Asian Journal of Business and Accounting , 13(1), 
+213–240. https://doi.org/10.22452/ajba.vol13no1.8  
+Lee, S. W., & Lee, H. S. (2014 ). A study of an integrated model for the introduction of a big data 
+system: TOE. The Journal of the Korea Society of Information Technology Applications , 21(4), 
+463–483.
+Lemos, S. I. C., Ferreira, F. A. F., Zopounidis, C., Galariotis, E., & Ferreira, N. C. M. Q. F. 
+(2022 ). Artificial intelligence and change management in small and medium-sized enter -
+prises: An analysis of dynamics within adaptation initiatives. Annals of Operations Research , 
+1–27. https://doi.org/10.1007/s10479-022-05159-4  
+Liu, B. (2023 ). Integration of novel uncertainty model construction of green supply chain 
+management for small and medium-sized enterprises using artificial intelligence. Optik , 273, 
+273. https://doi.org/10.1016/j.ijleo.2022.170411  
+Lu, Q., Zhou, Y., Luan, Z., & Song, H. (2024 ). The effect of SMEs’ ambidextrous innovations on 
+supply chain financing performance: Balancing effect and moderating effect. International 
+Journal of Operations & Production Management , 44(2), 424–461. https://doi.org/10.1108/ 
+IJOPM-10-2022-0684  
+Lu, X., Wijayaratna, K., Huang, Y., & Qiu, A. (2022 ). AI-enabled opportunities and transfor -
+mation challenges for SMEs in the post-pandemic era: A review and research agenda. 
+Frontiers in Public Health , 10, 885067. https://doi.org/10.3389/fpubh.2022.885067  
+Lv, D. D., Zeng, P., & Lan, H. (2018 ). Co-patent, financing constraints, and innovation in 
+SMEs: An empirical analysis using market value panel data of listed firms. Journal of 
+Engineering and Technology Management , 48, 15–27. https://doi.org/10.1016/j.jengtecman. 
+2018.02.001  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1325Ma, Z., Wang, X., & Hao, Y. (2023 ). Development and application of a hybrid forecasting 
+framework based on improved extreme learning machine for enterprise financing risk. 
+Expert Systems with Applications , 215. https://doi.org/10.1016/j.eswa.2022.119373  
+Mancheva, G. (2021 ). European Union regulatory framework on artificial intelligence (SMEs). 
+The Journal of Development Studies , 9922 , 20–25. https://doi.org/10.52340/jds.2021.03  
+Merhi, M. I., & Harfouche, A. (2023 ). Enablers of artificial intelligence adoption and imple -
+mentation [in press] systems. International Journal of Production Research , 62(15), 
+5457–5471. https://doi.org/10.1080/00207543.2023.2167014  
+Merkel-Kiss, M., & von Garrel, J. (2022 ). Systematische literaturanalyse zum ki-Einsatz und ki- 
+basierten geschäftsmodellen in produzierenden kleinen und mittleren Unternehmen. 
+Zeitschrift Für Arbeitswissenschaft , 77(3), 453–468. https://doi.org/10.1007/s41449-022- 
+00323-9  
+Miller, D. (1983 ). The correlates of entrepreneurship in three types of firms. Management 
+Science , 29(7), 770–791. https://doi.org/10.1287/mnsc.29.7.770  
+Mittal, N., Saif, I., & Ammanath, B. (2022 ). Fueling the AI transformation: Four key actions 
+powering widespread value from AI, right now. In Deloitte’s state of AI in the enterprise (5th 
+[Report]. Retrieved August 20, 2023, from. https://www2.deloitte.com/content/dam/ 
+Deloitte/us/Documents/deloitte-analytics/us-ai-institute-state-of-ai-fifth-edition.pdf 
+Moeuf, A., Lamouri, S., Pellerin, R., Tamayo-Giraldo, S., Tobon-Valencia, E., & Eburdy, R. 
+(2020 ). Identification of critical success factors, risks and opportunities of industry 4.0 in 
+SMEs. International Journal of Production Research , 58(5), 1384–1400. https://doi.org/10. 
+1080/00207543.2019.1636323  
+Mount, M., & Martinez, M. G. (2014 ). Social media: A tool for open innovation. California 
+Management Review , 56(4), 124–143. https://doi.org/10.1525/cmr.2014.56.4.124  
+Nagy, M., Lăzăroiu, G., & Valaskova, K. (2023 ). Machine intelligence and autonomous robotic 
+technologies in the corporate context of SMEs: Deep learning and virtual simulation 
+algorithms, cyber-physical production networks, and industry 4.0-based manufacturing 
+systems. Applied Sciences , 13(3), 1681. https://doi.org/10.3390/app13031681  
+Nguyen, T. H., Le, X. C., & Vu, T. H. L. (2022 ). An extended technology-organization- 
+environment (TOE) framework for online retailing utilization in digital transformation: 
+Empirical evidence from Vietnam. Journal of Open Innovation: Technology, Market, and 
+Complexity , 8(4), 200. https://doi.org/10.3390/joitmc8040200  
+Njoku, C., Green Hofer, S., Sathyamoorthy, G., Patel, N., & Potts, H. W. (2023 ). The role of 
+accelerator programmes in supporting the adoption of digital health technologies: 
+A qualitative study of the perspectives of small- and medium-sized enterprises. Digital 
+Health , 9, 20552076231173304. https://doi.org/10.1177/20552076231173303  
+Organization for Economic Co-operation and Development. (2020 ). Financing SMEs and 
+entrepreneurs 2020: An OECD scoreboard . Retrieved August 20, 2023, from. https://www. 
+oecd.org/industry/smes/SMEs-Scoreboard-2020-Highlights-2020-FINAL.pdf 
+Orr, G. (2003 ). Diffusion of innovations, by Everett Rogers. (1995) . January 21, 2005.
+Öztürk, O., Kocaman, R., & Kanbach, D. K. (2024 ). How to design bibliometric research: An 
+overview and a framework proposal. Review of Managerial Science . https://doi.org/10.1007/ 
+s11846-024-00738-0  
+Pelekamoyo, J. K., & Libati, H. M. (2023 ). Considerations of an efficiency-intelligent 
+geo-localised mobile application for personalised SME market predictions. Measurement 
+and Control , 56(9–10), 1788–1797. https://doi.org/10.1177/00202940231186675  
+Polas, M. R. H., Afshar Jahanshahi, A., Kabir, A. I., Sohel-Uz-Zaman, A. S. M., Osman, A. R., & 
+Karim, R. (2022 ). Artificial intelligence, blockchain technology, and risk-taking behavior in 
+the 4.0IR metaverse era: Evidence from Bangladesh-based SMEs. Journal of Open 
+Innovation , 8(3), N.PAG. 168. https://doi.org/10.3390/joitmc8030168  1326
+ J. SCHWAEKE ET AL.Polisetty, A., Chakraborty, D., Kar, A. K., & Pahari, S. (2023 ). What determines AI adoption in 
+companies? mixed-method evidence. Journal of Computer Information Systems , 64(3), 
+370–387. https://doi.org/10.1080/08874417.2023.2219668  
+Pošćić, A., & Martinović, A. (2022 ). Regulatory sandboxes under the draft EU artificial 
+intelligence act: An opportunity for SMEs? InterEulaweast Journal for International & 
+European Law, Economics & Market Integrations , 9(2), 71–117. https://doi.org/10.22598/ 
+iele.2022.9.2.3  
+Publication 334 (2023), tax guide for small business. (2023 ). Internal revenue service . https:// 
+www.irs.gov/publications/p334 
+Qu, S., Shi, H., Zhao, H., Yu, L., & Yu, Y. (2021 ). Research on enterprise business model and 
+technology innovation based on artificial intelligence. EURASIP Journal on Wireless 
+Communications and Networking , 2021 (1), 145. https://doi.org/10.1186/s13638-021-02025-y  
+Quansah, E., & Hartz, D. E. (2022 ). Strategic adaption: Leadership lessons for small business 
+survival and success. American Journal of Business , 36(3), 190–207. https://doi.org/10.1108/ 
+AJB-07-2020-0096  
+Quansah, E., Hartz, D. E., & Salipante, P. (2021 ). Adaptive practices in SMEs: Leveraging 
+dynamic capabilities for strategic adaption. Journal of Small Business and Enterprise 
+Development , 29(7), 1130–1148. https://doi.org/10.1108/JSBED-07-2021-0269  
+Ragab, A., Osama, A., & Ramzy, A. (2023 ). Simulation of the environmental impact of 
+industries in smart cities. Ain Shams Engineering Journal , 14(6), 102103. https://doi.org/ 
+10.1016/j.asej.2022.102103  
+Rao, P., Kumar, S., Chavan, M., & Lim, W. M. (2023 ). A systematic literature review on SME 
+financing: Trends and future directions. Journal of Small Business Management , 61(3), 
+1247–1277. https://doi.org/10.1080/00472778.2021.1955123  
+Rawashdeh, A., Bakhit, M., & Abaalkhail, L. (2023 ). Determinants of artificial intelligence 
+adoption in SMEs: The mediating role of accounting automation. International Journal of 
+Data & Network Science , 7(1), 25–34. https://doi.org/10.5267/j.ijdns.2022.12.010  
+Ribeiro, J., Lima, R., Eckhardt, T., & Paiva, S. (2021 ). Robotic process automation and artificial 
+intelligence in industry 4.0—A literature review. Procedia Computer Science , 181, 51–58.  
+https://doi.org/10.1016/j.procs.2021.01.104  
+Rikhardsson, P., Thórisson, K. R., Bergthorsson, G., & Batt, C. (2022 ). Artificial intelligence 
+and auditing in small ‐ and medium ‐sized firms: Expectations and applications. AI Magazine , 
+43(3), 323–336. https://doi.org/10.1002/aaai.12066  
+Rizomyliotis, I., Kastanakis, M. N., Giovanis, A., Konstantoulaki, K., & Kostopoulos, I. (2022 ). 
+‘How mAy I help you today?’ the use of AI chatbots in small family businesses and the 
+moderating role of customer affective commitment. Journal of Business Research , 153, 
+329–340. https://doi.org/10.1016/j.jbusres.2022.08.035  
+Rojas-Córdova, C., Heredia-Rojas, B., & Ramírez-Correa, P. (2020 ). Predicting business inno -
+vation intention based on perceived barriers: A machine learning approach. Symmetry , 12 
+(9), 20738994. https://doi.org/10.3390/sym12091381  
+Salmen, A. (2022 ). Employing rpa and ai to automize order entry process with individual and 
+small-sized structures: A sme business case study. Acta Academica Karviniensia , 22(2), 
+78–96. https://doi.org/10.25142/aak.2022.017  
+Sarwar, Z., Gao, J., & Khan, A. (2023 ). Nexus of digital platforms, innovation capability, and 
+strategic alignment to enhance innovation performance in the Asia Pacific region: 
+A dynamic capability perspective. Asia-Pacific Journal of Management , 41(2), 867–901.  
+https://doi.org/10.1007/s10490-023-09879-4  
+Sauer, P. C., & Seuring, S. (2023 ). How to conduct systematic literature reviews in management 
+research: A guide in 6 steps and 14 decisions. Review of Managerial Science , 17(5), 
+1899–1933. https://doi.org/10.1007/s11846-023-00668-3  JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1327Savadogo, M., & Stonis, M. (2023 ). Befähigung von KMU zur Nutzung von machine-learning- 
+Potenzialen. Zeitschrift Für Wirtschaftlichen Fabrikbetrieb , 118(4), 276–279. https://doi.org/ 
+10.1515/zwf-2023-1053  
+Schönberger, M. (2023 ). Artificial intelligence for small and medium-sized enterprises: 
+Identifying key applications and challenges. Journal of Business Management , 21, 89–112.  
+https://doi.org/10.32025/JBM23004  
+Schwertner, K. (2017 ). Digital transformation of business. Trakia Journal of Sciences , 15 
+(Supp1), 388–393. https://doi.org/10.15547/tjs.2017.s.01.065 
+Siahaan, D. T., & Tan, C. S. L. (2022 ). What drives the adaptive capability of Indonesian SMEs 
+during the covid-19 pandemic: The interplay between perceived institutional environment, 
+entrepreneurial orientation, and digital capability. Asian Journal of Business Research , 12(2), 
+8–27. https://doi.org/10.14707/ajbr.220125  
+Soori, M., Arezoo, B., & Dastres, R. (2023 ). Artificial intelligence, machine learning and deep 
+learning in advanced robotics, a review. Cognitive Robotics , 3, 54–70. https://doi.org/10. 
+1016/j.cogr.2023.04.001  
+Sousa, M. J., & Wilks, D. (2018 ). Sustainable skills for the world of work in the digital age. 
+Systems Research & Behavioral Science , 35(4), 399–405. https://doi.org/10.1002/sres.2540  
+Teerasoponpong, S., & Sopadang, A. (2022 ). Decision support system for adaptive sourcing 
+and inventory management in small- and medium-sized enterprises. Robotics and 
+Computer-Integrated Manufacturing , 73, 73. https://doi.org/10.1016/j.rcim.2021.102226  
+Tornatzky, L. G., Eveland, J. D., Boylan, M. G., Hetzner, W. A., Johnson, E. C., Roitman, D., & 
+Schneider, J. (1983 ). The process of technological innovation: Reviewing the literature .
+Tornatzky, L. G., & Fleischer, M. (1990 ). The processes of technological innovation . Lexington 
+Books.
+Tranfield, D., Denyer, D., & Smart, P. (2003 ). Towards a methodology for developing 
+evidence-informed management knowledge by means of systematic review. British Journal 
+of Management , 14(3), 207–222. https://doi.org/10.1111/1467-8551.00375  
+Treiblmaier, H. (2018 ). The impact of the blockchain on the supply chain: A theory-based 
+research framework and a call for action. Supply Chain Management , 23(6), 545–559.  
+https://doi.org/10.1108/SCM-01-2018-0029  
+Truby, J., Brown, R. D., Ibrahim, I. A., & Parellada, O. C. (2022 ). A sandbox approach to 
+regulating high-risk artificial intelligence applications. European Journal of Risk Regulation , 
+13(2), 270–294. https://doi.org/10.1017/err.2021.52  
+Tsai, K.-H., & Wang, J.-C. (2008 ). External technology acquisition and firm performance: 
+A longitudinal study. Journal of Business Venturing , 23(1), 91–112. https://doi.org/10.1016/j. 
+jbusvent.2005.07.002  
+Turcu, C. E., & Turcu, C. O. (2021 ). Digital transformation of human resource processes in 
+small and medium sized enterprises using robotic process automation. International Journal 
+of Advanced Computer Science & Applications , 12(12). https://doi.org/10.14569/IJACSA. 
+2021.0121210  
+U.S. Small Business Administration. (n.d.). Size standards . https://www.sba.gov/federal- 
+contracting/contracting-guide/size-standards#id-size-standards-define-small-business 
+Venkatesh, V., Morris, M., Davis, G., & Davis, F. (2003 ). User acceptance of information 
+technology: Toward a unified view. MIS Quarterly , 27(3), 14–29. https://doi.org/10.2307/ 
+30036540  
+Venkateswarlu, Y., Baskar, K., Wongchai, A., Gauri Shankar, V., Paolo Martel Carranza, C., 
+Gonzáles, J. L. A., & Murali Dharan, A. R. (2022 ). An efficient outlier detection with deep 
+learning-based financial crisis prediction model in big data environment. Computational 
+Intelligence and Neuroscience , 2022 , 4948947. https://doi.org/10.1155/2022/4948947  1328
+ J. SCHWAEKE ET AL.von Garrel, J., & Jahn, C. (2022 ). Design framework for the implementation of AI-based 
+(service) business models for small and medium-sized manufacturing enterprises. Journal 
+of the Knowledge Economy , 1–19. https://doi.org/10.1007/s13132-022-01003-z  
+Wang, J., Lu, Y., Fan, S., Hu, P., & Wang, B. (2022 ). How to survive in the age of artificial 
+intelligence? Exploring the intelligent transformations of SMEs in central China. 
+International Journal of Emerging Markets , 17(4), 1143–1162. https://doi.org/10.1108/ 
+IJOEM-06-2021-0985  
+Wang, K.-L., Sun, T.-T., & Xu, R.-Y. (2023 ). The impact of artificial intelligence on total factor 
+productivity: Empirical evidence from China’s manufacturing enterprises. Economic Change 
+and Restructuring , 56(2), 1113–1146. https://doi.org/10.1007/s10644-022-09467-4  
+Weber, P. (2023 ). Unrealistic optimism regarding artificial intelligence opportunities in human 
+resource management. International Journal of Knowledge Management , 19(1), 1–19.  
+https://doi.org/10.4018/IJKM.317217  
+Whitson, G. M. (2024 ). Artificial intelligence . Salem Press Encyclopedia of Science.
+Worek, M., & Aaltonen, P. (2023 ). AI adoption challenges in manufacturing family firms: Case 
+study. Proceedings of the ISPIM Conferences (pp. 1–10), Ljubljana, Slovenia.
+World Economic Forum. (2020 ). The future of jobs report . Retrieved August 20, 2023, from. 
+http://www3.weforum.org/docs/WEF_Future_of_Jobs_2020.pdf 
+Zaušková, A., Kusá, A., Kubovics, M., Ščepková, S., & Urmínová, M. (2022 ). Current state and 
+prediction of the future of digitization as a part of industry 4.0. Serbian Journal of 
+Management , 17(1), 111–123. https://doi.org/10.5937/sjm17-36468  
+Zhang, D., Pee, L. G., & Cui, L. (2021 ). Artificial intelligence in e-commerce fulfillment: A case 
+study of resource orchestration at AliBaba’s smart warehouse. International Journal of 
+Information Management , 57, 102304. https://doi.org/10.1016/j.ijinfomgt.2020.102304  
+Zhang, W., Yan, S., Li, J., Tian, X., & Yoshida, T. (2022 ). Credit risk prediction of SMEs in 
+supply chain finance by fusing demographic and behavioral data. Transportation Research 
+Part E, 158, 102611. https://doi.org/10.1016/j.tre.2022.102611  
+Zhu, K., Kraemer, K. L., Xu, S., & Dedrick, J. (2004 ). Information technology payoff in 
+e-business environments: An international perspective on value creation of e-business in 
+the financial services industry. Journal of Management Information Systems , 21(1), 17–54.  
+https://doi.org/10.1080/07421222.2004.11045797
+Appendices
+Appendix A.Databases
+Database Number of Articles
+Academic Search Index 1
+Business Source Ultimate 26
+Complementary Index 26
+ECONIS 3
+Emerald Insight 13
+MEDLINE 2
+ScienceDirect 21
+Springer Nature Journals 14
+106JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1329Appendix B.Consolidated search results from EBSCO and Web of Science
+Number Search Term I Search Term II FieldNumber of 
+ResultsPeer Reviewed 
+and English
+1. artificial intelligence smes or small and medium- 
+sized enterprisesTitle 4 3
+2. artificial intelligence smes or small and medium- 
+sized enterprisesSubject Term 6 6
+3. artificial intelligence smes or small and medium- 
+sized enterprisesAbstract 180 147
+4. artificial intelligence sme Title 144 99
+5. artificial intelligence sme Subject Term 60 51
+6. artificial intelligence sme Abstract 648 378
+7. artificial intelligence small business Title 82 6
+8. artificial intelligence small business Subject Term 976 381
+9. artificial intelligence small business Abstract 1,322 738
+10. ai smes Title 339 75
+11. ai smes Subject Term 33 18
+12. ai smes Abstract 984 465
+13. ai sme Title 339 75
+14. ai sme Subject Term 33 18
+15. ai sme Abstract 726 441
+16. ai small business Title 498 18
+17. ai small business Subject Term 15 6
+18. ai small business Abstract 1,572 501
+19. deep learning smes or small and medium- 
+sized enterprisesTitle 0 0
+20. deep learning smes or small and medium- 
+sized enterprisesSubject Term 0 0
+21. deep learning smes or small and medium- 
+sized enterprisesAbstract 93 63
+22. deep learning sme Title 3 3
+23. deep learning sme Subject Term 6 0
+24. deep learning sme Abstract 219 171
+25. deep learning small business Title 6 3
+26. deep learning small business Subject Term 60 51
+27. deep learning small business Abstract 561 351
+28. machine learning smes or small and medium- 
+sized enterprisesTitle 3 3
+29. machine learning smes or small and medium- 
+sized enterprisesSubject Term 6 0
+30. machine learning smes or small and medium- 
+sized enterprisesAbstract 288 210
+31. machine learning sme Title 144 114
+32. machine learning sme Subject Term 42 24
+33. machine learning sme Abstract 729 254
+34. machine learning small business Title 75 9
+35. machine learning small business Subject Term 654 201
+36. machine learning small business Abstract 1,698 885
+12,548 5,7681330
+ J. SCHWAEKE ET AL.Appendix C.Articles by cluster based on elaborations of the authors
+Compatibility Infrastructure Knowledge Resources
+Almeida and Wasim (2023 ) Albats et al. (2023 ) Bagale et al. (2023 ) Abualsauod (2023 )
+Babucea and Rabontu (2022 ) Barczak et al. (2019 ) Choudrie et al. (2023 )Baabdullah et al. (2021 )
+Camacho-Miñano et al. (2015 )Barton and Thomas (2009 ) Christen et al. (2022 ) Bettoni et al. (2021 )
+Chatterjee et al. (2022 ) Chowdhury et al. (2023 ) Grashof and Kopka 
+(2023 )Das and Bala (2023 )
+Cho and Ju (2023 ) Dabić et al. (2023 ) Huin et al. (2003 ) Dörr et al. (2023 )
+Drydakis (2022 ) Dedhia (2021 ) Łabędzka (2021 ) Faqihi and Miah (2023 )
+Escobar et al. (2023 ) Delen et al. (2013 ) Lv et al. (2018 ) Guebitz et al. (2012 )
+Fatima and Bilal (2019 ) Denicolai et al. (2021 ) Ma et al. (2023 ) Khan et al. (2023 )
+Hansen and Bøgh (2021 ) Denning (2020 ) von Garrel and Jahn 
+(2022 )Kraus et al. (2017 )
+Hoang and Bui (2023 ) Hervás-Oliver et al. (2021 ) Zaušková et al. (2022 )Lemos et al. (2022 )
+Hunter (2019 ) Ichim Somogyi (2020 ) Liu (2023 )
+Jutasompakorn et al. (2023 ) Jüngling et al. (2022 ) Rao et al. (2023 )
+Kim and Seo (2023 ) Polas et al. (2022 ) Rawashdeh et al. (2023 )
+Nagy et al. (2023 ) Polisetty et al. (2023 ) Rojas-Córdova et al. 
+(2020 )
+Pelekamoyo and Libati (2023 )Savadogo and Stonis (2023 ) Sousa and Wilks (2018 )
+Salmen (2022 ) Siahaan and Tan (2022 ) Venkateswarlu et al. 
+(2022 )
+Sarwar et al. (2023 ) Zhang et al. (2022 )
+Schönberger (2023 )
+Teerasoponpong and 
+Sopadang (2022 )
+Culture Competition Regulation Ecosystem
+Abrokwah-Larbi (2024 ) Albats et al. (2020 ) Boubaker et al. (2023 )Haddoud et al. (2023 )
+Abrokwah-Larbi and  
+Awuku-Larbi (2024 )Barata et al. (2023 ) Chen et al. (2021 ) Hermawati and Gunawan 
+(2021 )
+Ballestar et al. (2021 ) Calheiros-Lobo et al. 
+(2023 )Dey et al. (2023 ) Jun et al. (2021 )
+bin Ahmad et al. (2019 ) Chaudhuri et al. (2022 ) Hwang and Kim (2022 )Khan et al. (2021 )
+Calabrese et al. (2023 ) Fonseka et al. (2022a ) Mancheva (2021 ) Koppel and Tšernikova 
+(2023 )
+Giuggioli and Pellegrini (2023 ) Merkel-Kiss and von Garrel 
+(2022 )Pošćić and Martinović 
+(2022 )Mount and Martinez 
+(2014 )
+Hamdan et al. (2022 ) Rizomyliotis et al. (2022 ) Truby et al. (2022 ) Qu et al. (2021 )
+Ipinnaiye et al. (2017 ) Wang et al. (2022 ) K.-L. Wang et al. (2023 )Ragab et al. (2023 )
+Kemendi et al. (2022 ) Tsai and Wang (2008 )
+Khan et al. (2022 )
+Kucharska and Bedford (2020 )
+Lu et al. (2022 )
+Lu et al. (2024 )
+Merhi and Harfouche (2023 )
+Njoku et al. (2023 ) 
+Quansah and Hartz (2022 ) 
+Quansah et al. (2021 )
+Rikhardsson et al. (2022 )
+Weber (2023 )JOURNAL OF SMALL BUSINESS MANAGEMENT
+ 1331

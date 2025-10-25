@@ -1,0 +1,2617 @@
+ 
+  
+1 
+  
+ 
+Einsatz- und Akzeptanzanalyse von KI -basierten 
+Wissenszugängen in KMU am  
+Beispiel einer semantischen Suche  
+ 
+ 
+  
+  
+  
+Wissenschaft spartner:  Anwendungspartner:  
+ 
+  
+2 Einsatz- und Akzeptanzanalyse von KI-ba-
+sierten Wissenszugängen in KMU am  Bei-
+spiel einer semantischen Suche  
+Gemeinsamer Sachbericht  
+ 
+Autor:innen und beteiligte Organisationen  
+Timo Grüneke, Tobias Guggenberger, Kristina Hall, Tiana Langer, Simon Meierhöfer, Anna Maria Oberländer, Maximilian 
+Röglinger, Jan Stramm, Nils Urbach, Jana Wozar  
+Universit ät Bayreuth  
+Universitätsstraße 30  
+95447 Bayreuth  
+Frankfurt University of Applied Sciences  
+Nibelungenplatz 1  
+60318 Frankfurt  
+Projektpartner  und Förderkennzeichen  
+• Universität Bayreuth / 02L21B030  
+• Frankfurt University of Applied Sciences / 02L21B031  
+• Grimmer GmbH / 02L21B032  
+• Sigmund Lindner GmbH / 02L21B033  
+• SILOKING Mayer Maschinenbau GmbH / 02L21B034  
+• deepset GmbH / 02L21B035  
+Disclaimer  
+Dieses White paper wurde nach bestem Wissen und unter Einhaltung der nötigen Sorgfalt erstellt . Die genannten Orga-
+nisationen, ihre gesetzlichen Vertreter und/oder Erfüllungsgehilfen übernehmen keinerlei Garantie dafür, dass die In-
+halte dieses White papers gesichert, vollständig für bestimmte Zwecke brauchbar oder in sonstiger Weise frei von Feh-
+lern sind. Die Nutzung dieses White papers geschieht ausschließlich auf eigene Verantwortung.  In keinem Fall haften 
+die genannten Organisationen, ihre gesetzlichen Vertr eter und/oder Erfüllungsgehilfen für jegliche Schäden, seien sie 
+mittelbar oder unmittelbar, die aus der Nutzung des White papers resultieren.  
+Empfohlene Zitierweise  
+Grüneke, Timo; Guggenberger, Tobias; Hall, Kristina; Langer, Tiana; Meierhöfer, Simon; Oberländer, Anna Maria; Röglin-
+ger, Maximilian; Stramm, Jan; Urbach, Nils; Wozar, Jana (2025): Einsatz - und Akzeptanzanalyse von KI -basierten Wis-
+senszugängen in KMU am Beispiel einer semantischen Suche : Gemeinsamer Sachbericht . Universität Bayreuth , Frank-
+furt University of Applied Sciences .  
+https://doi.org/ 10.15495/EPub_UBT_00008414  
+Acknowledgments  
+Der gemeinsame  Sachbericht  entstand aus dem Projekt „Einsatz- und Akzeptanzanalyse von KI -basierten Wissenszu-
+gängen in KMU am Beispiel einer semantischen Suche“ (Projektakronym: KIWise). Das Projekt wurde im Kontext der 
+Maßnahme „Innovationen für die Produktion, Dienstleistung und Arbeit von morgen “ im Rahmen des Forschungs - und 
+Entwicklungsprogramms  „Zukunft der Arbeit“ durch das Bundesministerium für Bildung und Forschung (BMBF) geför-
+dert und den Projektträger Karlsruhe (PTKA) betreut. 
+Bildquellen  
+© www.shutterstock.de, www.stock.adobe.comExecutive Summary  
+  
+3 Executive Summary  
+Kleine und mittelständische Unternehmen ( KMU) spielen eine zentrale Rolle in der deutschen Wirtschaft . Gleichzeitig 
+stehen sie vor  Herausforderungen bei der fortschreitenden Digitalisierung, bedingt durch begrenzte Ressourcen und 
+eine oft unzureichende IT -Infrastruktur.  Um wettbewerbsfähig zu bleiben, müssen sich KMU einer grundlegende n Trans-
+formation ihrer Organisationsstrukturen und Technologielandschaft  unterziehen . Wissensmanagement und insbeson-
+dere der digitale Zugang zu Wissen sind dabei entscheidend.  
+Insbesondere p roduzierende KMU sind stark von wissensintensiven Prozessen abhängig, doch strukturiertes Wissens-
+management stellt eine Herausforderung dar  und wird daher oft vernachlässigt . Dies liegt an begrenzten Ressourcen, 
+fehlende m Bewusstsein für langfristige Vorteile, mangelnde r Expertise , unpassenden Fähigkeiten  und einer hohen ope-
+rativen Auslastung. In diesem Kontext  bieten digitale Technologien wie Künstliche Intelligenz (KI)  vielversprechende 
+technologische Lösungsansätze . Besonders die semantische Suche, als  Teilaspekt eines KI-basierten Wissensmana-
+gements, die den Kontext und die Bedeutung von Suchanfragen versteht, kann den Zugang zu Wissen erheblich verbes-
+sern und Inhalte präzise aufbereiten.  Dennoch wird die Art der Wissens - und Informationsbereitstellung in KMU selten 
+genutzt, was auf technologische, soziotechnische und unternehmensspe zifische Barrieren zurückzuführen ist.  
+Das Forschungsprojekt „Einsatz- und Akzeptanzanalyse von KI -basierten Wissenszugängen in KMU am Beispiel einer 
+semantischen Suche “ (KIWise), gefördert vom Bundesministerium für Bildung und Forschung (BMBF), untersuchte den 
+Einsatz und die Akzeptanz einer semantischen Suche  in KMU. Im Projekt wurden betriebliche Anwendungsfälle bei  drei 
+Anwendungspartnern identifiziert und analysiert, um „Good Practices “ zu ermitteln und potenzielle Auswirkungen auf 
+die funktionsübergreifende Zusammenarbeit im Unternehmen zu  verstehen.  Darüber hinaus bestätigte das For-
+schungsprojekt  die soziotechnischen Auswirkungen der Einführung als zentrales Handlungsfeld für einen wertstiften-
+den Einsatz von KI -basierten Anwendungen  für die Zukunft der Arbeit.  
+Zusammenfassend  präsentiert d ieses Whitepaper die wissenschaftlichen Ergebnisse de s Forschungsp rojekts und bie-
+tet Entscheidungsträgern in KMU praxisnahe Empfehlungen zur  wertorientierten  Einführung und Nutzung einer seman-
+tischen Suche.Inhalt  
+  
+4 Inhalt  
+Executive Summary  ................................ ................................ ................................ ................................ ................... 3 
+1 Einführung  ................................ ................................ ................................ ................................ .......................... 6 
+1.1 Motivation und Zielsetzung  ................................ ................................ ................................ .......................... 6 
+1.2 Das Konsortium ................................ ................................ ................................ ................................ ...........7 
+2 Grundlagen des KI -basierten Wissensmanagements ................................ ................................ .........................  11 
+2.1 Grundlagen des Wissensmanagements  ................................ ................................ ................................ ..... 11 
+2.2 Der Einsatz von KI im Wissensmanagement  ................................ ................................ ...............................  11 
+2.3 Technische Grundlagen  ................................ ................................ ................................ .............................  12 
+3 Projektablauf  ................................ ................................ ................................ ................................ ....................  16 
+3.1 Initiierung: Einsatzanalyse von KI -basierten Wissenszugängen  ................................ ................................ ... 16 
+3.2 Entscheidungsfindung: Prototypische Technologiekonfiguration  ................................ ................................  21 
+3.3 Implementierung: UI -Design von KI -basierten Suchlösungen  ................................ ................................ ..... 22 
+3.4 Soziotechnische Implikationen  ................................ ................................ ................................ ..................  25 
+4 Transferschablone  ................................ ................................ ................................ ................................ ............  29 
+4.1 Identifikation von Anwendungsfällen ................................ ................................ ................................ ..........  29 
+4.2 Bewertung und Auswahl von Anwendungsfällen  ................................ ................................ .........................  30 
+4.3 Implementierung und Optimierung von Anwendungsfällen  ................................ ................................ .........  31 
+4.4 Handlungsempfehlungen  ................................ ................................ ................................ .........................  32 
+5 Zusammenfassung und Ausblick  ................................ ................................ ................................ ......................  35 
+6 Literaturverzeichnis  ................................ ................................ ................................ ................................ ..........  36 
+ 
+ 
+ 
+ Executive Summary  
+  
+5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+1. Einführung  
+ Einführung  
+  
+6 1 Einführung   
+1.1 Motivation und Zielsetzung  
+Kleine und mitt elständische Unternehmen ( KMU) leis-
+ten einen signifikanten Beitrag zur gesamtwirtschaftli-
+chen Leistung  in Deutschland . Nichtsdestotrotz ste-
+hen sie durch die fortschreitende  Digitalisierung  unter 
+Druck (Etienne Fabian et al. 2024) . Denn die Digitalisie-
+rung verändert das Umfeld, in dem Unternehmen agie-
+ren mit einer ungeahnten Schnelligkeit.  Zusätzlich zu 
+dieser zentralen Herausforderung sehen sich KMU mit 
+begrenzte n personelle n Ressourcen  und üblicher-
+weise einer nur mäßig ausgeprägte n IT- sowie Datenin-
+frastruktur  konfrontiert . Dies führt im Vergleich zu 
+Großunternehmen zu einem strukturellen Nachteil  
+(Durst et al. 2021) . Um diesen Herausforderungen zu 
+begegnen und langfristig wettbewerbsfähig zu bleiben, 
+ist eine grundlegende digitale Transformation von Or-
+ganisationsstrukturen  und der Technologielandschaft 
+in KMU erforderlich  (Gimpel und Röglinger 2015) . 
+Angesichts der enormen Menge an verfügbaren Infor-
+mationen und deren exponentiellem Wachstum, mit 
+denen KMU konfrontiert sind, gewinn en das Wissens-
+management sowie der Zugang zu Wissen innerhalb 
+von KMU an Bedeutung.  Aufgrund der wissensintensi-
+ven Prozesse, auf die der Erfolg produzierender KMU 
+häufig zurückzuführen ist  (Bundesministerium für 
+Wirtschaft und Klimaschutz 2024) , wird es zunehmend 
+wichtiger, Wissen effektiv zu bündeln und allen Betei-
+ligten entlang der Wertschöpfungskette, einschließlich 
+neuer und unerfahrener Mitarbeit enden, gezielt zu-
+gänglich zu machen.  Technische Systeme können die-
+ses Ziel unterstützen,  um beispielsweise die Angebots-
+erstellung  für den Sondermaschinenbau zu beschleu-
+nigen. Hierbei werden technische Spezifikationen, 
+Kostenkalkulationen und rechtliche Anforderungen in 
+kurzer Zeit aufeinander abgestimmt. Ein zentrales Wis-
+sensmanagement -System unterstützt diesen Prozess, 
+indem es relevante Informationen wie frühere Ange-
+bote, technische Dokumentationen und Erfahrungsbe-
+richte aus abgeschlossenen Projekten bereitstellt. 
+Dadurch können sowo hl erfahrene als auch neue Mit-
+arbeitende schnell auf bestehendes Wissen zugreifen 
+und fundierte Entscheidungen treffen, was die Qualität 
+und Geschwindigkeit der Angebotserstellung erheb-
+lich steigert.  
+Für ein effektives und effizientes Wissensmanagement 
+müssen KMU sowohl interne als auch externe Informa-
+tionen schnell und effizient verarbeiten, verstehen und 
+hinsichtlich ihrer Relevanz für die Organisation bewer-
+ten. Erst durch die systematische Verarbeitung dieser 
+Informationen wird Wissen generiert, das für KMU von 
+essenzieller Bedeutung ist.  Wenn wir das Beispiel des 
+Angebots  für Sondermaschinen erneut aufgreifen, be-
+deutet das hier beispielsweise, dass  nicht nur interne 
+Daten wie frühere Angebote, Proje ktdokumentationen 
+und Erfahrungsberichte gesammelt, sondern auch ex-
+terne Informationen integriert  werden. Dazu gehören Marktanalysen, technische Innovationen, rechtliche 
+Rahmenbedingungen und Kundentrends. Das System 
+kann beispielsweise externe Datenquellen auswerten, 
+um neue Technologien oder geänderte regulatorische 
+Anforderungen frühzeitig zu erkennen und in die Ange-
+botserstellung einzubeziehen. Vertriebsmitarbeitende 
+könnten auf Basis dieser Informationen einschätzen, 
+ob ihre Kunden von einer neu entwic kelten Kompo-
+nente profitieren könnte n oder ob regionale Vorschrif-
+ten spezielle Anpassungen des Produkts erfordern.  
+Trotz seiner entscheidenden Bedeutung wird ein struk-
+turiertes Wissensmanagement in KMU häufig vernach-
+lässigt. Dies resultiert aus einer Kombination mehrerer 
+Herausforderungen, darunter begrenzte Ressourcen, 
+mangelnde s Bewusstsein für die langfristigen Vorteile, 
+ein Defizit an spezifischer Expertise sowie Zeitmangel 
+aufgrund hoher operativer Belastung  (Shaikh et al. 
+2021). Diese Faktoren hindern KMU daran, Wissens-
+management als strategischen Hebel zur Steigerung 
+der Effizienz, Innovationsfähigkeit und langfristigen 
+Wettbewerbsfähigkeit zu nutzen . 
+Digitale Technologien wie Künstliche Intelligenz  (KI) 
+bieten das Potenzial, diesen Herausforderungen ent-
+gegenzuwirken , indem sie komplexe Probleme lösen 
+und Erkenntnisse aus großen Datenmengen gewinnen  
+können (Jarrahi et al. 2023) . Eine konkrete technologi-
+sche Anwendung  in diesem Kontext ist die semanti-
+sche Suche, die durch ihr Verständnis von Bedeutung 
+und Kontext in Suchanfragen die Effizienz der Informa-
+tionsgewinnung und -verarbeitung verbessert  (Bast et 
+al. 2016) . Dadurch kann eine semantische  Suche das 
+Wissensmanagement in KMU maßgeblich  optimieren. 
+Im Gegensatz zu schlagwortbasierten Suchmethoden 
+ermöglicht die semantische Suche einen kontextsen-
+sitiven und intuitiven Zugriff auf umfangreiche Wis-
+sensquellen  (Goldschmidt und Krishnamoorthy 2007) . 
+Ihre Funktions weise wird in Abbildung 1 schematisch 
+dargestellt . Im Beispiel des Sondermaschinenbauers 
+zeigt sich der Vorteil der semantischen Suche beson-
+ders deutlich: Anstatt spezifische Schlagworte wie 
+„Hydrauliksystem“ oder „Automatisierung“ manuell 
+eingeben zu müssen, k önnen Vertriebsmitarbeitende 
+eine komplexe Anfrage stellen, etwa: „Welche Lösun-
+gen haben wir für Kunden in der Automobilindustrie mit 
+Fokus auf energieeffiziente Hydraulik entwickelt?“ . 
+Das Wissensmanagement -System durchsucht darauf-
+hin nicht nur Schlagworte, sondern analysiert den se-
+mantischen Konte xt der Anfrage. Es liefert Ergebnisse, 
+die technische Dokumentationen, Projekterfahrungen, 
+externe Marktberichte und Feedback von Kunden ver-
+knüpfen.  
+Obwohl die Vorteile der semantischen Suche offen-
+kundig sind  und auch Anwendungen  wie ChatGPT im 
+betrieblichen Alltag ihre Anwendung finden, fehlt die 
+gezielte, praktische Anwendung i n KMU. Die Gründe 
+hierfür sind vielfältig und b einhalten ein mangelndes Einführung  
+  
+7 technologisches Verständnis für den Einsatz in be-
+trieblichen Prozessen, unternehmensspezifische Bar-
+rieren, Kapazitätsbeschränkungen sowie soziotechni-
+sche Faktoren wie die Bereitschaft und Motivation der 
+Mitarbeite nden, die Technologien zu nutzen.  
+Hier setzt e das Forschungsprojekt „Einsatz- und Ak-
+zeptanzanalyse von KI -basierten Wissenszugängen in 
+KMU am Beispiel einer semantischen Suche “ (Projek-
+takronym: KIWise)  an. Das Projekt wurde im Kontext 
+der Maßnahme  „Innovationen für die Produktion, 
+Dienstleistung und Arbeit von morgen “ im Rahmen des 
+Forschungs - und Entwicklungsprogramms „Zukunft 
+der Arbeit“ durch das Bundesministerium für Bildung 
+und Forschung (BMBF)  gefördert  und das PTKA Pro jekt-
+träger Karlsruhe betreut . Das Programm zielt darauf ab , 
+KMU in die Lage zu versetzen, sich effektiv an das sich 
+verändernde  Arbeitsumfeld anzupassen und gleichzei-
+tig soziale Ausgewogenheit zu gewährleisten und un-
+ternehmerische Chancen zu fördern.  
+Fokus des Projekts war es, den Einsatz und die Akzep-
+tanz einer semantischen Suche im Wissensmanage-
+ment für KMU auf integrierte Weise zu erforschen und 
+Unternehmen bei der Implementierung dieser Techno-
+logien zu unterstützen.  Gemeinsam mit wissenschaft-
+lichen Forschungseinrichtungen , Anwendungspart-
+nern, und Technologiepartnern  wurde im  Detail er-
+forscht, wie eine semantische Such e organisatorische 
+Prozesse optimieren  kann, indem sie Arbeitsabläufe 
+rationalisieren und operative  Aufgaben in KMU erleich-
+tern. Durch den Einsatz von KI -Methoden soll ten der 
+Wissenszugang und die Zusammenarbeit zwischen 
+Mitarbeit enden und Technologie verbessert werden.  
+Durch die Analyse betrieblicher Anwendungsfälle bei 
+drei Anwendungspartnern konnten „Good Practices “ 
+ermittelt werden, um eine effektive Implementierung in 
+unterschiedlichen Branchen oder Unternehmensland-
+schaften zu ermöglichen. Die Studie liefert zudem  umfassende Erkenntnisse über die potenziellen Aus-
+wirkungen einer semantischen Suche auf die funkti-
+onsübergreifende Zusammenarbeit in KMU. 
+Durch die Analyse verschiedener Funktionen , darunter 
+Produktion, Dienstleistungen und Vertrieb, konnten 
+sektorenübergreifende  Informationsquellen und spezi-
+fische Methoden zur gezielten Wissensextraktion iden-
+tifiziert und entwickelt werden. Die Erkenntnisse aus 
+diesen Anwendungsfällen können nun anderen KMU 
+dabei helfen, die Projektergebnisse an ihren eigenen 
+Kontext anzupassen und anzuwenden . 
+Darüber hinaus untersucht e die Studie die soziotech-
+nischen Auswirkungen der Einführung semantischer 
+Suchtechnologien, insbesondere in Bezug auf die Prä-
+sentation von Suchergebnissen, Benutzerinteraktion, 
+Wiederverwendbarkeit und Vertrauen in das System. 
+Dieses Verständnis ist entsch eidend für eine erfolgrei-
+che Integration in die Organisationsstruktur anderer 
+KMU. 
+Das vorliegende Whitepaper hat zum Ziel, die wissen-
+schaftlichen Erkenntnisse in Bezug auf die Projekter-
+gebnisse aufzubereiten und das spezifische Projekt-
+vorgehen anderen KMU für einen effektiven Wissens-
+transfer zugänglich zu machen . Mittels einer Transfer-
+schablone werden darüber hinaus konkrete Hand-
+lungsempfehlungen für die Implementierung einer se-
+mantischen Suchtechnologie in KMU gegeben.  
+1.2 Das Konsortium  
+Universität Bayreuth  
+Die Universität Bayreuth übern ahm im Rahmen des 
+Projekt KIWise die Rolle de r Projektkoordinator in und 
+war hierbei für die Koordination der Zusammenarbeit 
+innerhalb der Verbundpartner verantwortlich. Dane-
+ben war sie für die Identifikation, Bewertung und Aus-
+wahl geeigneter Möglichkeiten zum Erkenntnistransfer 
+ 
+Abbildung 1. Funktionsweise und Nutzen einer semantischen Suche  Einführung  
+  
+8 und zur Dissemination verantwortlich. Dabei legt e sie 
+geeignete Formate und Teilnehme nde aus Wirtschaft 
+und Wissenschaft fest und übernahm  die Organisation 
+der entsprechenden Projektmeetings und interdiszipli-
+nären Workshops.  
+Der Lehrstuhl für Wirtschaftsinformatik und Wertorien-
+tiertes Prozessmanagement der Universität Bayreuth 
+beschäftigt sich mit der Entwicklung innovativer, durch 
+digitale Technologien gestützter Prozessmanagement-
+konzepte zur wertorientierten Unternehmensführ ung. 
+Zudem bringt die Juniorprofessur für Wirtschaftsinfor-
+matik und Digitale Transformation der Universität Bay-
+reuth Expertise zum Verständnis und der Gestaltung 
+der digitalen Transformation und digitalen Innovation 
+aus Sicht etablierter Unternehmen ein, s owie nutzer - 
+und ressourcenzentrierte Innovationsmethoden . 
+Durch zahlreiche Forschungs - und Praxisprojekte hat 
+sich der Lehrstuhl umfangreiche Kompetenzen in der 
+datengetriebenen Prozessanalyse, der digitalen Trans-
+formation  im Zusammenhang mit KI sowie in der sozi-
+otechnischen Forschung aufgebaut. Diese Prozessex-
+pertise und das umfassende Wissen im Bereich der Di-
+gitalisierung bil deten die Grundlage für die Zielsetzun-
+gen der Universität Bayreuth. Diese um fasste, basie-
+rend auf dem bisherigen Literaturbestand zu KI -basier-
+tem Wissensmanagement, die Erweiterung des For-
+schungsfeldes durch die Projekterkenntnisse im Allge-
+meinen und die Anpassung vorhandener Forschungs-
+methoden an das spezifische Einsatzgebiet in KMU. 
+Frankfurt University of Applied Sci-
+ences  
+Die Frankfurt University of Applied Sciences  ergänzte 
+das Konsortium  als zweiter Forschungspartner insbe-
+sondere durch Kompetenzen im strategischen IT -Ma-
+nagement und im Bereich digitaler Technologien. Ge-
+meinsam mit der Universität Bayreuth war sie für die 
+Identifikation, Bewertung und Auswahl geeigneter 
+Möglichkeiten zum Erkenntnistransfer und zur Disse-
+mination verantwortlich.  
+Die Professur für Wirtschaftsinformatik, insbesondere 
+Digital Business & Mobilität, an der Frankfurt University 
+of Applied Sciences (F UAS) beschäftigt sich primär mit 
+dem strategischen Management digitaler Innovationen 
+und der Gestaltung von Organisationen im Zuge der di-
+gitalen Transformation. Die konkreten Zielsetzungen 
+der Frankfurt University of Applied Sciences im Projekt-
+verlauf umfassten, ausgehend vom bisherigen Litera-
+turbestand zu KI -basiertem Wissensmanagement, das 
+Forschungsfeld durch die Projekter kenntnisse im All-
+gemeinen zu erweitern und vorhandene Forschungs-
+methoden an das spezifische Einsatzgebiet in KMU an-
+zupassen. Diese Ziele stimmen mit denen der Univer-
+sität Bayreuth überein.  
+Darüber hinaus erhoff ten sich die Forschungspartner 
+aus dem Projekt neue Impulse für Forschung und Praxis, die die Basis für weitere Arbeiten im Bereich KI -
+basierter Wissensmanagementsysteme legen  sollen. 
+Mit dem Projekt soll ten die bestehenden Kompetenzen 
+auf dem Gebiet der KI im Allgemeinen und der seman-
+tischen Suche im Besonderen weiter geschärft wer-
+den. Neben dem domänenspezifischen Wissen soll ten 
+dabei auch die allgemeinen Kompetenzen im Bereich 
+der Einsatz - und Akzeptanzanalyse weiter vertieft wer-
+den.  
+deepset GmbH  
+Die deepset GmbH  (nachfolgend deepset) , verfügt als 
+beteiligter Entwicklungspartner über Expertise in der 
+Entwicklung, Implementierung und dem Betrieb von 
+NLP-Algorithmen und zusammengesetzten KI -Syste-
+men (Compound AI). deepset betreibt die deepset AI 
+Platform, eine umfassende Lösung für den Aufbau 
+maßgeschneiderter KI -Anwendungen und -Agenten, 
+die in den meisten Fällen eine semantische Suche be-
+inhalten. Die Plattform bietet fortschrittliche, mehr-
+schichtige KI -Funktionen, die eine effiziente Aufberei-
+tung, Aggregation, Verarbeitung und Abfrage von rele-
+vantem Wissen aus komplexen Datensätzen ermögli-
+chen. Die deepset AI Platform wurde bereits erfolg-
+reich in einer Vielzahl von Unternehmen und Behörden 
+eingesetzt, um KI produktiv zu nutzen und die Informa-
+tionsbeschaffung zu verbessern. Während sich bishe-
+rige KI-Projekte vor allem an Großunternehmen richte-
+ten, war die Akzeptanz bei KMU aufgrund von Integrati-
+onsproblemen mit der bestehenden IT -Infrastruktur 
+und unerfüllten Anforderungen zunächst begrenzt. 
+deepset sa h in dem Projekt die Möglichkeit, KMU den 
+Zugang zu skalierbaren KI -Lösungen zur strukturierten 
+Verknüpfung und Aufbereitung relevanter Informatio-
+nen zu erleichtern. Diese Initiative ermöglichte deep-
+set den Eintritt in einen bisher unerschlossenen Markt 
+für KI-Anwendungen und versetzte eine neue Gruppe 
+von Anwendern in die Lage, KI erfolgreich in ihren Un-
+ternehmen einzusetzen und zu nutzen.  
+Grimmer GmbH  
+Die Grimmer GmbH (nachfolgend Grimmer) ist ein pro-
+duzierendes mittelständisches Unternehmen, dass 
+auf die Bereiche der Industrie - und Medizintechnik 
+spezialisiert ist. Die Produktion  von Grimmer umfasst 
+eine Vielzahl unterschiedlicher Bauteilvarianten, wel-
+che jeweils mit spezifischen Informationsbedarfen ein-
+hergehen. Hierzu zählen neben fertigungsrelevanten 
+Parametern (u.a. Drehzahl, Vorschub, Werkzeug) auch 
+prozessbezogene Informationen ( u.a. Verfahr - und Ar-
+beitsweg). Während die Schnittdaten für NC -gesteu-
+erte Maschinen bereits mit Hilfe von CAD - oder CAM -
+Programmen aufbereitet und zur Verfügung gestellt 
+werden können, lassen sich Daten für NC -gesteuerte 
+und konventionelle Maschinen nur bedingt verteilen. 
+Zwar können Schnittdaten grob im Arbeitsplan hinter-
+legt werden, die genaue Bearbeitung von Produktion s-
+aufträgen erfolgt jedoch meist auf Basis von Erfah-
+rungswissen. Folglich können insbesondere neue und Einführung  
+  
+9 ungelernte Arbeitende häufig nicht gezielt auf „Good 
+Practices “ aus der Vergangenheit zurückgreifen. Zu-
+dem mangelt es bei der Einzelfertigung von Bauteilen, 
+im Gegensatz zur Serienfertigung, am standardisierten 
+Zugang zu fertigungsrelevanten Informationen. Die Be-
+arbeitung von Bauteilen gestaltet sich daher teilweise 
+als langwieriger und zeitraubender Prozess, der im Un-
+ternehmen wenig wertschöpfend ist . 
+Grimmer verfolgte daher das Ziel, durch seine Teil-
+nahme am Projekt den Zugang zu Wissen für interne 
+Abläufe im Bereich der Produktion  zu verbessern.  
+Sigmund Lindner GmbH  
+Die Sigmund Lindner GmbH  (nachfolgend SiLi)  ist ein 
+Familienunternehmen der fünften Generation und hat 
+sich zu einem der bedeutendsten Hersteller und Ver-
+treiber technischer Glas - und Keramikkugeln sowie 
+von Dekorglitter entwickelt. Durch das damit zusam-
+menhängende Wachstum hat auch das intern vorha n-
+dene Wissen stetig zugenommen. Um das im Unter-
+nehmen verteilte Wissen allen Mitarbeitenden einfach 
+und schnell zugänglich zu machen, hat SiLi bereits in 
+der Vergangenheit erste Versuche unternommen, Wis-
+sen mit Hilfe von Wissensmanagementsystemen (z.B. 
+Customer-Relationship -Management -System) besser 
+nutzbar zu machen. Mit diesen Systemen konnten re-
+levante Informationen bisher jedoch nicht flächende-
+ckend erfasst und zur Verfügung gestellt werden.   
+Die Zielsetzung des Projekts sowie die Motivation der 
+SiLi bestanden darin, KI in Form der deepset AI Plat-
+form in ihre betrieblichen Abläufe zu integrieren. Dies 
+sollte dazu dienen, das Durchsuchen von Material - 
+und Sicherheitsdatenblättern zu vereinfachen und ei-
+nen effizienten Zugriff auf relevante Informationen zu 
+ermöglichen. Ziel war es nicht nur, die Auffindbarkeit 
+von Daten zu verbessern, sondern auch die Arbeitsab-
+läufe der Vertriebsmitarbeitenden zu unterstützen, in-
+dem diesen ein schneller Zugang zu wichtigen Informa-
+tionen gewährt wurde. Darüber hinaus strebte das Pro-
+jekt an, aus den implementierten Systemen und Tech-
+nologien weitere Anwendungsfälle abzuleiten, um de-
+ren Potenzial vollständig zu erschließen und zusätzli-
+chen Mehrwert zu generieren . 
+SILOKING Mayer Maschinenbau  GmbH  
+Die SILOKING Mayer Maschinenbau GmbH (nachfol-
+gend Siloking) ist ein Familienunternehmen im Bereich 
+der Landtechnik  und hat sich weiter auf die Fütterungs-
+technik spezialisiert . Darunter zählen unter anderem  
+die Entwicklung, Herstellung und Lieferung von 
+Schwermaschinen .  
+Die betriebliche Wertschöpfungskette von Siloking 
+umfasst eine Vielzahl komplexer und vielschichtiger 
+Prozesse, die neben der Produktion auch Service und 
+Vertrieb umfassen. Die  kontinuierliche Generierung 
+neuer Informationen durch die Entwicklung neuer Pro-
+dukte und das Management bestehender Produkte erfolgt überwiegend in textbasierten Formaten wie 
+PDF- und Word -Dokumenten, die in verschiedenen 
+Datenbanken und Informationssystemen im Unterneh-
+men erfasst werden.  
+Die Problematik des Wissensmanagements bei Silo-
+king vor Projektstart manifestiert e sich vor allem in der 
+langsamen Aufbereitung und Anreicherung von kon-
+textbezogenen Informationen. Aufgrund des unstruk-
+turierten und intransparenten Datenbestands k am es 
+oft zu Verzögerungen bei der Bearbeitung von Anfragen 
+im Service und Vertrieb.  
+Die Zielsetzung des Projekts l ag daher in der Optimie-
+rung der Beantwortung technischer Fragen sowie der 
+Integration von KI, insbesondere der deepset AI Plat-
+form, in die betrieblichen Abläufe  des Unternehmens . 
+Zudem strebt e das Projekt die Verbesserung der inter-
+nen Informationsarchitektur, eine Steigerung der Mitar-
+beiterproduktivität und eine erhöhte Zugänglichkeit re-
+levanter Informationen an. Des Weiteren , wurde ver-
+sucht die Effizienz zu steigern und die Reaktionsge-
+schwindigkeit auf Kundenanfragen zu erhöhe n, was 
+letztlich die Kundenzufriedenheit erhöh en und die 
+Kundenbindung langfristig festi gen soll. Durch die Effi-
+zienzsteigerung und Integration  der KI soll zukünftig  
+eine Motivationssteigerung bei den Mitarbeite nden er-
+zielt werden.  
+  Einführung  
+  
+10 
+ 
+ 
+  
+  
+2. Grundlagen des KI -basierten 
+Wissensmanagements  
+ Grundlagen des KI -basierten Wissensmanagements  
+  
+11 2 Grundlagen des KI-basierten Wissensmanagement s 
+2.1 Grundlagen des Wissensmana-
+gements 
+Wissensmanagement ist ein entscheidender Erfolgs-
+faktor für Unternehmen  zur systematischen Erstellung , 
+Speicherung , und Anwendung von Wissen sowie des-
+sen intuitive Bereitstellung , um die Effizienz und Inno-
+vationsfähigkeit zu steigern  (Alavi und Leidner 2001) . 
+Unternehmen profitieren  in erster Linie von  ihren intel-
+lektuellen und systematischen Fähigkeiten sowie ih-
+rem organisierten Wissen (Edwards 2022; Quinn et al. 
+1996). In Unternehmen verfügen vereinzelte  Mitarbei-
+tende über entscheidende  Informationen  bspw. über 
+interne Abläufe, Kundenbedürfnisse oder komplexe 
+technische Details, die für den reibungslosen Betrieb 
+und den Erfolg des Unternehmens von zentraler Be-
+deutung sind  (O'Leary 1998) . Wenn Mitarbeitende das 
+Unternehmen verlassen, geht hiermit unweigerlich  
+wertvolles implizites und explizites  Wissen verloren . 
+Die Konsequenz sind negative Auswirkungen auf die 
+Produktivität und die täglichen Aufgaben der verblei-
+benden Belegschaft . Hinzu kommt die allgemeine 
+Komplexität des Wissensmanagement s, mit der sich 
+Unternehmen konfrontiert sehen  und sowohl beim Er-
+werb, der Strukturierung, der Umwandlung und der 
+Verbreitung von wichtigem Organisationswissen vor 
+Herausforderung stehen (Despres und Chauvel 1999; 
+Edwards 2022) . 
+Ein effektives  Wissensmanagement ist für Unterneh-
+men ein wichtige r Wettbewerbsfaktor . Die Effektivität 
+im Wissensmanagement umfasst die systematische 
+Erstellung  und Speicherung des während der Arbeit ge-
+nerierten Wissens und der Fachkenntnisse der Mitar-
+beitenden  (O'Leary 1998) . Dieses Wissen wird an-
+schließend aufbereitet und so bereitgestellt, dass es 
+dem gesamten Unternehmen und allen Mitarbeiten-
+den zugänglich und anwendbar ist. Dies stellt sicher, 
+dass wertvolle Informationen bewahrt und effizient ge-
+nutzt werden können , sodass die Kontinuität  der Ar-
+beitsprozesse gewährleistet ist (Mack R. et al. 2001) . 
+Im Zuge der Digitalisierung und der Transformation tra-
+ditioneller Prozesse hin zu modernen  Arbeitsan sätzen, 
+wird die Fähigkeit, digitales Wissen innerhalb der Orga-
+nisation effizient zu nutzen und zu erweitern, zu einem 
+entscheidenden Wettbewerbsfaktor für Unternehmen  
+(Antonelli und Colombelli 2015) . Mit dem zunehmen-
+den Einsatz digitaler Technologien  zur Steigerung der 
+Effizienz von Arbeitsprozessen müssen sich allerdings 
+auch die Strategien des Wissensmanagements anpas-
+sen, um auf die veränderten Bedürfnisse der Arbeits-
+welt zu reagieren (Bordeleau et al. 2019) . Hierbei 
+nimmt die Integration von digitalen Technologien in das 
+Wissensmanagement eine Schlüsselposition ein und 
+ermöglicht es , Erfahrungen und Wissen innerhalb der 
+Organisation einfacher zu sichern und zu teilen.  Durch den Einsatz moderner Daten - und Prozessma-
+nagement -Anwendungen  können Unternehmen ihre 
+Wissensressourcen effektiver nutzen und dadurch ihre 
+Produktivität steigern  (Ahmad und van Looy 2020) . 
+Wissen kann in verschiedenen Formen vorliegen, da-
+runter explizites Wissen, das leicht formalisiert und 
+dokumentiert werden kann, sowie implizites Wissen, 
+das in den Erfahrungen und Fähigkeiten der Mitarbeiter 
+verwurzelt ist. Diese unterschiedlichen Formen des 
+Wissens lassen sich mithilfe einer Vielzahl von Anwen-
+dungen und Anwendungen sammeln, strukturieren 
+und teilen . 
+Insbesondere der Einsatz digitaler Technologien wie KI 
+ermöglicht es Unternehmen, ihre Wissensmanage-
+ment-Prozesse effizienter zu gestalten und sich besser 
+auf zukünftige Herausforderungen vorzubereiten  (Bem 
+Machado et al. 2021) . Durch die Automatisierung von 
+Datenerfassung und -analyse können Unternehmen 
+schneller auf Veränderungen reagieren und wertvolle 
+Erkenntnisse gewinnen, die zur Optimierung ihrer Ab-
+läufe und zur Steigerung der Innovationsfähigkeit bei-
+tragen.  
+2.2 Der Einsatz von KI im Wissens-
+management  
+Für ein effektives  Wissensmanagement  in Unterneh-
+men ist neben den kulturelle n und personelle n Aspek-
+ten insbesondere  der Einsatz  intelligenter Systeme zur 
+Wissenserfassung und -weitergabe  von zentraler Be-
+deutung. Knowledge Engineering , das die systemati-
+sche Abbildung von Wissen in wissensbasierten Syste-
+men umfasst, kann Unternehmen in Verbindung mit KI 
+dabei unterstützen, den Nutzen und die Leistungsfä-
+higkeit ihre s Wissensmanagements  signifikant zu er-
+höhen (Tsui et al. 2000) . 
+KI ist eine der transformativsten Technologien unserer 
+Zeit und verändert grundlegend, wie Unternehmen 
+operieren und Innovationen vorantreiben. Von der Au-
+tomatisierung einfacher Aufgaben bis hin zur Unter-
+stützung bei komplexen Entscheidungsprozessen bie-
+tet KI ein breites Spektrum an Anwendungsmöglichkei-
+ten, die die Effizienz und Wettbewerbsfähigkeit von 
+KMU erheblich steigern können . Für den Bereich des 
+Wissensmanagement lassen sich vier zentrale Anwen-
+dungsgebiete identifizier ten (Jaharri et al. 2023; Liebo-
+witz 2001) : (1) Wissenserstellung , (2) Wissensspeiche-
+rung, (3) Wissensaust ausch und (4) Wissensanwen-
+dung. 
+1. Im Rahmen der Wissenserstellung  unterstützt KI 
+bei der Erweiterung der Wissensbasis oder kann 
+Wissen erweitern , indem auf Basis von Informati-
+onen neues Wissen  generiert  wird. Zum Beispiel 
+könnte eine KI -basierte Analyse von Kundenfeed-
+back und Marktdaten bisher unerkannte Trends Grundlagen des KI -basierten Wissensmanagements  
+  
+12 und Kundenbedürfnisse  identifizieren. Dieses 
+neue Wissen ermöglicht es dem Unternehmen, 
+seine Produkte und Strategien anzupassen, um 
+flexibler auf Marktveränderungen zu reagieren . KI-
+Technologien  können diesen Prozess unterstüt-
+zen, indem sie  vorhandene Informationen ge-
+schickt rekonfigurieren und integrieren (Fehrer et 
+al. 2022; Jaharri et al. 2023) . 
+2. Im Rahmen der Wissensspeicherung  spielt KI 
+eine entscheidende Rolle. Durch den Einsatz von 
+KI ist es möglich, große und komplexe Datensätze 
+effizient zu speichern, abzurufen und zu analysie-
+ren, indem sie fortschrittliche Algorithmen wie 
+Deep Learning nutzen. Diese Algorithmen sind in 
+der Lage, Muster und Zusammenhänge in den Da-
+ten zu erkennen, die für her kömmliche Methoden 
+schwer zugänglich wären. Dadurch wird das Wis-
+sensmanagement für Unternehmen wesentlich 
+effizienter , leichter skalierbar  und ökonomischer  
+verwaltbar  (Jaharri et al. 2023; Liebowitz 2001) . 
+3. Der Einsatz von KI kann darüber hinaus  den Wis-
+sensaustausch  im Unternehmen erhöhen, indem 
+Barrieren  überwunden und die teamübergrei-
+fende Zusammenarbeit an unterschiedlichen 
+Standorten optimiert  werden. Somit können Wis-
+senslücken effektiver identifiziert und überwun-
+den werden  (Jaharri et al. 2023; Liebowitz 2001)  . 
+4. Letztlich kann KI in der Wissensanwendun g ein-
+gesetzt werden , um datenbasierte Entscheidun-
+gen zu unterstützen und Prozesse zu optimieren. 
+Durch die Analyse großer Datenmengen ermög-
+licht KI präzisere Geschäftsentscheidungen und 
+reduziert Risiken  (Olan et al. 2022) . Intelligente KI -
+Anwendungen wie virtuelle Assistenten können 
+relevante Informationen für spezifische Anwen-
+dungen in Echtzeit bereitstellen und den Prozess 
+des Wissenszugangs über verschiedene Bereiche 
+und Abteilungen innerhalb einer Organisation hin-
+weg optimieren (Jaharri et al. 2023; Liebowitz 
+2001). 
+Im Rahmen des Forschungsprojekts lag der Fokus auf 
+dem Einsatz von KI für den Wissensaustausch  sowie die Wissensanwendung . Praktische Beispiele werden 
+in den darauffolgenden Kapiteln diskutiert.  
+2.3 Technische Grundlagen  
+Bereits heute findet KI in unterschiedlichen Industrie-
+zweigen und Geschäftsbereichen Anwendung und er-
+weist sich als besonders performant, wenn es um das 
+Erkennen und Replizieren von Mustern geht.  Ein be-
+deutendes Einsatzgebiet ist Spracherkennung und -
+verarbeitung , bekannt als Natural Language Proces-
+sing (NLP).  
+Die Bedeutung von natürlicher Spra-
+che und die Rolle von NLP  
+Unsere Sprache ist ein lebenswichtiger Bestandteil, 
+der nicht nur die Kommunikation, sondern auch die 
+Verbreitung von Ideen, sozialen Normen und kulturel-
+len Werten ermöglicht  (Fabbro et al. 2022) . Aber auch 
+unser Wissen wird von der Wissenserstellung bis hin 
+zum Wissensaustausch durch unsere Sprache geprägt 
+und sie ist hier ein essenzi eller Baustein .  
+Natürliche Sprache als komplexes System ist eine Her-
+ausforderung für die interdisziplinäre Forschung, um 
+die Genauigkeit und Tiefe des linguistischen Verständ-
+nisses von Sprache zu verbessern  (Cambria und White 
+2014; Khurana et al. 2022) . Diese Vielfältigkeit spiegelt 
+sich im Zusammenhang der technischen Konzepte wi-
+der, die im nachfolgenden erläutert werden und in Ab-
+bildung 2 schematisch dargestellt sind. Gleichzeitig 
+begründet es im Rahmen von NLP in einem interdiszip-
+linären Forschungsgebiet , welches sich  an der Schnitt-
+stelle von Linguistik, Informatik und KI mit dem Ver-
+ständnis von Sprache befasst (Li et al. 2021) . Dabei 
+wird es durch anspruchsvolle sprachbezogene Aufga-
+ben charakterisiert (Lauriola et al. 2022) . NLP verfolgt 
+zwei Hauptziele  (Reiter und Dale 1997) : 
+1. Verstehen natürlicher Sprache , also die 
+Übersetzung menschlicher Sprache in ein 
+numerisches Format zur maschinellen Ana-
+lyse.  
+ 
+Abbildung 2. Einordnung der semantischen Suche in die Kernko nzepte der Künstlichen Intelligenz  Grundlagen des KI -basierten Wissensmanagements  
+  
+13 2. Generierung natürlicher Sprache , wobei 
+aus numerischen Repräsentationen wieder 
+für Menschen verständliche Texte erzeugt 
+werden.  
+Diese Fähigkeiten erlauben es, sprachbasierte Aufga-
+ben wie Textzusammenfassungen, Sprachübersetzun-
+gen oder Chatbot -Interaktionen effizient umzusetzen. 
+Im Kern basiert NLP auf der Fähigkeit, den Kontext von 
+Wörtern und Sätzen zu analysieren und semantische 
+Zusammenhänge zu erkennen.  
+Die technische Grundlage: Transfor-
+mer-Modelle und Embeddings  
+Die heutigen NLP -Modelle basieren auf der Transfor-
+mer-Architektur  (Vaswani et al. 2017) , die insbeson-
+dere für ihre Fähigkeit zur Erfassung kontextueller Ab-
+hängigkeiten bekannt ist. Ein prominentes Beispiel ist 
+BERT (Bidirectional Encoder Representations from 
+Transformers), das als Grundlage für zahlreiche NLP -
+Anwendungen dient  (Devlin et al. 2019) . 
+Die technischen Entwicklungen erleichter n das Auffin-
+den spezifischer Informationen . Durch die Transfor-
+mer-Modelle werden nicht alleine die Schlüsselwörter 
+zur Informationssuche herangezogen, sondern die se-
+mantischen Zusammenhänge analysiert. Im Fall von 
+Textdaten werden Wörter, Silben oder Zeichen in nu-
+merische Vektoren – sogenannte “Embeddings”  – um-
+gewandelt , die die Bedeutung in ein maschinenver-
+ständliches Format übersetzen. Diese Embeddings er-
+lauben es Modellen, über bloße Wortübereinstimmun-
+gen hinauszugehen, indem sie beispielsweise erken-
+nen, dass Begriffe wie „Energieeffizienz“ und „nach-
+haltiger Betrieb“ thematisch  verwandt sind, auch 
+wenn sie nicht identisch formuliert wurden.  
+Im Fall von  Bilddaten wird ein ähnliches Prinzip ver-
+folgt. Die Pixelwerte eines Bildes in numerische Arrays 
+übersetzt, die anschließend durch  neuronale Netz-
+werke verarbeitet . Diese Netzwerke lernen,  Muster und 
+Merkmale in den Bildern zu erkennen , wie beispiels-
+weise die Form oder Struktur bestimmter Bauteile . 
+In der konkreten Anwendung bedeutet das, dass Mitar-
+beitende durch eine NLP -basierte Suche  schneller In-
+formationen zu einem früheren Projekt finden können, 
+bei dem ähnliche Anforderungen an die Energieeffizi-
+enz gestellt worden sind. Das System erkennt hier, 
+dass die Themen „Energieeffizienz“ und „nachhaltiger 
+Betrieb“ im Kontext des Projekts gleichbedeutend 
+sind, selbst wenn sie unterschiedlich formuliert wur-
+den.  
+Durch die Fortschritte im Bere ich der Verarbeitung von 
+Sprache, hat sich im Gleichschritt die  extraktive als 
+auch die generative Informationssuche  weiterentwi-
+ckelt. Während extraktive Methoden darauf abzielen, 
+spezifische Informationen direkt aus Datentypen zu 
+extrahieren, zielen generative Methoden darauf ab, neue Texte basierend auf einem vorgegebenen Kontext 
+zu erzeugen.  
+Die extraktive Informationssuche  ist ein Kernbereich 
+der NLP und konzentriert sich d arauf, relevante Infor-
+mationen aus vorhandenen Daten zu identifizieren und 
+extrahieren . Der Fokus liegt hier sehr klar darauf, dass 
+bereits vorhandene Daten möglichst präzise identifi-
+ziert und wiedergegeben werden.  Spezifische Anwen-
+dungsfälle sind hier : 
+5. Dokumentensuche:  Bei der Suche nach spezifi-
+schen Dokumenten oder Textpassagen in großen 
+Datenbanken ermöglicht die extraktive Methode 
+eine effiziente Identifizierung und Rückgewinnung 
+von relevanten Abschnitten, ohne den gesamten 
+Text zu analysieren.  
+6. Textzusammenfassung:  Extraktive Textzusam-
+menfassungen ziehen die wichtigsten Sätze oder 
+Abschnitte direkt aus einem Dokument heraus, 
+um eine Kurzversion zu erstellen, die die wesentli-
+chen Informationen enthält.  
+Die generative Informationssuche  hingegen geht ei-
+nen Schritt weiter, indem sie neue Texte generiert, die 
+auf dem gegebenen Kontext oder Datensatz basieren. 
+Generative Modelle lernen, auf Basis von Trainingsda-
+ten Sprache zu erzeugen, die kohärent und kontextuell 
+passend ist. Anwendungen d ieser Methode umfassen:  
+7. Textgenerierung:  Systeme wie Sprachmodelle 
+können ganze Absätze oder Dokumente basierend 
+auf kurzen Eingaben erstellen. Diese Texte sind 
+nicht nur kohärent, sondern auch in der Lage, kre-
+ative oder logische Fortsetzungen von Ideen zu ge-
+nerieren.  
+8. Konversationelle KI : In Chatbots und virtuellen 
+Assistenten ermöglichen generative Modelle die 
+Erstellung natürlicher und flüssiger Dialoge, in-
+dem sie auf Nutze ndenanfragen antworten und 
+sinnvolle Konversationen führen.  
+Fortschrittliche Ansätze: Hybride 
+Sprachmodelle  
+Ein weiteres Beispiel für Fortschritte ist  Retrieval -Aug-
+mented Generation (RAG) , eine hybride Methode, die 
+extraktive und generative Informationssuche kombi-
+niert. Mit der Einführung von RAG hat sich eine neue, 
+hybride Methode etabliert, die die Stärken beider An-
+sätze kombiniert und dadurch das Potenzial von NLP -
+Systemen erheblich erweitert.  RAG nutzt die extraktive 
+Fähigkeit , die relevante n Informationen ab zurufen, ge-
+koppelt mit der generativen Fähigkeit, kohärente und 
+kontextbezogene Texte zu generieren.  Der Prozess be-
+steht aus zwei Hauptphasen:  
+1. Retrieval  (Abruf): In der ersten Phase durch-
+sucht das System eine große Wissensdaten-
+bank oder ein Dokumentenarchiv nach rele-
+vanten Informationen, die zu einer Grundlagen des KI -basierten Wissensmanagements  
+  
+14 bestimmten Anfrage passen. Das Ziel ist es, 
+die besten Textabschnitte zu identifizieren, 
+die als Grundlage für die nächste Phase die-
+nen.  
+2. Generation  (Generierung): In der zweiten 
+Phase verwendet das generative Modell die 
+abgerufenen Informationen, um eine präzise 
+und zusammenhängende Antwort oder einen 
+neuen Text zu erstellen. Diese generierten In-
+halte sind nicht nur auf die abgerufenen Da-
+ten beschrän kt, sondern nutzen diese als 
+Kontext, um über den ursprünglichen Text 
+hinauszugehen und neue, relevante Inhalte 
+zu erzeugen.  
+Einer der wesentlichen Vorteile ist die erhöhte Genau-
+igkeit: Indem das System relevante Informationen ab-
+ruft, bevor es einen Text generiert, wird sichergestellt, 
+dass der daraus entstehende Text sowohl fundiert als 
+auch kontextuell relevant ist. Dies stell t sicher, dass 
+die Antworten nicht nur korrekt, sondern auch auf die 
+spezifische Anfrage abgestimmt sind.  Ein weiterer 
+wichtiger Aspekt von RAG ist die Kombination von Fak-
+ten und Kreativität. Diese Methode ermöglicht es, prä-
+zise Informationen mit der Fähig keit zur kreativen 
+Textgenerierung zu verbinden. Dies ist besonders nütz-
+lich in komplexen Anwendungsfällen, wie zum Beispiel 
+bei der Beantwortung detaillierter Fragen oder der Er-
+stellung spezialisierter Dokumente, wo sowohl Genau-
+igkeit als auch eine anspre chende Darstellung gefragt 
+sind. Darüber hinaus zeichnet sich der RAG -Ansatz 
+durch seine Flexibilität aus. Er kann in einer Vielzahl 
+von Szenarien eingesetzt werden, angefangen bei der 
+präzisen Beantwortung spezifischer Fragen bis hin zur 
+Generierung umfangreicher, kontextuell passender 
+Texte. Diese Vielseitigkeit macht RAG zu einem wert-
+vollen Lösungsansatz  für unterschiedlichste Anwen-
+dungsbereiche in der NLP.  
+  Grundlagen des KI -basierten Wissensmanagements  
+  
+15 
+ 
+  
+3. Projektablauf  
+ Projektablauf  
+  
+16 3 Projektablau f
+Grundlagen zur Einführung von KI im 
+Unternehmen   
+Die Einführung von KI in KMU ist ein komplexer und viel-
+schichtiger Prozess, der eine sorgfältige Planung und 
+Umsetzung erfordert. Ziel des Projekts war es, den Ein-
+satz und die Akzeptanz einer semantischen Suche im 
+Wissensmanagement für KMU zu fördern und Unter-
+nehmen bei der Implementierung dieser Technologien 
+gezielt zu unterstützen. Durch die Analyse betriebli-
+cher Anwendungsfälle un d die Zusammenarbeit mit 
+verschiedenen Partnern sollten „Good Practices“ erar-
+beitet werden, die KMU branchenübergreifend dabei 
+helfen können, den Wissenszugang zu optimieren und 
+die Zusammenarbeit zwischen Mitarbeitenden und 
+Technologien zu stärken.  
+Der Prozess gliedert sich dabei in die Phasen der Initi-
+ierung, Entscheidungsfindung und Implementierung , 
+die jeweils individuelle Herausforderungen und Spezi-
+fika aufweisen  (Jöhnk et al. 2021) . Im Rahmen des Pro-
+jekts wurde jeder dieser Phasen  mit den jeweiligen An-
+wendungspartner n durchlaufen. Nachfolgend wird das 
+Vorgehen detailliert  beschrieben . 
+3.1 Initiierung: Einsatzanalyse von 
+KI-basierten Wissenszugängen  
+Die Initiierung beginnt mit der bewussten Entschei-
+dung, KI im Unternehmen einzusetzen, um in einer 
+zweiten Phase innovative Anwendungsfälle zu identifi-
+zieren (Damanpour und Schneider 2006; Hofmann et 
+al. 2020; Jöhnk et al. 2021) . KMU stehen hierbei vor der 
+besonderen Herausforderung, dass häufig ein Mangel 
+an KI-Expertise im Unternehmen besteht  (Wei und 
+Pardo 2022) . Zudem müssen Innovationsideen umfas-
+send bewertet und Ressourcen gezielt allokiert wer-
+den. Die Verteilung finanzieller und personeller Res-
+sourcen stellt oft einen kritischen Schritt dar, insbe-
+sondere da soziale Faktoren bei KMU starken Einfluss 
+auf das Management, die Teamdynamik und die Ent-
+scheidungsprozesse haben (Jöhnk et al. 2021; Madan 
+und Ashok 2023) . 
+Um die Einführung einer KI-basierten semantischen 
+Suche im Unternehmen zu initiieren , wurde zu Beginn 
+des Projekts mit einer umfassenden Potentialanalyse 
+begonnen. Diese hatte zum Ziel , den grundsätzlichen  
+Einsatz einer semantischen Suche bei den jeweiligen 
+Anwendungspartnern zu eruieren  und Anwendungsbe-
+reiche zu identifizieren . Darauf aufbauend wurden die 
+Anwendungsfälle präzise spezifiziert, um sicherzustel-
+len, dass die Grundlage für eine gezielte Weiterent-
+wicklung geschaffen wird. Anschließend wurde eine 
+multikriterielle Bewertung und eine fundierte Auswahl 
+vorgenommen, die auf  klar definierten Kriterien basie-
+ren, um Objektivität und Nachvollziehbarkeit zu ge-
+währleisten. Im weiteren Schritt wurde ein detailliertes KI-Service-Canvas pro Anwendungsfall entwickelt, 
+welches die ganzheitliche Visualisierung und Struktu-
+rierung zentraler Elemente des KI -Systems ermöglicht. 
+Schließlich wurden funktionale sowie nicht -funktio-
+nale Anforderungen systematisch abgeleitet, um si-
+cherzustellen, dass sowohl die technischen al s auch 
+die betrieblichen Rahmenbedingungen des Systems 
+berücksichtigt werden.  
+Potenzialanalyse  
+Die Potenzialanalyse liefert einen Überblick über die 
+Stärken und Schwächen einer semantischen Suche im 
+Vergleich zu  einer lexikalischen Suche sowie die Impli-
+kationen für die Voraussetzungen und Grenzen des 
+Einsatzes einer semantischen Suche. Die Poten zial-
+analyse setzte sich im Projekt aus zwei zentralen 
+Schritten zusammen : (1) einer multivokalen Literatur-
+analyse und (2) einer strukturierten Erhebung von Ex-
+pertenwissen der Anwendungspartner.  
+Anhand der multivokalen Literaturanalyse konnten zu-
+nächst praktische und theoretische Aspekte der Ver-
+wendung einer semantischen Suche identifiziert wer-
+den. Hierfür wurden wissenschaftliche  Datenbanken 
+nach relevanten Veröffentlichungen in Zeitschriften 
+und Konferenzbeiträgen sowie nach praxisrelevanten  
+Veröffentlichungen durchsucht.  Die gesammelte Lite-
+ratur wurde anschließend analysiert und strukturiert, 
+um einen umfassenden Überblick über die Vorausset-
+zungen und Grenzen des Einsatzes einer semanti-
+schen Suc he zu erhalten.  
+Die aus der Literatur gewonnenen Erkenntnisse wur-
+den anschließend durch das Domänenwissen der Pro-
+jektpartner ergänzt. Hierbei kamen unterschiedliche 
+Methoden  und Werkzeuge zur Anwendung (siehe Kapi-
+tel 4). Dies war notwendig, um neben den theoriegelei-
+teten Einsichten auch branchenspezifische und insbe-
+sondere ökonomische  Überlegungen in die Potenzial-
+analyse einzubeziehen. Zudem konnte das Konsortium 
+auf das breite Fachwissen  von deepset in Bezug auf die 
+Einführung einer semantischen Suche  zurückgreifen. 
+Auf diese Weise wurde das Potenzial der semanti-
+schen Suche nicht nur  für KMU im Allgemeinen , son-
+dern auch für die Anwendungsp artner im Besonderen 
+ermittelt. 
+Zu Beginn des Projekts wurde im Rahmen einer Kick -
+Off-Veranstaltung ein gemeinsames Verständnis für 
+den Einsatz einer semantischen Suche etabliert. An-
+schließend erfolgten detaillierte Analysen mit den ein-
+zelnen Partnern, um dieses Verständnis zu vertiefen.  
+Darüber hinaus wurden Experteninterviews und Work-
+shops mit den Mitarbeitenden der jeweiligen Anwen-
+dungspartner durchgeführt. In diesem Kontext wurden 
+relevante Aufgaben und Prozesse beschrieben sowie 
+Betriebsabläufe umfassend analysiert.  Im Ergebnis  
+konnten Bereiche identifizier t werden , in denen die Projektablauf  
+  
+17 Anwendung einer semantischen Suche grundsätzlich 
+vielversprechend erscheint . Folgende Kriterien waren 
+bei der Auswahl der Aufgaben bzw. Prozesse maßge-
+bend:  
+▪ Hoher Zeitaufwand  
+▪ Hoher Grad repetitive r Aufgaben  
+▪ Hoher manueller Aufwand  
+▪ Hohes Fehlerrisiko  
+Neben den bereits genannten Kriterien spielte auch die 
+Verfügbarkeit einer adäquaten Datengrundlage eine 
+entscheidende Rolle bei der Potenzialanalyse. Durch 
+die enge Zusammenarbeit von deepset mit den For-
+schungspartnern  wurden Kriterien für eine ausrei-
+chende Datengrundlage festgelegt. Eine qualitativ 
+hochwertige und umfassende Datengrundlage ist es-
+senziell für die Einführung einer semantischen Suche, 
+da sie die Grundlage für eine effektive und präzise 
+Suchfunktion bildet.  Nur strukturierte und vollständige 
+Daten ermöglichen es, relevante Informationen korrekt 
+zu interpretieren und verlässliche Suchergebnisse zu 
+extrahieren oder zu generieren . 
+Spezifizierung  von Anwendungsfällen  
+Im nächsten Schritt des Projektes wurden daraufhin  
+entsprechende Anwendungsfälle weiter  ausdefiniert . 
+Dieser Schritt war ein iterativer Prozess aus Analyse, 
+Beschrei bung und Spezifizierung , der es ermöglichte, 
+die vielversprechendsten Einsatzmöglichkeiten einer 
+semantischen Suche zu identifizieren und deren Um-
+setzbarkeit detailliert zu prüfen . Bei der ersten Analyse 
+der Anwendungsfälle wurde zunächst  ein breites 
+Spektrum potenzieller Anwendungsfälle für eine se-
+mantische Suche ermittelt. Dazu wurde eine Domä-
+nen-, eine Technologie - als auch Nutzenperspektive 
+eingenommen . 
+Aus der Domänenperspektive  wurden die Anwen-
+dungsfälle in enger Zusammenarbeit mit den Anwen-
+dungspartnern systematisch identifiziert. Hierfür 
+wurde ein iterativer Prozess durchlaufen , bei dem zu-
+nächst bestehende Probleme innerhalb der spezifi-
+schen Domänen der Partner erfasst und nutzenden-
+zentriert analysiert wurden. Zusätzlich lag der Fokus 
+darauf, potenzielle, bislang unentdeckte Problemstel-
+lungen aufzudecken, die sich durch eine intensivere 
+Betrachtung von Prozessen, Abläufen oder Anforde-
+rungen ergaben. Diese Vorgehensweise erlaubt e einer-
+seits die Berücksichtigung konkreter Erfahrungswerte 
+der Anwendungspartner und andererseits die Erschlie-
+ßung innovativer Nutzungsszenarien, die ohne diesen 
+gemeinsamen Dialog möglicherweise nicht erkannt 
+worden wären. Die domänenspezifische Expertis e der 
+Partner diente dabei als essenzielle Wissensquelle, 
+um sicherzustellen, dass die identifizierten Anwen-
+dungsfälle sowohl praxisrelevant als auch für zukünf-
+tige Entwicklungen anschlussfähig sind.  Dies geschah 
+durch Interviews  und Workshops mit Domänene xperten sowie durch das Sammeln und 
+Analysieren relevanter Dokumente  im Umfeld jedes 
+Partners.  
+Aus der Technologieperspektive  wurden in Zusammen-
+arbeit mit deepset potenzielle Anwendungsfälle ermit-
+telt, indem diese anhand der technologischen Mög-
+lichkeiten systematisch untersucht wurden. Auf 
+Grundlage der umfangreichen Erfahrung von deepset, 
+insbesondere aus der erfolgreichen Einführung se-
+mantische r Suchanwendungen , konnten weitere An-
+wendungsfälle abgeleitet werden. Diese wurden ge-
+zielt mit den spezifischen Domänen der Anwendungs-
+partner verknüpft, um sicherzustellen, dass die tech-
+nologischen Potenziale  praxisnah und domänenspezi-
+fisch nutzbar gemacht werden können . 
+Aus der Nutzenperspektive  wurde bei der Auswahl der 
+Anwendungsfälle darauf geachtet, dass diese nicht nur 
+technisch machbar, sondern auch signifikante Vorteile 
+für die Anwendenden im Arbeitsalltag bieten. Die Er-
+wartungen der Nutzer müssen  erfüllt werden und be-
+ziehen sich auf die Standards, Anforderungen und 
+Wünsche, die sie an die Leistung, Funktionen und Qua-
+lität der semantischen Suche haben. Die zu erfüllen-
+den Anforderungen  sind insbesondere die wahrge-
+nommene Nützlichkeit, die Vertrauenswürdigkeit, die 
+Zeitersparnis, die Genauigkeit der Suchergebnisse und 
+die Kompatibilität mit täglichen Arbeitsabläufen . 
+Im Anschluss  wurden die identifizierten Anwendungs-
+bereiche  jeweils weiter spezifiziert , um ein tiefergehen-
+des Verständnis zu gewinnen . Die angewendeten Me-
+thoden zur Identifikation passender Anwendungsfälle  
+wurden jeweils auf die jeweiligen Bedürfnisse der An-
+wendungspartner angepasst . 
+Siloking.  Beim Anwendungspartner Siloking wurden 
+Experteninter views in den Abteilungen durchgeführt , 
+um Pain Points in einzelnen Kernprozessen zu identifi-
+zieren. Die Analyse ergab ein großes Potenzial im Be-
+reich Service & Vertrieb, da die Prozesse hier beson-
+ders komplex sind und mit vielen verschiedenen Wis-
+sensquellen verknüpft werden müssen , was wiederum 
+die Fehleranfäll igkeit erhöht. Auf Basis der Expertenin-
+terviews wurden schließlich  die drei nachfolgenden  
+Anwendungsfälle für den weiteren Projektverlauf aus-
+gewählt und mit Hilfe der Forschungspartner  visuali-
+siert.  
+(1) Die schnellere  Informationsbeschaffung 
+über Markttrends und Kundenbedürfnisse  im 
+Vertrieb  
+(2) Die präzise und schnelle Beantwortung von 
+Kundenanfragen  durch besseren Zugriff  auf 
+Support-Dokumentationen  im Kundensup-
+port  
+(3) Die effiziente Sammlung und Analyse von 
+Forschungsdaten und Innovationsideen  Projektablauf  
+  
+18 Bei der Visualisierung der Anwendungsfälle wurden die 
+Datenstruktur, relevante Dokumente sowie der Zeit-
+punkt und Kontext der Suchanfragen dargestellt, um 
+die optimale Planung und Umsetzung der semanti-
+schen Suche zu ermöglichen .  
+SiLi. Beim Anwendungspartner SiLi führten die For-
+schungspartner eine fundierte Prozessmodellierung 
+und -analyse durch. Dieser Schritt war entscheidend, 
+um eine klare und strukturierte Darstellung der beste-
+henden Abläufe zu erhalten. Durch die Analyse konn-
+ten Schwachs tellen und Optimierungspotenziale iden-
+tifiziert werden, die als Grundlage für die Auswahl der 
+Anwendungsfälle dienten. Auf Basis dieser Analyse 
+wurden die folgenden Anwendungsfälle in die engere 
+Auswahl aufgenommen :  
+(1) Die Besuchs- und Messberichtserfassung  
+und Durchsuchbarkeit  im Vertrieb  
+(2) Die Informationsbereitstellung bei der Be-
+schaffung  von Handelsware  im Einkauf  
+(3) Die Suche nach  Material und Sicherheitsda-
+tenblätter n 
+Grimmer . Beim Anwendungspartner Grimmer wurden 
+zunächst Experteninter views in den relevanten Abtei-
+lungen durchgeführt, um spezifische Herausforderun-
+gen und Schwachstellen in den Kernprozessen zu iden-
+tifizieren. Zusätzlich beobachteten die Forschungs-
+partner die Arbeitsabläufe bei Grimmer genau, um ein 
+tiefergehendes Verständnis für die Betriebsabläufe im 
+Unternehmen zu gewinnen. Besonders in der Produk-
+tion sowie den Bereichen Maschinenwartung und Qua-
+litätskontrolle zeigten sich signifikante Ineffizienzen, 
+die durch den Einsatz von KI potenziell verbessert wer-
+den könnten. Diese Prozesse sind aufgrund ihrer Kom-
+plexität und der Vielzahl an involvierten Wissensquel-
+len besonders fehleranfällig. Basierend auf den erhobenen Daten wurden konkrete Anwendungsfälle 
+identifiziert, die für den weiteren Projektverlauf bei 
+Grimmer priorisiert und gemeinsam mit den For-
+schungspartnern weiterentwickelt werden soll ten. 
+Diese Anwendungsfälle wurden aufgrund ihrer Rele-
+vanz intensiv untersucht:  
+(1) Das Auffinden der passenden Handbücher 
+zur Behebung von Maschinenproblemen  
+(2) Die Qualitätsprüfung  der Maschinenkontrolle  
+(3) Der schnelle Wissenszugang in der Ausbil-
+dung zur Beantwortung von Fragen  
+ 
+Multikriterielle Bewertung und Aus-
+wahl der Anwendungsfälle  
+Nachdem potenzielle Anwendungsfälle bei den einzel-
+nen Anwendungspartnern identifiziert worden waren, 
+wurden diese im Rahmen eines multikriteriellen 
+Frameworks auf Basis entsprechender Filterkriterien 
+innerhalb des Konsortiums bewertet.   
+Im ersten Teil der Bewertung wurden verschiedene Kri-
+terien wie Mehrwert für den Nutzenden, Durchführbar-
+keit, Datenqualität, Risiko und Übertragbarkeit ge-
+nannt, um eine ganzheitliche und ausgewogene Be-
+trachtung der Anwendungsfälle zu gewährleisten. 
+Diese Bandbreite an Kriterien erlaubt es, jede Option 
+aus mehreren Perspektiven zu analysieren und damit 
+die Auswahl sowohl hinsichtlich technischer Umsetz-
+barkeit als auch strategischer Nachhaltigkeit abzusi-
+chern. Der entwickelte multikriterielle Bewertungska-
+talog diente dabei als methodisches Instrument, um 
+eine strukturierte, transparente und objektive Ent-
+scheidungsgrundlage zu schaffen.  
+Abbildung 3. Überblick der finalen Anwendungsf älle für die semantische Suche  
+ Projektablauf  
+  
+19 Im zweiten Teil des Bewertungsprozesses wurde der 
+Fokus jedoch gezielt auf die verfügbare Datenbasis ge-
+legt, da Datenqualität und -quantität in datenintensi-
+ven Projekten wie der Entwicklung von KI -Systemen oft 
+als zentrale Erfolgsfaktoren gelten  (Hofmann et al. 
+2020). Ohne eine ausreichende und qualitativ hoch-
+wertige Datenbasis sind viele der anderen Kriterien, 
+beispielsweise die Durchführbarkeit oder Übertragbar-
+keit, in der Praxis nicht umsetzbar. Die Datenbasis 
+wurde daher priorisiert, da sie eine grundlegende Vo-
+raussetzung für die effektive Implementierung und Va-
+lidierung der Anwendungsfälle darstellt.  Bei einigen 
+Anwendungsfällen erwies sie sich als limitierender 
+Faktor, um sicherzustellen, dass die geplanten Lösun-
+gen effektiv implementiert werden können. Ein kon-
+struktiver und kontinuierlicher Austausch zwischen 
+den deepset-Experten , den Anwendungspartnern und 
+den Forschungspartnern ermöglichte eine fortlau-
+fende Bewertung der bestehenden Datenstruktur und -
+qualität der identifizierten Prozesse. Jeder identifizierte 
+Anwendungsfall wurde dabei durch eine umfangreiche 
+Analyse der vorhandenen Daten, der entsprechenden 
+Datenquellen und Datenorte sowie des möglichen Po-
+tenzials bewertet.  
+Im Ergebnis wurden die in Abbildung 3 dargestellten  
+Anwendungsfälle für eine prototypische Implementie-
+rung jeweils ausgewählt und im weiteren Projektverlauf  
+entsprechend durch die Erhebung nicht-funktionaler 
+und funktionaler Anforderungen vorbereitet.  
+ 
+ KI-Service-Canvas  
+Zur Synthese der vorherigen Schritte sowie zur über-
+sichtlichen Entscheidungsunterstützung bei der Be-
+wertung der Anwendungsfälle und der transparenten 
+Kommunikation der Auswahlentscheidung wurde ne-
+ben der multikriteriellen Bewertungsmatrix auch das 
+KI-Service-Canvas eingesetzt. Dabei handelt es sich 
+um ein bewährtes Framework, das speziell für die 
+strukturierte Planung und Implementierung von KI  kon-
+zipiert ist  (Urbach et al. 2021) . Für den Projektkontext 
+und die Technologielösung der semantische n Suche 
+wurde dieses Canvas in seinen Dimensionen speziell 
+angepasst, um den besonderen Anforderungen und 
+Herausforderungen des Technologie - und Projektkon-
+texts gerecht zu werden  (Abbildung 4) . 
+Im Anschluss füllten alle Anwendungspartner  das an-
+gepasste Canvas für ihren jeweiligen Anwendungsfall  
+aus. Dieser Schritt diente dazu, potenzielle Risiken im 
+weiteren Projektverlauf frühzeitig zu identifizieren und 
+zu minimieren . 
+Die Anwendungspartner starteten hierbei mit der Be-
+schreibung des Prozesses, der die verschiedenen 
+Schritte von der Datenverarbeitung bis zur Integration 
+der Suchfunktion umfasst. Darauf folgt eine detaillierte 
+Spezifikation der Eingaben, die für das System benötigt 
+werden, wie Datenquellen und z usätzliche Ressour-
+cen. Im Anschluss wurde die Erwartungshaltung doku-
+mentiert, welche Ergebnisse die semantische Suche 
+liefern soll, einschließlich der Art und Qualität der Su-
+chergebnisse.  
+Prozessskizze
+Daten
+Welche Daten 
+werden benötigt ? utzen
+Wo kann die semantische Suche im Prozess 
+eingesetzt werden?
+Welche Probleme löst die semantische Suche 
+wie?
+Pipeline
+Welche Funktionen der semantischen Suche 
+benötigen wir ?Gesch ftspotential
+Wie und wo entsteht
+Geschäftspotential ?
+Partner
+Wen benötige ich , um die 
+semantische Suche einzuführen ?
+Was sind die wichtigsten 
+Schlüsselpartner ?Kunden
+Welche Akteure nutzen die Lösung 
+am Ende?
+Wieso sollten sie die semantische 
+Suche nutzen ?
+Abbildung 4. Angepasstes KI -Service Canvas -Template auf den Kontext semantische Suche (in Anlehnung an Urbach 
+et al., 2021)  Projektablauf  
+  
+20 Ein zentraler Aspekt des Canvas war zudem die Dar-
+stellung des Nutzens, den die semantische Suche so-
+wohl für Endanwende nde als auch für die implemen-
+tierende Organisation bietet.  Für die Endanwender 
+liegt der Fokus darauf, wie die semantische Suche den 
+Arbeitsalltag spürbar erleichtert, indem sie schnellere 
+und präzisere Antworten auf komplexe Anfragen liefert, 
+zeitaufwändige Suchprozesse minimiert und die Nut-
+zenden dabei unterstü tzt, fundierte Entscheidungen zu 
+treffen. Für die Organisation steht der Mehrwer t in der 
+Effizienzsteigerung und der Förderung einer datenba-
+sierten Arbeitskultur im Vordergrund. Die semantische 
+Suche verbessert nicht nur die Produktivität und Zufrie-
+denheit der Mitarbeitenden, sondern trägt auch dazu 
+bei, Wissen effektiver zugänglich z u machen und Wett-
+bewerbsvorteile durch optimierte Prozesse zu sichern.  
+Wichtig ist neben dem Nutzen die schematische Dar-
+stellung und Visualisierung der einzelne n Komponen-
+ten einer Pipeline. Sie beschreibt die Abfolge von in 
+sich geschlossenen Modulen, von denen jedes eine ei-
+gene Aufgabe oder Funktion  aus dem Bereich NLP  
+übernimmt . Auf diese Weise können sich die Mitarbei-
+tenden des Entwicklungspa rtners einen Überblick 
+über das System verschaffen und auf einer übergrei-
+fenden Ebene das System konfigurieren . Somit ist die 
+gesamte Verarbeitungslogik von der Datenaufnahme 
+bis zur Ergebnisausgabe abstrahiert abgebildet , ohne 
+sich in den Implementierungsdetails der einzelnen Mo-
+dule vertiefen zu müssen . 
+Die Identifikation der Partner und Stakeholder, die zur 
+Umsetzung des Projekts beitragen, sowie die genaue 
+Bestimmung der Zielgruppe und ihrer spezifischen Be-
+dürfnisse, rundeten  das Canvas ab.  
+Insgesamt unterstützt das KI-Service-Canvas dabei, 
+die Entwicklung eine r semantischen Suchlösung  sys-
+tematisch , umfassend  und transparent  zu dokumen-
+tieren. 
+Siloking. Das Geschäftspotenzial ist eine Lösung, die 
+eine schnelle und gezielte Fehlersuche ermöglicht, 
+den Servicepartner n optimal unterstützt und Arbeits-
+kosten, insbesondere bei Wartungen und Nachrüstun-
+gen, reduziert. Der Input umfasst technische Doku-
+mente wie Bedienungs - und Serviceanleitungen, 
+Werkstatthandbücher, Montageanleitungen, Ersatz-
+teillisten und Changelogs, die als Datenbasis für die 
+semantische Suche dienen. Der Nutzen der Suche 
+liegt in der effizienteren Bearbeitung von Anfragen 
+durch den Ku ndendienst, da Fehler schneller identifi-
+ziert werden können und relevante Informationen aus 
+verschiedenen Quellen gebündelt zur Verfügung ste-
+hen. Anforderungen an die Pipeline bestehen darin, 
+mithilfe von NLP -Technologien Stichworte und techni-
+sche Begriffe zu erkennen, mögliche Fehlerursachen 
+zu analysieren und konkrete Antworten auf spezifische 
+Fragestellungen zu generieren.  Die Partner für die Um-
+setzung sind die interne IT, die die technische Imple-
+mentierung übernimmt und Schnittstellen zu bestehenden Programmen schafft, um eine nahtlose 
+Integration zu gewährleisten.  Kunden sind sowohl in-
+terne Kundendiensttechniker im Backoffice als auch 
+externe Servicepartner, die direkt an d er Maschine 
+oder in der Werkstatt arbeiten.  
+SiLi. Das Geschäftspotenzial ist eine Lösung, die ein 
+schnelles und einfaches Auffinden von Produkt - und 
+Sicherheitsdaten für den Vertrieb und potenzielle Kun-
+den ermöglicht, wodurch der Suchaufwand erheblich 
+reduziert wird. Der Input umfasst Dateien, aufgeteilt in 
+Material-Sicherheitsdatenblätter (MSDS) und Produkt-
+datenblätter (PDS). Der Nutzen der Suche liegt in der 
+verbesserten Zugänglichkeit relevanter Informationen, 
+wodurch Vertriebsmitarbeite nde schneller auf Kun-
+denanfragen reagieren und die richtigen Dokumente 
+ohne langwierige manuelle Suche finden können.  Die 
+Anforderungen  an die Pipeline beinhalten das Einlesen 
+aller Dateien im Verzeichnis, die Extraktion der Datei-
+namen, die Aufspaltung relevanter Keywords anhand 
+festgelegter Kriterien sowie die Erstellung und Befül-
+lung einer Metadatei pro Datei zur besseren Durch-
+suchbarke it. Die Partner sind die internen IT -Teams, die 
+für die technische Umsetzung und Datenverarbeitung 
+sorgen, sowie Fachabteilungen, die Anforderungen 
+und Strukturierung der Metadaten u nterstützen.  Die 
+Kunden sind primär Vertriebsmitarbeite nde, die 
+schnellen Zugriff auf Produkt - und Sicherheitsdaten 
+benötigen, sowie potenziell Kunden, die eigenständig 
+relevante Informationen abrufen können.  
+Grimmer.  Das Geschäftspotenzial ist eine effiziente 
+Lösung zur schnellen Bereitstellung relevanter Infor-
+mationen, die zu einer Reduktion von Stillstandzeiten, 
+einer geringeren Abhängigkeit von Servicetechnikern 
+und einer insgesamt höheren Motivation der Mitarbei-
+tenden führt.  Der Input sind im Netzwerk gespeicherte 
+PDF-Dateien, darunter vor allem fremdgenerierte Be-
+dienungsanleitungen und Reparaturleitfäden, die es-
+senzielle Informationen für die Fertigungsmitarbeiten-
+den enthalten. Der Nutzen der Suche zeigt s ich in der 
+Verringerung der Komplexität und Frustration der Mit-
+arbeitenden, indem benötigte Informationen schnell 
+zugänglich gemacht werden. Dadurch können Maschi-
+nenbedie nende entlastet, Stillstandzeiten reduziert 
+und die Wettbewerbsfähigkeit des Unternehmens ge-
+steigert werden. Die Anforderungen an die Pipeline 
+umfassen eine nutzerfreundliche Textsuche, eine Tref-
+ferliste basierend auf Relevanz, die Ausgabe von Origi-
+naldokumenten oder direkten Links sowie die Möglich-
+keit zur themenbasierten Suche.  Die Partner sind in-
+tern Abteilungsleiter, IT -Teams und alle betroffenen 
+Mitarbeitenden sowie extern Dienstleister für IT, die die 
+technische Umsetzung unterstützen.  Die Kunden sind 
+die Fertigungsmitarbeitenden, die täglich Antworten 
+auf offene Fragen benötigen, um ihre Arbeit effizient 
+und störungsfrei durchführen zu können.   Projektablauf  
+  
+21 Ableitung funktionaler und nicht -funk-
+tionaler Anforderungen  
+Resultierend aus der Bewertung und Auswahl potenzi-
+eller Anwendungsfälle ist die Ableitung funktionaler 
+und nicht -funktionaler Anforderungen für die semanti-
+sche Suche entscheidend, um ein effektives und be-
+nutzerfreundliches System zu entwickeln. Funktionale 
+Anforderungen klären, welche spezifischen Aufgaben 
+eine semantische  Suche erfüllen soll, während  nicht-
+funktionale Anforderungen primär die Qualitätseigen-
+schaften des Systems festlegen.  Abbildung 5 liefert ei-
+nen Überblick über die Charakteristika und Bestim-
+mung funktionaler sowie nicht -funktionaler Anforde-
+rungen.  
+Um die Anforderungen an eine Prototyp -Lösung der se-
+mantischen Suche zu ermitteln, wurden Techniken des 
+Requirements Engineering  eingesetzt. Zunächst führ-
+ten die Forschungspartner  Experteninterviews und  
+-workshops mit dem Management und den IT -Mitarbei-
+tenden der Anwendungspartner durch. Dabei wurden 
+die ersten Anforderungen an eine semantische Suche  
+offen formuliert.  Die offenen Formulierungen der An-
+forderungen ermöglichten es, vielfältige Ideen und Be-
+dürfnisse zu sammeln. Dieses Vorgehen fördert Kreati-
+vität, da es den Beteiligten erlaubt, ihre Perspektiven 
+frei einzubringen, was zu einer umfassenderen Grund-
+lage für die Entwicklung der semantischen Such lösung 
+führte. Dieses Vorgehen wurde für jeden Anwendungs-
+partner separat durchgeführt.  
+Beim Anwendungspartner SiLi wurden beispielsweise 
+die funktionalen Anforderungen in Benutze nden- und 
+Systemanforderungen, Datenformate und Daten-
+schutz unterteilt. Die nicht -funktionalen Anforderun-
+gen wurden nach Benutzerfreundlichkeit, Leistung und 
+Sicherheit definiert. Anschließend wurden diese Anfor-
+derungen nach ihrer Bedeutung für die späteren En d-
+anwendungen priorisiert  (Abbildung 5) . Demnach wurde bei SiLi besonderes Gewicht auf die Schnellig-
+keit und die geringe Antwortzeit des Systems gelegt. 
+Zudem wur den bestimmte Sicherheitsanforderungen, 
+wie die Authentifizierung von Nutzenden, als beson-
+ders wichtig bewertet.  
+Nachdem die Anforderungen je Anwendungspartner 
+erhoben und in einem Lastenheft festgehalten wurden, 
+wurden die gesammelten funktionalen und nicht -funk-
+tionalen Anforderungen in Zusammenarbeit mit der 
+deepset AI Platform  verglichen, strukturiert und  konso-
+lidiert. Dabei konnten zentrale Schlüsselfunktionen 
+identifiziert werden, die sowohl allgemeine als auch 
+spezielle Anforderungen abdeckten.  
+Im Kontext von KMU ist es beispielsweise  domänen-
+übergreifend von zentraler Bedeutung, dass die KI -
+Suchfunktion eine natürliche Sprachabfrage ermög-
+licht. Dies ermöglicht es den Nutze nden, ihre Anfragen 
+in eigenen Worten zu formulieren, was die Benutzer-
+freundlichkeit erheblich verbessert. Zudem wurde be-
+wertet, wie gut die KI komplexe Anfragen verstehen und 
+interpretieren kann. Diese Fähigkeit ist wichtig, um re-
+levante Ergebnisse effizient zu liefern, ohne dass die 
+Eingabe durch die Nutzenden zu detailliert se in muss.  
+3.2 Entscheidungsfindung: Prototy-
+pische Technologiek onfiguration   
+Konzeption und Konfiguration  
+Im Fokus der Konzeption der Lösungsarchitektur stand 
+die Gewährleistung von Akzeptanz und Nutze nden-
+freundlichkeit der semantischen Suche. Besonders 
+wichtig war es, dass die Antworten der Suche einfach 
+verifizierbar sind, um Vertrauen und Sicherheit bei den 
+Nutzenden zu schaffen. Zu Beginn war eine extraktive 
+Suche konfiguriert, bei der lediglich relevante Textpas-
+sagen markiert wurden. Aufgrund der Nutze ndener-
+wartungen, die durch Erfahrungen mit Anwendungen  
+wie ChatGPT geprägt waren, wurde die Architektur auf  
+MUST SHOULD COULD WILL-NOT
+Ein absolutes   SS
+Anforderungen , die 
+bei der 
+Implementierung 
+unbedingt umgesetzt 
+werden sollen
+Funktionale Anforderungen Nicht-funktionale AnforderungenEssenziell aber nicht 
+s stemkritisch
+Anforderungen s ollten 
+umgesetzt werden , 
+wenn alle MUSS -
+Anforderungen 
+umgesetzt sindKönnen umgesetzt 
+werden 
+Anforderungen 
+können umgesetzt 
+werden, sofern 
+andere Anforderungen 
+nicht darunter leidenDas ist irrelevant
+Langfristiges 
+Verwerfen dieser 
+Anforderungenz.B. Compliance , Usability , Skalierbarkeit , 
+Zuverlässigkeit , Performance  .
+Priorisierung über SHOULD , COULD, WILL-NOT
+Abbildung 5. Eigenschaften funktionaler und nicht -funktionaler Anforderungen  Projektablauf  
+  
+22 eine RAG -Pipeline umgestellt. RAG kombiniert Ret-
+rieval- und Generierungsmodelle, wodurch präzise 
+und kontextspezifische Antworten generiert werden 
+können, basierend auf extern abgerufenen Datenquel-
+len (Lewis et al. 2020) . 
+Die Konfiguration des Systems folgte konzeptuell dem 
+einer klassische n RAG-Architektur : Zuerst werden rele-
+vante Textpassagen aus externen Datenquellen extra-
+hiert, die dann in den Generierungsprozess einfließen, 
+um eine passende Antwort zu erstellen. Dieser Ansatz 
+ermöglicht es, die Informationen und Antworten des 
+Systems aktuell zu halten, ohne das Modell durch Trai-
+ning mit spezifischem Wissen zu belasten.  
+Für die konkrete Konzeption der prototypischen Tech-
+nologiekonfiguration bei den Projektpartnern wurde i n 
+einem ersten Schritt technische und systemseitig rele-
+vante Aspekte für die Implementierung der RAG-Lö-
+sung innerhalb der Partnerunternehmen  identifiziert. 
+Dies geschah durch Experteninterviews  und Work-
+shops mit Schlüsselpersonen aus dem technischen 
+Implementierungsteam und den Endnutze nden. Die 
+daraus resultierenden Architekturentwürfe und techni-
+schen Merkmale der Lösung wurden dann den Anwen-
+dungspartnern zur Verfügung gestellt.  
+Im zweiten Schritt wurden diese Anforderungen  in Spe-
+zifikationen übersetzt und auf die vorab entworfene Lö-
+sungsarchitektur angewendet. Jeder Anwendungs-
+partner erhielt eine maßgeschneiderte technische 
+RAG-Konfiguration, die genau auf seine Bedürfnisse 
+zugeschnitten war. Dies beinhaltete die Anpassung 
+von KI-Modellen an spezifische Sprachkorpora, die Ein-
+führung neuer Suchmodi und die Evaluation verschie-
+dener Komponenten der Lösung.  
+Abschließend wurde für jeden Anwendungspartner 
+eine individuell angepasste Version der semantischen 
+Suchtechnologie entwickelt. Dabei wurden sowohl die 
+im Rahmen der Einsatzanalyse von KI -basierten Wis-
+senszugängen definierten Anforderungen aus der Busi-
+ness-Perspektive als auch die spezifischen techni-
+schen und systemseitigen Bedürfnisse der Partner 
+konsequent berücksichtigt. Diese maßgeschneiderte 
+Herangehensweise gewährleistet, dass die Lösung op-
+timal auf die jeweiligen Anforderungen und Einsat zge-
+biete abgestimmt ist.  Diese maßgeschneiderten Konfi-
+gurationen bildeten die Grundlage für die prototypi-
+sche Implementierung, wobei die technische Lösung 
+je nach Anwendungsfall und Branche der Anwen-
+dungsfälle variabel angepasst wurde . 
+Test-Sprints  
+Die Standardimplementierung der technischen Lö-
+sung erfolgte in einem iterativen Prozess zwischen 
+deepset und den einzelnen Anwendungspartnern. Vor 
+dem Go-Live definierte deepset gemeinsam mit jedem 
+Partner die spezifischen Schritte für die prototypische 
+Implementierung. Dabei wurden die damit verbunde-
+nen Aktivitäten sowie Zuständigkeiten klar skizziert, um eine reibungslose Integration in die bestehenden 
+Systeme sicherzustellen und eine Beeinträchtigung 
+der operativen Abläufe zu vermeiden.  
+Nach der Planung begann die Implementierung des 
+Prototyps, der zunächst in einem begrenzten IT -Infra-
+strukturkontext getestet wurde. Anschließend wurde 
+die Lösung auf einen größeren Bereich der IT -Infra-
+struktur ausgeweitet, wodurch die semantische Suche 
+über das gesamte Unternehmen hinweg zugänglich 
+wurde. Die Implementierung erfolgte unter Berück-
+sichtigung der ELSI-Standards  für Datenverarbeitung  
+(Ethical, Legal, and Social Implications)  (Fisher et al. 
+2006). Dies umfasst Richtlinien und Prinzipien, die si-
+cherstellen sollen, dass ethische, rechtliche und ge-
+sellschaftliche Aspekte bei der Erhebung, Verarbei-
+tung und Nutzung von Daten verantwortungsvoll be-
+rücksichtigt werden.  
+Jeder Schritt wurde individuell bei jedem Anwendungs-
+partner durchgeführt, begleitet von regelmäßigen 
+Feedback -Schleifen zwischen deepset und den An-
+wendungsp artnern. Die Rückmeldungen flossen direkt 
+in die Anpassung der semantischen Suche an die spe-
+zifischen Anforderungen der Anwendungskontexte ein.  
+Abschließend wurde die technische Lösung von deep-
+set erfolgreich bei allen Anwendungsp artnern prototy-
+pisch implementiert. Im Rahmen dieses Prozesses 
+wurden zudem Potenziale für eine Weiterentwicklung  
+systematisch dokumentiert, um eine nahtlose und 
+kontinuierliche Integration in die bestehenden Sys-
+teme der Anwendungspartner zu unterstützen und wei-
+ter voranzutreiben.  
+3.3 Implementierung: UI-Design von 
+KI-basierten Suchlösungen   
+Eine benutzerfreundliche und anpassbare Benutzer-
+oberfläche (UI) ist entscheidend für die Akzeptanz ei-
+ner KI-gestützten semantischen Suche und sollte den 
+Kontext der verschiedenen Nutze nden berücksichti-
+gen. Das Rückgrat der RAG-basierten Suche bildet da-
+bei die deepset AI Platform , die über eine REST API mit 
+der Oberfläche  kommuniziert. Diese Kombination er-
+möglicht eine leistungsstarke Suche bei gleichzeitig 
+schlanker und benutzerfreundlicher UI.  
+Für Expertinnen und Experten , die täglich mit der UI ar-
+beiten und dabei komplexe Workflows abbilden müs-
+sen, darf die Benutzeroberfläche mehr Komplexität 
+aufweisen und funktionale Tiefe bieten — vorausge-
+setzt, sie unterstützt die anspruchsvollen Anforderun-
+gen dieser Zielgruppe.  
+Für allgemeinere Anwende nde hingegen ist es wichtig, 
+dass die UI einfach und intuitiv bleibt, um die Lern-
+kurve gering zu halten und mögliche Fehler zu minimie-
+ren. Diesem Ansatz folgend wurde eine minimalistisch 
+gestaltete Suchmaske entwickelt, die durch ihre hohe 
+Wiedererkennbarkeit  überzeugt. Die Kombination aus Projektablauf  
+  
+23 den leistungsstarken Suchfunktionen der deepset AI 
+Platform und der klaren UI stellt sicher, dass die Be-
+dürfnisse verschiedener Nutzergruppen optimal erfüllt 
+werden.  
+Die UI wurde bewusst so konzipiert, dass sie in ver-
+schiedenen Umgebungen – sowohl in Produktion sbe-
+reichen als auch in Büroumgebungen – verwendet wer-
+den kann. Zusätzlich unterstützt sie eine dynamische 
+Filterfunktion, die präzise auf die differenzierten Anfor-
+derungen der Nutzenden  abgestimmt ist und eine effi-
+ziente Informationssuche ermöglicht.  
+Die im Rahmen dieser Entwicklung konzipierte Benut-
+zeroberfläche wurde mit dem Ziel entwickelt, eine in-
+tuitive und leicht verständliche Plattform zur Interak-
+tion bereitzustellen. Ein besonderer Fokus lag dabei 
+auf einer schlanken und benutzerfreundlichen Gestal-
+tung, um die Komplexität der Nutzung auf ein Minimum 
+zu reduzieren. Gleichzeitig wurde sichergestellt, dass 
+die Oberfläche in der Lage ist, relevante Informationen 
+effizient bereitzustellen – insbesondere für Nutze nde, 
+die während Telefonaten oder Produktion sprozessen 
+schnellen Zugriff auf Informationen benötigen. Aus 
+diesem Grund wurde die Benutzerfreundlichkeit sowie 
+die einfache Bedienbarkeit in jedem Schritt des Gestal-
+tungsprozesses als zentrale Priorität definiert.  
+Design und Layout der Suchmaske  
+Im Rahmen des durchgeführten Projekts wurde  dem-
+entsprechend eine schlanke grafische Oberfläche ent-
+worfen, die auf unnötige Ablenkungen verzichtet. Die 
+Entscheidung, nur minimale visuelle Elemente zu in-
+tegrieren, zielt darauf ab, den Nutze nden nicht mit 
+überflüssigen Informationen zu überlasten – insbeson-
+dere in der initialen Phase der Suchanfrage, bevor eine 
+Eingabe erfolgt ist. Diese Gestaltung sorgt dafür, dass der Fokus vollständig auf der Suchmaske liegt, 
+wodurch Ablenkungen vermieden werden, die den 
+Suchprozess stören könnten.  
+Entscheidend für die Benutzeroberfläche war außer-
+dem, mit einer bekannten Interaktionslogik zu arbei-
+ten. Durch den Rückgriff auf intuitive Muster  – analog 
+zu Internet-Suchmaschinen – wurde ein hoher Wieder-
+erkennungswert angestrebt. Dies fördert die sofortige 
+Akzeptanz und Orientierung der Nutze nden, ohne dass 
+lange Einlernprozess e erforderlich sind.  
+Struktur der Suchmaske  
+Wie in Abbildung 6 erkennbar wird, ist die Suchmaske 
+selbst das zentrale Element der Benutzeroberfläche. 
+Sie kombiniert die Freitexteingabe mit einem dynami-
+schen Dropdown -Menü, das in Echtzeit passende 
+Suchvorschläge anzeigt. Dies reduziert die Eingabezeit 
+und minimiert potenzielle Eingabefehler . Durch den 
+Einsatz dieser Funktion können die Anwende nden ge-
+zielte Produktsuchen durchführen, ohne jedes Pro-
+duktmodell auswendig kennen zu müssen, was für die 
+Praxisanwendungen der Zielgruppe von besonderem 
+Vorteil ist. 
+Um die Benutzerfreundlichkeit zusätzlich zu erhöhen, 
+wurde eine intelligente Filterfunktion implementiert. 
+Diese erweist sich als nützlich für die gezielte Eingren-
+zung von Suchergebnissen auf vorherbestimmte Kate-
+gorien. Die Filterlogik erlaubt es de n Nutzenden, per 
+Pfeiltasten und der Enter-Taste spezifische Keywords 
+(sogenannte Hashtags) auszuwählen, welche die 
+Suchanfrage weiter verfeinern. Diese pragmatische 
+Herangehensweise unterstützt die Produktivität unse-
+rer Zielgruppe, die oftmals schnelle Entscheidungen 
+auf Basis von rechtzeitiger (und korrekter) Informatio-
+nen treffen muss.  
+Abbildung 6. User Interface der Suchmaske  Projektablauf  
+  
+24 Ein wesentlicher Aspekt des Designs war außerdem 
+die Erkenntnis, dass nicht alle Nutzenden  der Ziel-
+gruppe an eine ausschließliche Tastaturbedienung ge-
+wöhnt sind, insbesondere wenn sich die Anwendung in 
+Produktion sumgebungen befindet. Aus diesem Grund 
+wurde die Filterauswahl so gestaltet, dass sie auch 
+über eine Maussteuerung angepasst werden kann. 
+Über Dropdown -Felder können Filteroptionen direkt 
+ausgewählt, hinzugefügt oder entfernt werden, ohne 
+dass eine Tastatu reingabe nötig ist. Dies erhöht die Fle-
+xibilität der Anwendung und verbessert die Akzeptanz 
+und Bedienbarkeit für die verschiedene Nutze nden-
+gruppen.  
+Drill-Down-Konzeption der Filterlogik  
+Die eingeführte Filterfunktion  der Suchmaske verwen-
+det ein schrittweises, auch als „Drill -Down“-Konzept 
+bekanntes, Verfahren, bei dem die Filteroptionen 
+nacheinander ausgewählt werden können. Die Beson-
+derheit hierbei ist, dass d ie Nutzenden nach Auswahl 
+einer Filterkategorie erst im nächsten Schritt eine wei-
+tere Filteroption angezeigt bekommen . Dieser schritt-
+weise Ansatz hilft, die Komplexität der Filterauswahl zu 
+verringern, und vermeidet die Überforderung, die bei 
+vielen anderen Suchlösungen durch die sim ultane An-
+zeige aller verfügbaren Filter verursacht wird. Dies 
+sorgte für ein verbesserte Erfahrung, die für alle An-
+wendungs fälle und -partner gültig war.  
+Design und Layout  der Ergebnisan-
+zeige  
+Wie in Abbildung 7 zu sehen, gibt es mit der Ergebnis-
+anzeige eine weitere Benutzeroberfläche zur Ausgabe 
+der Suchergebnisse. Die verschiedenen Antworten auf 
+die Suchanfragen sind dabei so aufbereitet, dass sie 
+von Nutzenden schnell und präzise überprüft werden können. Nutzende  erhalten auf ihre Anfragen passge-
+naue Antworten und können diese direkt durch die Re-
+ferenzdokumente validieren. Die Kombination aus Re-
+ferenzen, PDF -Darstellung und Feedback -Möglichkei-
+ten unterstützt eine effiziente und überprüfbare Lö-
+sungsfindung. Durch d ie klare Benutzerführung und 
+die gezielte Darstellung relevanter Suchergebnisse mit 
+PDF-Dokumenten ist die Plattform optimal auf eine 
+hohe Akzeptanz der semantischen Suche in KMUs aus-
+gelegt.  
+1. Suchfeld und Logo:  Im oberen Bereich der Benut-
+zeroberfläche befindet sich ein  Suchfeld. Das Design 
+ist bewusst an die übergreifende Suchmaske der 
+neuen KI -Lösung angepasst. Darüber ist das Firmen-
+logo sichtbar,  um die Einbettung in den Unterneh-
+menskontext zu ermöglichen . Nutzende können hier 
+ebenfalls Freitextsuche n vornehmen und dabei Prob-
+leme und Fragen in Ergänzung zur übergreifenden 
+Suchmaske s chnell und in einer für sie verständlichen 
+Form anpassen . Die UI integriert hierbei die Verarbei-
+tung der Fragestellung in natürlicher Sprache mit prä-
+zisen Ergebnissen  aus den Unternehmensdokumen-
+ten.  
+2. Antworten auf die Suchanfrage:  Unterhalb des 
+Suchfeldes werden Antworten auf die eingegebene An-
+frage angezeigt. Diese Antworten sind nicht nur eine 
+reine Textausgabe, sondern enthalten auch Referenzen 
+zu relevanten Dokumenten, die den Antworten beige-
+fügt sind. Ein besonderes Merkmal der UI besteht in der 
+kombinierten Darstellung der generierten Antworten 
+mit den referenzierten Passagen und einer zugehörigen 
+PDF-Ansicht, welche sich bei Klicken auf die jeweilige 
+Referenz automatisch an der richtigen Stell e öffnet. 
+Hierdurch haben die Nutzenden  direkten Zugriff auf die 
+entsprechende Stelle im Dokument , was der schnellen 
+Validierung der Informationen  dient. Die Möglichkeit, 
+ 
+  
+ 
+ 
+Abbildung 7. User Interface der Ergebnisanzeige  Projektablauf  
+  
+25 die Antwort zu „liken“ oder darauf zu antworten, zeigt 
+eine Interaktions - und Feedbackoption für die Nutze n-
+den, die ihnen hilft, die Relevanz und Genauigkeit der 
+Antwort zu bewerten.  
+3. Liste der Referenzdokumente:  Ein weiterer zentra-
+ler Teil der Benutzeroberfläche ist die Liste der Refe-
+renzdokumente , welche für die Erzeugung der generier-
+ten Antwort verwendet wurden . Diese Dokumente wer-
+den entsprechend der eingegebenen Suchanfrage dar-
+gestellt. Relevante Abschnitte  für die Suchanfrage  sind 
+mit gelben Hervorhebungen markiert . Eine direkte Ver-
+linkung zu den dazugehörigen PDF -Dokument ermög-
+licht das Öffnen der Dokumente in der den Nutzenden 
+bekannten PDF -Formatierung . 
+4. PDF-Dokumentenanzeige:  Auf der rechten Seite 
+wird das Dokument angezeigt, das die Suchanfrage nä-
+her behandelt  bzw. in dem das KI -Modell die relevante 
+Information zur Suchanfrage vermutet. Nutzende kön-
+nen sowohl in dem Antwortfeld auf die Suchanfrage als 
+auch den gelisteten Referenzdokumenten  auf der lin-
+ken Seite jederzeit durch einen Klick auf die Referenz-
+stellen direkt zur entsprechenden Stelle im PDF -Doku-
+ment navigieren, um die Antwort im Kontext zu über-
+prüfen und bei Bedarf weiterführende Details zu erhal-
+ten.  
+5. Zus tzliche Referenzen:  Im unteren Teilbereich 
+werden zusätzliche relevante Dokumente eingeblen-
+det, die als alternative Lösungen oder ergänzende In-
+formationen zur Suchanfrage dienen.  Hier können die 
+Nutzende n nach Sichtung der als durch das Modell als 
+relevant eingestuften Dokumente die eher nachgela-
+gert mit der Suchanfrage verbundenen Ergebnisdoku-
+mente sichten.  
+3.4 Soziotechnische Implikationen  
+In der Integration von KI -Systemen in KMU spielen so-
+wohl technologische als auch soziale Aspekte eine 
+zentrale Rolle. Während KI erhebliche Vorteile in Effizi-
+enz und Produktivität bietet, sind die soziotechnischen 
+Auswirkungen auf die Arbeitswelt tiefgreifend  und er-
+fordern die Anpassung der Organisationsstruktur und 
+der Qualifizierung der Mitarbeite nden. 
+Die Einführung von K I ermöglicht die Automatisierung 
+repetitiver Aufgaben und entlastet Mitarbeitende, so-
+dass sie sich verstärkt auf komplexere und kreativere 
+Tätigkeiten konzentrieren können  (OECD 2021) . Mit 
+dieser Transformation steigen jedoch die Anforderun-
+gen an die Qualifikationen der Belegschaft, da techni-
+sche Fähigkeiten und digitale Kompetenzen zuneh-
+mend an Bedeutung gewinnen. Insbesondere  bei KMU 
+erfordert die Implementierung von KI -Anwendungen, 
+wie etwa von RAG, nicht nur technische Effizienz, son-
+dern auch soziale Akzeptanz sowie die Anpassungsbe-
+reitschaft der Mitarbeitenden. Um diesen Anforderun-
+gen gerecht zu werden, sind kontinuierliche Weiterbil-
+dungsmaßnahmen essenziell, um die Digitalkompe-
+tenz der Belegschaft zu fördern und die effektive Nutzung neuer Technologien zu gewährleisten. Im Rah-
+men des Projekts wurde dieser Ansatz durch Nutze n-
+denvideos unterstützt, welche die Anwendung der se-
+mantischen Suche für die jeweiligen Einsatzszenarien 
+praxisnah und verständlich erklärten.  
+Um die Wechselwirkungen zwischen KI, sozialen 
+Strukturen und betrieblichen Praktiken zu verstehen, 
+wurden im Projektverlauf Nutzendentests bei den An-
+wendungspartnern durchgeführt. Diese Tests orientier-
+ten sich an bekannten  Theorie der Wirtschaftsinforma-
+tik-Forschung wie UTAUT  (Venkatesh et al. 2003)  und 
+KANO (Kano et al. 1984) . Dabei wurde analysiert, wie 
+Mitarbeite nde die semantische Suche aktiv nutzen und 
+welche Probleme hierbei auftreten. Eine enge Zusam-
+menarbeit mit den Endnutze nden war entscheidend, 
+um die Benutzerfreundlichkeit der semantischen Su-
+che zu verbessern und sicherzustellen, dass sie effek-
+tiv in den Arbeitsablauf integriert . Frühe User Tests 
+zeigten beispielsweise , dass eine komplexe Benutzer-
+oberfläche und unklare Filteroptionen die Akzeptanz 
+negativ beeinflussten. Basierend auf dem Feedback 
+wurden die Benutzeroberfläche und die Filterfunktio-
+nen überarbeitet, um sie intuitiver und effizienter zu ge-
+stalten. Ein zentrales Thema war auch die transparente 
+Kommunikation über die Funktionen und Grenzen der 
+Technologie, um realistische Erwartungen bei den Mit-
+arbeitenden zu schaffen. Oft führte ein Missverständ-
+nis der technischen Möglichkeiten zu Enttäuschungen 
+und einer geringeren Akzeptanz neuer Systeme.  
+Darüber hinaus wurde die im Projektverlauf erhobenen 
+Daten strukturiert analysiert, aufbereitet und im Rah-
+men des Beitrags „Unlocking AI -based Knowledge Ma-
+nagement Potential for SMEs: Exploring Semantic Se-
+arch Adoption“ (Grüneke et al. 2024)  veröffentlicht. Die 
+Ergebnisse verdeutlichen das komplexe Zusammen-
+spiel von organisatorischer Bereitschaft, externer Un-
+terstützung und Nutzendenzufriedenheit, das die Ein-
+führung von KI-basierter  Suche erleichtert. 
+Ein zentraler Bestandteil sind die in Abbildung 8 darge-
+stellten, wechselseitigen Einflüsse und Beziehung von 
+organisatorischer Bereitschaft, externer Unterstützung 
+und Nutzendenzufriedenheit . Die organisatorische Be-
+reitschaft wird dabei durch drei Hauptfaktoren defi-
+niert: den Kontext des Use Cases, die technologische 
+Bereitschaft sowie den Schutz von Daten und Pri-
+vatsphäre. Externe Unterstützung hingegen umfasst 
+die Onboarding -Prozesse sowohl f ür die Entwickeln-
+den als auch für die Nutzenden . Die organisatorische 
+Bereitschaft von KMU  ist stark mit dem Umfang und der 
+Qualität der externen Unterstützung verbunden.  Ge-
+lingt es den  KMU die externe Unterstützung effektiv zu 
+nutzen und dadurch den Einführungsprozess erfolg-
+reich zu gestalten , zeigt sich, dass die organisatorische 
+Bereitschaft die Technologie zu implementieren durch 
+die bereitgestellten technische n Fähigkeiten bereit-
+stellt und  die gezielten Onboarding -Maßnahmen posi-
+tiv beeinflussen wird.  Projektablauf  
+  
+26 Zudem haben organisatorische Bereitschaft und ex-
+terne Unterstützung auch einen Einfluss auf die Nut-
+zerzufriedenheit. Eine hohe organisatorische Bereit-
+schaft schafft die Grundlage für eine erfolgreiche Ein-
+führung von semantischen Systemen, indem sie si-
+cherstellt, dass der Use Case den Anforderungen ge-
+recht wird , die technologische Reife gegeben ist und 
+Datenschutz sowie Datensicherheit berücksichtigt 
+werden. Gleichzeitig spielen die Qualität und der Um-
+fang der Unterstützung durch die Entwickelnden  eine 
+entscheidende Rolle, da sie die Zufriedenheit der Nut-
+zenden durch die Implementierung von notwendigen 
+Funktionalitäten  maßgeblich steigern können.  
+Die Nutzerzufriedenheit selbst beeinflusst wiederum 
+die Einführung der KI-Lösung. Sie hängt davon ab, in-
+wieweit die Anwendung mit den Erwartungen der Nut-
+zenden übereinstimmt und ihnen ermöglicht, den Pro-
+zess der Informations generierung der KI-basierten Su-
+che nachzuvollziehen.  
+Die Einführung von KI-basierten Suchsystemen löst zu-
+dem einen Feedbackprozess aus, der sowohl die orga-
+nisatorische Bereitschaft als auch die externe Unter-
+stützung verändert . Die Integration der semantischen 
+Suche erfordert oft Anpassungen der organisatori-
+schen Infrastruktur und Prozesse, wodurch die organi-
+satorische Bereitschaft gestärkt wird. Gleichzeitig ent-
+steht ein erhöhter Bedarf an externer Unterstützung, 
+um den Einfüh rungsprozess erfolgreich zu begleiten 
+und die Integration optimal zu gestalten.  
+Abschließend sollten KMU ihre organisatorische Be-
+reitschaft sorgfältig bewerten und den Umfang der be-
+nötigten externen Unterstützung klar definieren, um 
+die Einführung und Integration der semantischen Su-
+che effektiv umzusetzen. Zusammenfassend lässt sich festhalten , dass die erfolgreiche Integration von KI in 
+KMU sowohl eine technologische als auch eine kultu-
+relle Herausforderung darstellt. Durch eine nutze nden-
+zentrierte Gestaltung der Technologie  können diese 
+Herausforderungen jedoch gemeistert und die Vor teile 
+der KI voll ausgeschöpft werden.  Dies geht auch aus 
+den zusammenfassenden  Erkenntnissen  der Entwic k-
+lungspartner hervor:  
+Siloking.  Die Einführung von RAG im Service verdeut-
+lichte, dass technologische Effizienz nur dann ihre 
+volle Wirkung entfaltet, wenn sie mit einer hohen sozi-
+alen Akzeptanz einhergeht. Die Automatisierung der 
+Dokumentensuche reduziert repetitive Suchaufgaben 
+und entlastet Mitarbeitende, s odass sie sich auf kom-
+plexere Tätigkeiten konzentrieren können. Gleichzeitig 
+wurde deutlich, dass die erfolgreiche Einführung von KI 
+in KMU nicht nur technisches Verständnis, sondern 
+auch eine offene Innovationskultur erfordert. Regelmä-
+ßige Workshops und F eedbackrunden förderten die 
+Anpassungsbereitschaft der Belegschaft, während 
+frühe Nutzendentests zeigten, dass eine intuitive Be-
+nutzeroberfläche und verständliche Filteroptionen es-
+senziell sind. Die Evaluation der organisatorischen Be-
+reitschaft und der ext ernen Unterstützung zeigte, dass 
+die Mitarbeitenden die Technologie effektiver nutzen 
+können, wenn ihnen die Möglichkeiten und Grenzen 
+der KI transparent kommuniziert werden.  
+SiLi. Die strukturierte Organisation von Material- und 
+Sicherheitsdaten blättern durch RAG erleichtert  den 
+Zugriff auf relevante Informationen für den Vertrieb. 
+Dabei wurde deutlich, dass die Implementierung einer 
+solchen Lösung nicht nur technologische Effizienz er-
+fordert, sondern auch von der Akzeptanz durch die in-
+tensive Einbindung der Nutzenden abhängt. Die Mo-
+dellierung geeigneter Prozesse erwies sich als ebenso 
+Ein  hrung der Suche
+beein usst beein usstbeein usst
+gibt
+ eedback
+ utzenden -
+zu riedenheitgibt
+ eedback
+hängenzusammenE terne 
+Unterst tzung rganisatorische
+Bereitscha t
+Abbildung 8. Modell der Nutzung der semantischen Suche  Projektablauf  
+  
+27 wichtig wie die Datenqualität und eine iterative, nutzer-
+zentrierte Entwicklung. Soziotechnisch zeigte sich, 
+dass klare Anforderungen und eine durchdachte Pro-
+zessübersicht notwendig sind, um Unsicherheiten bei 
+den Mitarbeitenden zu vermeiden. Gleichzeitig muss 
+sichergestellt werden, dass Datenschutz - und Sicher-
+heitsaspekte von Beginn an in die Implementierung 
+einfließen . Die enge Zusammenarbeit mit den Endnut-
+zenden verbesserte die Zufriedenheit mit der Anwen-
+dung und erleichterte die Integration in bestehende  Ar-
+beitsabläufe.  
+Grimmer.  Für die Fertigung stellte sich heraus, dass 
+die größte Herausforderung nicht nur im Zugriff auf In-
+formationen, sondern in der schnellen und einfachen 
+Nutzbarkeit der KI-basierten Suche lag. Die entlasten-
+den Effekte auf die Maschinenbediener können nur 
+dann vollständig realisiert werden, wenn Mitarbei-
+tende Vertrauen in die Technologie haben und sich 
+nicht durch eine komplexe Benutzerführung abge-
+schreckt fühlen. Die transparente Kommunikation 
+über die Funktionsweise der KI war und ist daher es-
+senziell, um unrealistische Erwartungen und damit 
+einhergehende Frustration zu vermeiden. Frühzeitige 
+Schulungen und ein nutzendenzentrierter Entwick-
+lungsprozess helfen dabei Barrieren abzubauen.  Die 
+Einführung der semantischen Suche führte außerdem 
+zu einer Reflexion über die organisatorische Bereit-
+schaft zur Digitalisierung und zeigte, dass eine enge 
+Verzahnung von technischer Entwicklung und sozialer 
+Integration notwendig ist, um langfristige Akzeptanz 
+und Nutzung sicherzustellen.  
+  Projektablauf  
+  
+28 
+  
+4. Transferschablone  
+ Transferschablone  
+  
+29 4 Transferschablone  
+Aufgrund der begrenzten Ressourcen von KMU spielt 
+der Wissenstransfer aus Wissenschaft in die Praxis 
+eine bedeutsame Rolle bei der Implementierung eines 
+KI-basierten Wissensmanagements im Unternehmen. 
+Eine Transferschablone bietet ein unterstützendes 
+Werkzeug für KMU, um Innovationsprojekte erfolgreich 
+umzusetzen . Diese bildet ein  strukturiertes Rahmen-
+werk, das spezifische Schritte und Empfehlungen für 
+die Implementierung eines KI -basierten Wissensma-
+nagements bietet . Durch die strukturierte Herange-
+hensweise können KMU ihre Ressourcen optimal nut-
+zen, Risiken minimieren und ihre Innovationsfähigkeit 
+steigern. Dies führt langfristig zu nachhaltigem Wachs-
+tum und einer stärkeren Marktposition . Nachfolgend 
+werden die wichtigsten Schritte für die Implementie-
+rung eines KI-basierten Wissensmanagement s im Rah-
+men einer Transferschablone darges tellt und jeweils 
+geeignete „Good Practices “ identifiziert . 
+Die Identifikation  und Implementierung  von Anwen-
+dungsfällen lässt sich wie Abbildung 9 dargestellt  in 
+drei Hauptaktivitäten bünde ln: Beobachten, Handeln 
+und Entscheiden  (Vettorello et al. 2019) . Diese Phasen 
+bilden den Rahmen für einen strukturierten Ansatz zur 
+effektiven Implementierung technologiebasierter Lö-
+sungsansätze unter Berücksichtigung soziotechni-
+scher Dimensionen.  
+Die erste Phase Beobachten  widmet sich dem Eingren-
+zen und Vorbereiten der Rahmenbedingungen. Hierbei 
+werden die relevanten soziotechnischen Dimensio-
+nen, wie etwa die Technologiegrade der Unternehmen, 
+Support-Strukturen und technologiebezogene Kon-
+textfaktoren, systematisch analysier t. Ziel ist es, den 
+Kontext zu verstehen und darauf basierend relevante 
+Anwendungsfälle  zu definieren, die als Ausgangspunkt 
+für weitere Entwicklungen dienen.  
+In der darauffolgenden  Phase Handeln liegt der 
+Schwerpunkt auf dem Entdecken und Verstehen der 
+identifizierten Anwendungsfälle . Diese Phase beinhaltet das Prototyping und die iterative Entwick-
+lung von Lösungen. Es werden Anwendungsfälle ent-
+worfen, getestet und kontinuierlich weiterentwickelt, 
+um optimale Ergebnisse zu gewährleisten. Diese Itera-
+tionen tragen dazu bei, den Lösungsansatz ständig an 
+die dynamischen Anforderungen des Unternehmens 
+anzupassen.  
+Abschließend erfolgt die Phase Entscheiden , in der die 
+getesteten und verifizierten Use -Cases implementiert 
+werden. Die Entscheidungen basieren auf den fundier-
+ten Erkenntnissen aus den vorangegangenen Phasen. 
+Ein kontinuierlicher Reflexionsprozess sichert zudem, 
+dass die Implementierungen im Einkl ang mit den stra-
+tegischen Unternehmenszielen stehen und nachhaltig 
+erfolgreich sind.  
+Dieser dreiphasige Ansatz ermöglicht eine effektive 
+Nutzung der vorhandenen technologischen und sozio-
+technischen Ressourcen und fördert eine zielgerich-
+tete und durchdachte Implementierung von Technolo-
+gien innerhalb der Unternehmen . 
+4.1 Identifikation von Anwendungs-
+fällen  
+Zu Beginn jeder Implementierung von KI -gestützten 
+Anwendungen  in Unternehmen steht die Identifikation 
+relevanter Anwendungsfälle . Dieser Schritt ist von 
+grundlegender Bedeutung, um spezifische Anwen-
+dungsszenarien zu identifizieren, in denen KI -Techno-
+logien einen klaren Mehrwert bieten können.  
+Kick-Off-Veranstaltung  
+Im Rahmen der Identifikation von Anwendungsfälle 
+bedarf es unterschiedliche r Methoden und Werkzeuge 
+(siehe Abbildung 10). Zu Beginn des Projekts ist eine 
+Kick-off-Veranstaltung obligatorisch, um alle 
+Use-Case
+definieren
+Entdecken VerstehenUse-Case 
+verstehen
+EntwerfenUse-Case
+getestet
+ImplementierungTechnologiereife
+der UnternehmenSupport-Strukturen
+der UnternehmenTechnologie -bezogene
+KontextfaktorenSoziotechnische Dimensionen
+ andeln Entscheiden  eobachtenEingrenzen & Vorbereiten
+Abbildung 9. Phasen der Auswahl und Implementierung von Use Cases für die semantische Suche  Transferschablone  
+  
+30 Projektbeteiligten über die Zielsetzung und das 
+Projektvorgehen zu informieren. Folgende Aspekte 
+sollten im Rahmen der Veranstaltung diskutiert 
+werden: 
+▪ Ziele definieren : Klarstellung, was mit der 
+semantischen Suche erreicht werden soll 
+(z.B. Verbesserung der Suchgenauigkeit, Be-
+nutzererfahrung).  
+▪  mfang festlegen : Welche Funktionen und 
+Fähigkeiten die semantische Suche umfas-
+sen soll  
+▪  eilensteine bestimmen : Identifizierung 
+und Festlegung von entscheidenden Pro-
+jektphasen und deren Abschlusskriterien  
+▪ Risiken identifizieren : Risiken und Heraus-
+forderungen im Projekt frühzeitig festlegen  
+Geschäftsprozess analyse  
+Die Erhebung von Geschäftsprozessen ist ein ent-
+scheidender Schritt bei der Identifikation relevanter 
+Anwendungsfälle  mit den folgenden Schritten: 
+▪ Dokumentation der aktuellen Prozesse:  
+Detaillierte Aufzeichnung der bestehenden 
+Geschäftsprozesse z.B. durch BPMN 2.0  
+▪ Identifikation von Schwachstellen:  Erhe-
+bung von Ineffizienzen und Optimierungspo-
+tenzialen durch Experteninterviews  
+▪ Identifikation relevanter Datenquellen:  Be-
+stimmung interner und externer Datenquel-
+len sowie Bewertung ihrer Qualität und Struk-
+tur identifiziert werden  
+▪ Erhebung der  utze ndenanforderungen: 
+Im Rahmen der Nutze ndenanalyse können 
+Bedürfnisse , Schmerzpunkte  und Erwartun-
+gen der Nutzen den identifiziert werden  z.B. 
+durch Value Proposition Design, Use Case 
+Canvas  4.2  ewertung und Auswahl von An-
+wendungsfällen  
+Ein zentraler Aspekt bei der Bewertung und Auswahl 
+geeigneter Anwendungsfälle ist die Berücksichtigung 
+wesentlicher Faktoren.  Die verfügbare Datengrundlage  
+ist hierbei zentral  und sollte die nachfolgenden Krite-
+rien erfüllen:  
+Datengrundlage  
+In jedem KI-Projekt ist die Qualität der Daten von ent-
+scheidender Bedeutung. Sie umfasst die Verlässlich-
+keit und Genauigkeit der Daten, was sicherstellt, dass 
+die Informationen zutreffend und vertrauenswürdig 
+sind. Darüber hinaus ist die Konsistenz der Datenfor-
+mate ein wesentlicher Aspekt, der die Integration und 
+Verarbeitung der Daten erleichtert, indem er ein ein-
+heitliches und standardisiertes Format gewährleistet . 
+Die Quelle der Daten spielt ebenfalls eine zentrale 
+Rolle. Ihre Verfügbarkeit und Zugänglichkeit beeinflus-
+sen die Möglichkeit, Informationen effektiv abzurufen 
+und zu nutzen. Eine breite Vielfalt der Datenquellen, 
+darunter Datenbanken, Dateien und APIs, ermöglicht 
+es, umfassende und diverse Datensätze zu sammeln, 
+die zur Vielfalt und Tiefe der Analysen beitragen.  
+Abbildung 10. Methodische Werkzeuge zur Auswahl und Bewertung relevanter Anwendungsfälle  Transferschablone  
+  
+31 Ein weiterer kritischer Bereich ist der Datenschutz,  der 
+im Kontext der Datennutzung höchste Priorität genießt. 
+Die Einhaltung der Datenschutzrichtlinien gewährleis-
+tet, dass die Daten in Übereinstimmung mit rechtli-
+chen und ethischen Standards verarbeitet werden. 
+Gleichzeitig ist die Sicherheit der Daten, etw a durch 
+die Anwendung von Verschlüsselungsmaßnahmen, 
+unerlässlich, um die Integrität und Vertraulichkeit der 
+Informationen zu schützen und das Risiko von Daten-
+verletzungen zu minimieren.  
+ 
+Ökonomische Betrachtung  
+Neben der Datenqualität und Verfügbarkeit ist die Aus-
+wahl der Anwendungsfälle  auf Basis ökonomischer 
+Überlegungen essenziell. Wirtschaftliche Faktoren 
+spielen eine entscheidende Rolle, um sicherzustellen, 
+dass die Implementierung eines Anwendungsfalls  
+nicht nur technisch machbar, sondern auch finanziell 
+sinnvoll ist.  
+Die Implementierungskosten, einschließlich direkter 
+und indirekter Aufwendungen, müssen sorgfältig kal-
+kuliert werden, um sicherzustellen, dass die Investition 
+finanziell tragbar ist. Der Return on Investment (ROI) ist 
+ein wesentlicher Faktor, da er potenzi elle Einsparun-
+gen und Umsatzsteigerungen quantifiziert. Auch die 
+Skalierbarkeit der Lösung und das damit verbundene 
+Wachstumspotenzial spielen eine Rolle, um sicherzu-
+stellen, dass die Lösung langfristig wettbewerbsfähig 
+bleibt.  
+Ebenso wichtig sind die Risiken, die sowohl finanzieller 
+als auch technologischer Natur sein können, sowie die 
+Amortisationsdauer, die angibt, wie lange es dauert, 
+bis sich die Investition auszahlt. In Abbildung 1 0 ist ein 
+Fragenkatalog exemplarisch dargestellt, der hilft die 
+Auswahl des vielversprechendsten Anwendungsfalls 
+zu unterstützen.  4.3 Implementierung und Optimie-
+rung von Anwendungsfällen  
+Bei der Implementierung von Anwendungsfällen  ist es 
+wichtig zu beachten, dass KI -Systeme durch kontinu-
+ierliches Training und Optimierung im Laufe der Zeit er-
+heblich verbessert werden können. Hierbei spielen so-
+ziotechnische Faktoren wie die Technologiereife des 
+Unternehmens, die Supportstrukturen und  die techno-
+logiebezogenen Kontextfaktoren eine besondere Rolle, 
+um den Erfolg der semantischen Suche kontinuierlich 
+sicherzustellen . 
+Im Verlauf des Projekts sollten daher regelmäßige Up-
+dates und Feedbackschleifen integriert werden, um 
+den Fortschritt der KI -Entwicklung transparent zu ma-
+chen. Mitarbeiter sollten über Zwischenergebnisse, 
+Herausforderungen und Erfolge informiert werden, um 
+ein klares Bild von der Entwicklung d er KI-Lösungen 
+und den erzielten Fortschritten zu erhalten.  
+Ein wesentlicher Bestandteil dieses Prozesses ist die 
+aktive Einbindung der Mitarbeite nden in die Optimie-
+rung der KI. Durch gezielte Feedback -Mechanismen 
+können ihre Beobachtungen und Erfahrungen gesam-
+melt werden, was direkt zur Verbesserung der KI -Sys-
+teme beiträgt. Dies fördert nicht nur ein Gefühl der Mit-
+wirkung, sondern sorgt auch dafür, das s die KI-Lösun-
+gen den spezifischen Bedürfnissen und Anforderungen 
+des Unternehmens gerecht werden.  
+Kleine Erfolge sollten besonders hervorgehoben und 
+gefeiert werden, um die positive Entwicklung der KI -
+Technologien zu betonen. Dies hilft den Mitarbeite n-
+den zu erkennen, dass auch scheinbar kleine Verbes-
+serungen einen großen Einfluss auf die Leistungsfähig-
+keit der KI -Systeme haben können und dass ihr Beitrag 
+zur erfolgreichen Implementierung wertgeschätzt 
+wird. Durch kontinuierliche Schulungen und prakti-
+sche Erfahrungen können die Mitarbeite nden die Evo-
+lution der KI -Technologien aus erster Hand miterleben.  
+EntwerfenUse-Case
+getestet
+Implementierung
+EntscheidenTechnologiereife der Unternehmen
+ Ist unsere derzeitige Hardware und Software in der Lage , eine 
+semantische Suche effektiv zu unterstützen und zu  optimieren ?
+ Haben unsere Mitarbeitenden die notwendigen Fähigkeiten und 
+Kenntnisse ? Brauchen sie zusätzliche Schulungen ?
+  
+Supportstrukturen der Unternehmen
+ Haben wir kompetenten technischen Support verfügbar , um bei 
+Problemen schnell und effektiv helfen zu können ?
+ Fördern wir eine offene Kommunikation zwischen der IT -
+Abteilung und anderen Abteilungen , um Anforderungen und 
+Probleme frühzeitig zu erkennen ?
+  
+Technologiebezogene Kontextfaktoren
+ Berücksichtigen wir die spezifischen Anforderungen und 
+Besonderheiten unserer Branche bei der Auswahl und 
+Implementierung der semantischen Suche ?
+ Evaluieren wir regelmäßig die Vorteile der semantischen Suche im 
+Vergleich zu unseren Wettbewerbern und passen unsere Strategien 
+entsprechend an ?
+ Achten wir auf die Einhaltung von Datenschutzrichtlinien und haben 
+wir Sicherheitsmaßnahmen zum Schutz sensibler Daten 
+implementiert ? 
+  
+Abbildung 11. Fragenkatalog zur Identifikation und Auswahl von Use Cases  Transferschablone  
+  
+32 Eine positive Fehlerkultur, in der Probleme als Lernge-
+legenheiten betrachtet werden, fördert Offenheit und 
+Experimentierfreude. Mitarbeite nde sollten ermutigt 
+werden, ihre Beobachtungen und Vorschläge zur Ver-
+besserung der KI -Systeme offen zu teilen. Dies trägt 
+dazu bei, dass anfängliche Schwierigkeiten als natürli-
+cher Teil des Lernprozesses wahrgenommen werden 
+und nicht als Indikator für Misser folg. 
+In Abbildung 12 werden exemplarische Fragen zusam-
+mengefasst, die die soziotechnischen Dimensionen 
+der semantischen Suche beleuchten.  
+4.4  andlungsempfehlungen   
+Für die erfolgreiche Implementierung einer semanti-
+schen Suche sind mehrere Faktoren von Bedeutung, 
+die im Folgenden skizziert werden. Diese Erkenntnisse 
+resultieren aus der Projektarbeit und den Beobachtun-
+gen bei der wissenschaftlichen Begleitung des Pro-
+jekts. Abbildung 13 bietet eine Zusammenfassung der 
+zentralen Ergebnisse.  
+Organisatorische Bedingungen  
+Eine nahtlose Integration der semantischen Suche  in 
+bestehende Unternehmensprozesse ist essenziell, um 
+Arbeitsabläufe zu verbessern.  Überdies sollte die Her-
+anführung der Mitarbeite nden an neue Technologien 
+berücksichtigt werden. Eine klare Definition des Sys-
+temzwecks und eine Einweisung in dessen Nutzung 
+sowie dessen Vorteile erhöhen die Akzeptanz und das 
+Vertrauen in das System. Zusätzliche Sicherheitsma ß-
+nahmen, insbesondere im Bereich Datenschutz und -
+sicherheit, st ärken das Vertrauen der Mitarbeite nden 
+zusätzlich . In diesem Zusammenhang sollten KMU 
+eine sichere Speicherlösung priorisieren, die hohe Si-
+cherheitsstandards erfüllen, wie Cloud -Dienste mit 
+Ende-zu-Ende-Verschlüsselun g, regelmäßigen Sicher-
+heitsupdates und entsprechenden Zertifizierungen. Insbesondere für unternehmenskritische Dokumente  
+sind diese Anforderungen einzuhalten, um Dateni nteg-
+rität und Vertraulichkeit zu gewährleisten.  Die Wahl der 
+Speicherlösung, ob offline oder online, sollte auch den 
+Mitarbeite nden kommuniziert werden. Für die Präzi-
+sion und Relevanz der Suchergebnisse ist ein aktueller 
+und umfangreicher Datensatz von großer Bedeutung. 
+Dies gewährleistet, dass die Suche relevante Ergeb-
+nisse liefert.  
+Nutzendenzufriedenheit  
+Um die Akzeptanz der semantischen Suche bei den 
+Mitarbeitenden zu stärken, ist es essenziell, die Zufrie-
+denheit der Anwende nden sicherzustellen. Klare und 
+nachvollziehbare Suchergebnisse sind hierbei uner-
+lässlich, um die Nutzendenzufriedenheit  zu erhöhen. 
+Ein weiterer Aspekt zur Steigerung der Akzeptanz und 
+somit der Nutzendenzufriedenheit  besteht in der Mini-
+mierung der Neustart -Zeiten. Es sollte gewährleistet 
+sein, dass Inaktivitätsperioden nicht zu längeren War-
+tezeiten führen, wenn das Tool neu gestartet wird.  
+Darüber hinaus muss der Use Case der semantischen 
+Suche einen konkreten  Mehrwert für die Nutzenden 
+schaffen. Dies bedeutet, dass die Technologie spür-
+bare Vorteile im Arbeitsalltag bieten sollte, wie bei-
+spielsweise eine deutliche Reduktion von Suchzeiten, 
+schnellere Entscheidungsfindung oder eine verbes-
+serte Verfügbarkeit von relevanten Informationen. Nur 
+wenn die Mitarbeitenden einen direkten Nutzen für ihre 
+individuellen Aufgaben wahrnehmen, wird die seman-
+tische Suche nachhaltig akzeptiert werden . 
+Für KMU ist zudem eine kontinuierliche Verbesserung 
+der semantischen Suche von entscheidender Bedeu-
+tung, um den Mitarbeitenden aktuelle Entwicklungen 
+zugänglich zu machen und die technologischen Anfor-
+derungen zu erfüllen und zu übertreffen . 
+Entdecken VerstehenUse-Case 
+verstehen
+Entwerfen
+ andelnProzessbeschreibung
+ Wie wird der Prozess ausgelöst ?
+ Durch wen ?
+ Was passiert im Prozess ?
+ Was sind einzelne Prozessschritte ?
+  .
+Prozessmetriken
+ Wie häufig tritt der Prozess auf ?
+ Wie lange dauert der Gesamtprozess ?
+ Wie viele Prozessschritte umfasst die Aufgabe ?
+  
+Datengrundlage
+ Welche Daten liegen vor ?
+ Wo liegen die Daten vor , in welchem Quellsystem ?
+ In welchem Format liegen die Daten vor ? Wie genau sind die Daten ?
+  
+Potenzial für die semantische Suche
+ Welche Fragen stellen sich die Akteure im Prozess ?
+ Welche Prozessschritte  erleichtert werden ?
+ Wie viele Akteure nutzen die semantische Suche ?
+  
+Abbildung 12. Fragenkatalog zu soziotechnischen Faktoren im Rahmen der Implementierung und Optimierung  Transferschablone  
+  
+33 Externer Support  
+Der Einsatz externer Ressourcen kann entscheidend 
+zur Akzeptanz der semantischen Suche beitragen. Sie 
+ermöglichen eine effizientere Bewältigung betriebli-
+cher Herausforderungen und eine bessere Erfüllung 
+spezifischer Anforderungen. Die Art dieser externen 
+Unterstützung variiert je nach Unternehmen und kann 
+sich auf Aspekte wie die Benutzerfreundlichkeit der se-
+mantischen Suchoberfläche konzentrieren. Zudem 
+kann sie den Zugang zu Schulungsmaterialien erleich-
+tern und somit die Lernphase für Mitarbeitende, die m it 
+der Technologie interagieren, beschleunigen.  
+Die Anpassung der semantischen Suche an die Größe 
+von KMU kann die Systemleistung erheblich steigern 
+und den bestmöglichen Technologieeinsatz ermögli-
+chen. Die Berücksichtigung von industriespezifischen 
+Anforderungen und Besonderheiten bei der Nutzung 
+der Technologie ist ein weiterer zentraler Schritt zur 
+Optimierung des Systems. Auch das Angebot von 
+Schulungen durch externe Organisationen kann die IT -
+Kompetenzen der Mitarbeitenden im Umgang mit der 
+semantischen Suche erhöhen und somit deren Einsatz 
+und Akzeptanz in KMU fördern. 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Organisatorische 
+Bedingungen
+Level, auf dem KMU das Zusammenspiel von 
+Anwendungskontext , Technologie und 
+Datenschutz beherrschen
+ Kompatibilit t :Kompatibilität mit 
+bestehenden Systemen und Prozessen
+ Technologie :Nutzen von Technologien 
+mit präzisen Suchergebnissen
+ Zweck:Klare Definition von Zweck und 
+Nutzen der semantischen Suche
+ Sicherheit :Stärkung des 
+Sicherheitsgefühls
+ Speicherort : Sichere und zuverlässige 
+Datenspeicherung
+ Daten: Umfangreiche und aktuelle 
+DatenbankNutzenden -
+zufriedenheit
+Level der Zufriedenheit der Nutzenden 
+bezüglich ihrer Erwartungen an die 
+semantische Suche und den gelieferten 
+Ergebnissen
+ Suchfunktion : Präzise Ergebnisse für 
+schnelle Suche
+ Entwicklung : Kontinuierliche 
+Optimierung und Anpassung der 
+semantischen Suche
+  ahtlose Integration in 
+Arbeitsabl ufe :Weniger Zeit wird mit 
+der Suche verbracht , mehr Zeit für 
+strategische Aufgaben
+ Erhöhung der E izienz : 
+Gesamtarbeitsaufwand wird reduziert , 
+wodurch Mitarbeitende produktiver 
+arbeiten könnenExterner 
+Support
+Level an externer Unterstützung , das ein 
+Unternehmen erhält , um 
+Geschäftsanforderungen oder betriebliche 
+Herausforderungen zu bewältigen
+ Ober  che : Benutzerfreundliche und 
+intuitive Benutzeroberfläche
+ Einführung : Hilfreiche 
+Einführungsmaterialien und Schulungen
+ Skalierbarkeit : Anpassung der Leistung 
+an die Unternehmensgröße
+ Branchenabh ngigkeit : 
+Berücksichtigung spezifischer 
+Branchenanforderungen
+ Bildung: Verbesserung der IT -
+Kompetenzen
+Abbildung 13. Handlungsempfehlungen  Transferschablone  
+  
+34 
+  
+5. Zusammenfassung und  
+Ausblick  Zusammenfassung und Ausblick  
+  
+35 5 Zusammenfassung und 
+Ausblick  
+Das Forschungsprojekt „KIWise“ befasste sich intensiv 
+mit dem Einsatz und der Akzeptanz von KI -basierten 
+Wissenszugängen, insbesondere der semantischen 
+Suche, in KMU. Ziel des Projekts war es, die Potenziale 
+dieser Technologie für die Optimierung der Wissens-
+verwaltung in KMU zu untersuchen. Der Projektablauf 
+gliederte sich in drei zentrale Phasen: Initiierung, Ent-
+scheidungsfindung und Implementierung.  
+In der ersten Phase, der Initiierung, wurde eine umfas-
+sende Potenzialanalyse durchgeführt, die durch eine 
+multivokale Literaturanalyse und Experteninterviews 
+ergänzt wurde. Daraus ergaben sich spezifische An-
+wendungsfälle, die im Anschluss detailliert spezi fiziert 
+und bewertet wurden, um ihre Eignung für eine seman-
+tische Suche zu prüfen.  
+In der Phase der Entscheidungsfindung wurde eine 
+multikriterielle Bewertung der identifizierten Anwen-
+dungsfälle vorgenommen. Dabei wurden Faktoren wie 
+Datenqualität und ökonomische Überlegungen be-
+rücksichtigt, um geeignete Use -Cases auszuwählen. 
+Ein spezie ll angepasstes KI -Service Canvas half dabei, 
+die strategische Planung der Implementierung zu un-
+terstützen.  
+Die Implementierungsphase umfasste die prototypi-
+sche Umsetzung der ausgewählten Use -Cases. Dabei 
+lag ein besonderer Fokus auf der Konfiguration von 
+Suchlösungen und der Anpassung der Benutzerober-
+fläche, um die Nutzerfreundlichkeit und Akzeptanz sei-
+tens der Mitarbeitenden zu gewährleisten. Durch ge-
+zielte Iterationen in der Prototypenentwicklung wurden 
+sowohl organisatorische als auch technische Heraus-
+forderungen bewältigt.  
+Die Ergebnisse des Projekts zeigten deutlich, dass die 
+semantische Suche die Effizienz der Informationsge-
+winnung in KMU erheblich verbessern kann. Sie fördert 
+eine gezielte und kontextsensitive Nutzung von Wis-
+sen, was insbesondere in wissensintensiven Proz es-
+sen von Vorteil ist.  
+Die Handlungsempfehlungen, die sich aus dem Projekt 
+ableiten lassen, betreffen mehrere Ebenen: Auf organi-
+satorischer Ebene ist es essenziell, den Zweck  und 
+Mehrwert  des Systems klar zu definieren und die se-
+mantische Suche nahtlos in die bestehenden Prozesse 
+zu integrieren. Sicherheitsmaßnahmen, insbesondere 
+im Bereich des Datenschutzes, sollten dabei priorisiert 
+werden. Zur Steigerung der Nutzendenzufriedenheit  ist 
+es wichtig, durch klare Suchergebnisse und eine intui-
+tive Benutzeroberfläche die Akzeptanz de r Technologie 
+zu fördern. Kontinuierliche Verbesserungen sollten auf 
+Basis von Nutze ndenfeedback implementiert werden. 
+Darüber hinaus kann externer Support entscheidend 
+sein, um die Implementierung zu erleichtern und die 
+Mitarbeitenden entsprechend zu schulen. Schulungen durch externe Experten können die IT -Kompetenzen 
+der Mitarbeitenden stärken und die technologische Ak-
+zeptanz fördern.  
+Langfristig bietet die Implementierung der semanti-
+schen Suche den KMU die Möglichkeit, ihre Wettbe-
+werbs- und Innovationsfähigkeit nachhaltig zu stei-
+gern. Durch effizienteren Wissenszugang und opti-
+mierte Geschäftsprozesse können Unternehmen bes-
+ser auf die H erausforderungen der Digitalisierung rea-
+gieren und ihre Marktposition stärken. Zukünftig soll-
+ten KMU darauf abzielen, ihre IT -Infrastruktur kontinu-
+ierlich auszubauen und die Digitalisierung strategisch 
+zu nutzen. Der erfolgreiche Einsatz der semantischen 
+Suche kann dabei ein Vorbild für weitere technologi-
+sche Innovationen sein, die die Adaptionsfähigkeit und 
+Resilienz von KMU in einem dynamischen Marktumfeld 
+fördern.  
+ 
+ Literaturverzeichnis  
+  
+36 6 Literaturverzeichnis  
+Ahmad, T., und van Looy, A. 2020. 
+“https://doi.org/10.3390/su12176827,” Sustaina-
+bility (12:17).  
+Alavi, M., und Leidner, D. E. 2001. “Review: Knowledge 
+Management and Knowledge Management Sys-
+tems: Conceptual Foundations and Research Is-
+sues,” MIS Quarterly  (25:1), S. 107 -136.  
+Antonelli, C., und Colombelli, A. 2015. “External and 
+Internal Knowledge in the Knowledge Generation 
+Function,” S. 273 -298.  
+Bast, H., Buchhold, B., und Haussmann, E. 2016. “Se-
+mantic Search on Text and Knowledge Bases,” 
+Foundations and Trends® in Information Retrieval  
+(10:2-3), S. 119 -271 (doi: 10.1561/1500000032).  
+Bem Machado, A. de, Secinaro, S., Calandra Davide, 
+und Lanzalonga Federico. 2021. “Knowledge man-
+agement and digital transformation for Industry 
+4.0: a structured literature review,” S. 320 -338.  
+Bordeleau, F. -E., Mosconi, E., und de Santa -Eulalia 
+Luis Antonio. 2019. “Business intelligence and an-
+alytics value creation in Industry 4.0: a multiple 
+case study in manufacturing medium enterprises,” 
+S. 173-185.  
+Bundesministerium für Wirtschaft und Klimaschutz. 
+2024. “Fachkräfte für Deutschland - Herausforde-
+rungen Fachkräftesicherung,” verfügbar unter 
+https://www.bmwk.de/Redaktion/DE/Dos-
+sier/fachkraeftesicherung.html, Zugriff am 28. 
+März 2024.  
+Cambria, E., und White, B. 2014. “Jumping NLP Curves: 
+A Review of Natural Language Processing Re-
+search [Review Article],” IEEE Computational In-
+telligence Magazine  (9:2), S. 48 -57. 
+Damanpour, F., und Schneider, M. 2006. “Phases of the 
+Adoption of Innovation in Organizations: Effects of 
+Environment, Organization and Top Managers,” 
+British Journal Management  (17:3), S. 215 -236.  
+Despres, C., und Chauvel, D. 1999. “Knowledge man-
+agement(s),” S. 110 -123.  
+Devlin, J., Chang, M. -W., Lee, K., und Toutanova, K. 
+2019. “BERT: Pre -training of Deep Bidirectional 
+Transformers for Language Understanding,” Hu-
+man Language Technologies  (1), S. 4171 -4186.  
+Durst, S., Palacios Acuache, M., und Bruns, G. 2021. 
+“Peruvian small and medium -sized enterprises 
+and COVID -19: time for a new start!,” Journal of En-
+trepreneurship in Emerging Economies . 
+Edwards, J. S. 2022. “Where knowledge management 
+and information management meet: Research di-
+rections,” International Journal of Information 
+Management  (63), S. 102458 (doi: 10.1016/j.ijinfo-
+mgt.2021.102458).  
+Etienne Fabian, N., Dong, J. Q., Broekhuizen, T., und 
+Verhoef, P. C. 2024. “Business value of SME digi-
+talisation: when does it pay off more?” European 
+Journal of Information Systems  (33:3), S. 383 -402 
+(doi: 10.1080/0960085X.2023.2167671).  Fabbro, F., Fabbro, A., und Crescentini, C. 2022. “The 
+Nature and Function of Languages,” Languages  
+(7:4).  
+Fehrer, T., Fischer, D. A., Leemans, S. J., Röglinger, M., 
+und Wynn Moe T. 2022. “An assisted approach to 
+business process redesign,”  
+Fisher, E., Mahajan, R. L., und Mitcham, C. 2006. “Mid-
+stream Modulation of Technology: Governance 
+From Within,” Bulletin of Science, Technology & 
+Society (26:6), S. 485 -496 (doi: 
+10.1177/0270467606295402).  
+Gimpel, H., und Röglinger, M. 2015. “Digital Transfor-
+mation: Changes and Chances – Insights based on 
+an Empirical Study,” S. 1 -20. 
+Goldschmidt, D. E., und Krishnamoorthy, M. 2007. 
+“Comparing keyword search to semantic search: 
+a case study in solving crossword puzzles using 
+the Google ™ API,” Software: Practice and Experi-
+ence, S. 417-445.  
+Grüneke, T., Guggenberger, T., Nusser, J., Oberländer, 
+A. M., Stramm, J., und and Varrentrapp, A. 2024. 
+“Unlocking AI -based Knowledge Management Po-
+tential for SMEs: Exploring Semantic Search Adop-
+tion,” Wirtschaftsinformatik 2024 Proceedings  
+(90).  
+Hofmann, P., Jöhnk, J., Protschky, D., Stähle, P., Ur-
+bach, N., und Buck, C. 2020. “KI -Anwendungsfälle 
+zielgerichtet identifizieren,” Wirtschaftsinformatik 
+& Management  (12:3), S. 184 -193 (doi: 
+10.1365/s35764 -020-00257-z). 
+Jaharri, M. H., Askay, D., Eshraghi, A., und Smith, P. 
+2023. “Artificial intelligence and knowledge man-
+agement: A partnership between human and AI,” 
+S. 87-99. 
+Jarrahi, M. H., Askay, D., und Eshraghi, Ali, Smith, Pres-
+ton. 2023. “Artificial intelligence and knowledge 
+management: A partnership between human and 
+AI,” Business Horizons  (66:1), S. 87 -99. 
+Jöhnk, J., Weißert, M., und Wyrtki, K. 2021. “Ready or 
+Not, AI Comes — An Interview Study of Organiza-
+tional AI Readiness Factors,” Business & Infor-
+mation Systems Engineering  (63), S. 5-20. 
+Kano, N., Seraku, N., Takahashi, F., und Tsuji, S. 1984. 
+“Attractive Quality and Must -be Quality.,” Journal 
+of the Japanese Society for Quality Control  (14:2), 
+S.147-156.  
+Khurana, I., Dutta, D. K., und Ghura, A. S. 2022. “SMEs 
+and digital transformation during a crisis: The 
+emergence of resilience as a second -order dy-
+namic capability in an entrepreneurial ecosys-
+tem,” Journal of Business Research  (150), S. 623 -
+641.  
+Lauriola, I., Lavelli, A., und Aiolli, F. 2022. “An introduc-
+tion to Deep Learning in Natural Language Pro-
+cessing: Models, techniques, and tools,” Neuro-
+computing  (470), S. 443 -456.  
+Lewis, P., Perez, E., Piktus, A., Petroni, F., Karpukhin, V., 
+Goyal, N., Küttler, H., Lewis, M., Yih, W., Rock-
+täschel, T., Riedel, S., und Kiela, D. 2020. Literaturverzeichnis  
+  
+37 “Retrieval -Augmented Generation for Knowledge -
+Intensive NLP Tasks,”  
+Li, R., Xiao, W., Wang, L., Juang, H., und Carenini, G. 
+2021. “T 3 T³ -Vis: a visual analytic framework for 
+Training and fine -Tuning Transformers in NLP,” As-
+sociation for Computational Linguistics , S. 220-
+230.  
+Liebowitz, J. 2001. “Knowledge management and its 
+link to arti®cial intelligence,” S. 1 -6. 
+Mack R., Ravin Y., und Byrd, R. J. 2001. “Knowledge por-
+tals and the emerging digital knowledge work-
+place,” S. 925 -955.  
+Madan, R., und Ashok, M. 2023. “AI adoption and diffu-
+sion in public administration: A systematic litera-
+ture review and future research agenda,” Govern-
+ment Information Quarterly  (40:1).  
+OECD. 2021. “OECD Social, Employment and Migra-
+tion Working Papers,”  
+Olan, F., Ogiemwonyi Arakpogun, E., Suklan, J., Nak-
+podia, F., Damij, N., und Jayawickrama, U. 2022. 
+“Artificial intelligence and knowledge sharing: 
+Contributing factors to organizational perfor-
+mance,” Journal of Business Research  (145), S. 
+605-615 (doi: 10.1016/j.jbusres.2022.03.008).  
+O'Leary, D. E. 1998. “Enterprise knowledge manage-
+ment,”  
+Quinn, J. B., Anderson, P., und Finkelstein, S. 1996. 
+“Leveraging intellect,”  
+Reiter, E., und Dale, R. 1997. “Building applied natural 
+language generation systems,” Natural Language 
+Engineering . 
+Shaikh, A. A., Kumar, A., Syed, A. A., und Shaikh, M. Z. 
+2021. “A Two -Decade Literature Review on Chal-
+lenges Faced by SMEs in Technology Adoption,” 
+Academy of Marketing Studies Journal  (25:3).  
+Tsui, E., Garner, B. J., und Staab, S. 2000. “The role of 
+artificial intelligence in knowledge management,” 
+S. 235-239.  
+Urbach, N., Häckel, B., Hofmann, P., Fabri, L., Ifland, 
+S., Karnebogen, P., Krause, S., Lämmermann, L., 
+Protschky, D., Markgraf, M., und Willburger, L. 
+2021. “KI -basierte Services intelligent gestalten – 
+Einführung des KI -Service-Canvas.l,” Projekt-
+gruppe Wirtschaftsinformatik des Fraunhofer -In-
+stituts für Angewandte Informationstechnik FIT, 
+Hochschule Augsburg, Universität Bayreuth, 
+Frankfurt University of Applied Sciences, Bay-
+reuth, Augsburg und Frankfurt . 
+Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jo-
+nes, L., Gomez, A. N., Kaiser, Ł., und Polosukhin, I. 
+2017. “Attention is All you Need,” Advances in 
+Neural Information Processing Systems 30 . 
+Venkatesh, V., Morris, M. G., Davis, G. B., und Davis, F. 
+D. 2003. “User Acceptance of Information Tech-
+nology: Toward a Unified View,” MIS Quarterly  
+(27:3).  
+Vettorello, M., Eisenbart, B., und Ranscombe, C. 2019. 
+“Toward Better Design -Related Decision Making: A 
+Proposal of an Advanced OODA Loop,” Proceed-
+ings of the Design Society: International Conference on Engineering Design  (1:1), S. 2387 -
+2396 (doi: 10.1017/dsi.2019.245).  
+Wei, R., und Pardo, C. 2022. “Artificial intelligence and 
+SMEs: How can B2B SMEs leverage AI platforms to 
+integrate AI technologies?” Industrial Marketing 
+Management  (107), S. 4 -483.  
+ 

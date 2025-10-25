@@ -1,0 +1,2371 @@
+Künstliche Intelligenz
+  
+in Handwerk und Mittelstand 
+  
+Ein Forschungsüberblick
+  
+ 
+www. ifh-goettingen .de 
+ifh Forschungsbericht  1  
+Lukas Meub, Till Proeger  
+    
+    
+2022  
+Veröffentlichung des  Volkswirtschaftlichen Instituts für Mittelstand und Handwerk  
+an der Universität Göttingen  
+Forschungsinstitut im Deutschen Handwerksinstitut e.V.  
+Bibliografische Information der Deutschen Nationalbibliothek  
+Die Deutsche Nationalbibliothek verzeichnet diese Publikation in der Deutschen  
+Nationalbibliografie; detaillierte bibliografische Daten sind im Internet über  
+http://dnb.dnb.de  abrufbar.  
+ISSN 2751 -2215  
+DOI-URL: https://doi.org/10.47952/gro -publ -105 
+ 
+Alle Rechte vorbehalten  
+ 
+ifh Göttingen | Heinrich -Düker -Weg 6 | 37073 Göttingen  
+Tel.: +49 551 39 174882  
+E-Mail: info@ifh.wiwi.uni -goettingen.de  
+Internet: www.ifh -goettingen.de  
+ 
+GÖTTINGEN | 2022  
+© Titelmotiv: AdobeStock.com, Sergey  
+Zusammenfassung: Welche Rolle kann künstliche 
+Intelligenz im Handwerk spielen? Die vorliegende Publikati-
+on fasst die internationalen und nationalen Forschungser-
+gebnisse für Handwerk und Mittelstand der vergangenen 
+Jahre zusammen, sammelt Beispielanwendungen, be-
+schreibt Hemmnisse und Erfolgsfaktoren und diskutiert die 
+bestehenden Transferkanäle, um die künftige Rolle von KI 
+im Handwerk zu beurteilen.  
+Die Forschungsliteratur zeigt, dass die Einführung von KI -
+Anwendungen  kleine und mittlere Unternehmen (KMU) 
+grundsätzlich vor dieselben Herausforderungen stellt und 
+mit denselben Struktureigenschaften umgehen muss, wie 
+sie von der Digitalisierung schon bekannt sind. Die Heraus-
+forderung ist jedoch im KI -Bereich ungleich höher: Während 
+grundsätzlich jeder Betrieb mit hohem Datenaufkommen 
+für die Anwendung künstlicher Intelligenz geeignet ist, ist 
+der Ressourcenaufwand einer eigenständigen Erstellung 
+und Implementierung für Einzelbetriebe in der Regel 
+unrealistisch hoch und bislang tendenziell inkompatibel mit 
+den Struktureigenschaften kleinerer KMU.  Ein geeigneter Ansatzpunkt zur Änderung dieser Situation 
+sind KI-Dienstleistungen , die auf Basis von branchenspe-
+zifischen Datenpools entwickelt werden. Dadurch können 
+überbetriebliche Daten spezifischer Anwendungsfelder 
+Forschungseinrichtungen zur Verfügung gestellt werden. 
+Diesen wird dadurch ermöglicht, spezifische KI -
+Anwendungen zu erstellen und über Neugründungen zu 
+kommerzialisieren. Auf diesem Wege kann künstliche 
+Intelligenz in spezifischen Anwendungsfeldern als Dienst-
+leistung für die Betriebe eines Handwerkszweiges als 
+allgemein nutzbares Produkt zur Verfügung gestellt werden.  
+Um diesen Transferkanal zu etablieren, können Handwerks - 
+und Mittelstandspolitik dafür im Vorfeld Datenverbünde 
+organisieren, um hiermit Verbindungen zur KI -Forschung 
+herzustellen und nach Entwicklung niedrigschwellig 
+anwendbarer Produkte die KMU und Handwerksbetriebe bei 
+der Nutzung und Verbreitung der so entstehenden KI -
+Dienstleistungen im Handwerk unterstützen.  
+    
+    
+Künstliche Intelligenz
+  
+in Handwerk und Mittelstand 
+  
+Ein Forschungsüberblick   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   4 
+    
+Inhaltsverzeichnis  
+ 
+ 
+ Einleitung  ................................ ................................ ................................ ..............................  5 
+ 
+ 
+ Künstliche Intelligenz — Grundlagen  ................................ ................................ ......................  6 
+ 
+ AI in SME ‘s — der internationale Kontext  ................................ ................................ ................  8 
+ 3.1 Grundlagen  ................................ ................................ ................................ ................................ ... 8 
+ 3.2 Hemmnisse bei der KI -Einführung  ................................ ................................ ............................  11 
+ 3.3 Erfolgsfaktoren bei der KI -Einführung  ................................ ................................ ......................  13 
+ 3.4 Fazit zur internationalen Forschungsliteratur  ................................ ................................ ..........  15 
+ KI im Mittelstand  ................................ ................................ ................................ ..................  17 
+ 4.1 Grundlagen  ................................ ................................ ................................ ................................ . 17 
+ 4.2 Einzelstudien  ................................ ................................ ................................ ..............................  21 
+ 4.3 Transfer -Papiere  ................................ ................................ ................................ ........................  23 
+ 4.4 Transfer -Organisationen  ................................ ................................ ................................ ...........  25 
+ 4.5 Policy -Ebene  ................................ ................................ ................................ ..............................  26 
+ KI im Handwerk  ................................ ................................ ................................ ...................  28 
+ 5.1 Studien  ................................ ................................ ................................ ................................ .......  28 
+ 5.2 Forschungsprojekte  ................................ ................................ ................................ ...................  30 
+ 5.3 Positionspapiere  ................................ ................................ ................................ ........................  31 
+ 5.4 Mittelstand -Digital — Zentrum Handwerk  ................................ ................................ ................  31 
+ 5.5 Bestehende Anwendungsfelder von KI im Handwerk  ................................ ..............................  32 
+ Diskussion: KI -Anwendungen im Handwerk  ................................ ................................ .........  34 
+ 6.1 Ergebnisse der Forschungsliteratur  ................................ ................................ ..........................  34 
+ 6.2 KI -Einführung und Digitalisierung  ................................ ................................ .............................  35 
+ 6.3 Vier Ebenen der KI -Nutzung im Handwerk  ................................ ................................ ................  36 
+ 6.4 Fokus der KI -Förderung  ................................ ................................ ................................ .............  37 
+ Literatur  ................................ ................................ ................................ ..............................  38 1 
+2 
+3 
+4 
+5 
+6 
+7  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   5 
+    
+Die Anwendung von künstlicher Intelligenz (KI) ist in den 
+vergangenen Jahren ein zentrales Thema in Diskussionen 
+um Digitalisierung und betriebliche Innovationsleistung ge-
+worden. Wie bei jeder technologischen Entwicklung im The-
+menfeld der Digitalisierung wurden starke Hoffnungen und 
+Erwartungen formuliert, wie sich die mittelständische Be-
+triebsführung und gesamte Branchen durch den Technolo-
+gieeinfluss grundlegend verändern werden. Nach einigen 
+Jahren der Diskussionen und Anwendungsbemühungen 
+kann ein erster Überblick über die Forschungs - und Trans-
+ferinitiativen gegeben werden und Implikationen für die För-
+derung der Diffusion von KI -basierten Technologien in Mit-
+telstand und Handwerk gezogen werden.  
+Die vorliegende Studie fasst dafür die deutsche und interna-
+tionale Studienlage zur Anwendung von künstlicher Intelli-
+genz in mittelständischen Unternehmen und speziell dem 
+Handwerkssektor zusammen und diskutiert die Implikatio-
+nen für die Innovationsförderung der Handwerkspolitik. Ent-
+sprechend wird der Stand und die Förderung der Technolo-
+giediffusion als zentrale Dimension betrachtet, während 
+technische Grundlagen nur grundlegend behandelt werden. 
+Auf diese Weise können umfassend Strukturen der Techno-
+logieadaption anhand (inter -)nationaler Studien nachge-
+zeichnet werden, zentrale Anreize und Hemmnisse identifi-
+ziert werden und die Erkenntnisse auf das Handwerk ange-
+wendet werden. Dabei zeigt sich ein kohärentes Bild zwi-
+schen internationalen KMU und den für den deutschen Mit-
+telstand bzw. für das Handwerk identifizierten Eigen-
+schaften.  
+Ebenso zeigt sich, dass die Schwierigkeiten bei der KI -
+Anwendung denen der Digitalisierung allgemein gleichen 
+und somit in der Förderung prinzipiell dieselben Maßstäbe 
+angelegt und ähnliche Strukturen genutzt werden können. 
+Gleichwohl sollte die KI -Anwendung aufgrund ihrer Komple-
+xität und den umfänglichen Voraussetzungen in Anwen-
+dungsbetrieben nicht als direkte Weiterführung der beste-
+henden Ansätze zur Digitalisierung verstanden werden,  
+ 
+ 
+ sondern als Forschungs - und Entwicklungsbereich, an dem  
+mittelständische Unternehmen mit speziellen Eigenschaften 
+zwar partizipieren können, dessen Fähigkeit zur Breitenan-
+wendung jedoch bislang nur in Ausnahmefällen vorliegt.  
+An dieser Erstellung von niedrigschwellig nutzbaren KI -
+Anwendungen können Forschungsinitiativen gemeinsam 
+mit Unternehmen arbeiten und die Mittelstandspolitik kann 
+diese Kooperationen unterstützen. Für die bestehenden und 
+künftig zu entwickelnden Anwendungsmöglichkeiten kön-
+nen Beratungsangebote und Transferinitiativen eine Ver-
+breitung bei kleineren Unternehmen unterstützen. Es bietet 
+sich folglich eine konzeptionelle Trennung zwischen Diffusi-
+onsbemühungen neuer, anwendungsbereiter Technologien 
+und der Forschungsförderung im Bereich KI an. Aufgrund 
+des technologischen Standes von KI sind bislang vor allem 
+letztere Initiativen geboten. Eine Vermischung mit den be-
+stehenden Diffusionsbemühungen im Bereich der allgemei-
+nen Digitalisierung erscheint hingegen wenig zweckmäßig.  
+Diese Studie zielt darauf ab, die Rolle von KI für das Hand-
+werk zu untersuchen. In Kapitel 2 wird einleitend Grundla-
+genwissen zur KI dargestellt. Da die Studienlage zu KI im 
+Handwerk bislang begrenzt ist, fasst Kapitel 3 zunächst bis-
+herige Studien der internationalen Forschungsdiskussion 
+zur KI in KMU zusammen. Darauf folgend wird die For-
+schungslage zur KI im deutschen Mittelstand und Handwerk 
+beschrieben (Kapitel 4 und 5) und schließlich übergreifend 
+die Rolle von KI im Handwerk diskutiert (Kapitel 6).  1. Einleitung   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   6 
+    
+Die Künstliche Intelligenz (KI) ist ein Teilgebiet der Informa-
+tik, das daran arbeitet, Maschinen und damit verbundene 
+Computertechnologie zu „intelligenter “ Handlungsweise zu 
+befähigen, wobei keine spezifische Definition von Intelligenz 
+zugrunde liegt. Kerntechnologie der künstlichen Intelligenz 
+ist das maschinelle Lernen (ML). ML beschreibt Lernalgorith-
+men, die verschiedene Formen von Daten nutzen, um kom-
+plexe Modelle zur Repräsentation der Strukturen der jeweili-
+gen Datengrundlage zu entwickeln. Diese Modelle können 
+im Anschluss auf andere Daten derselben Art angewendet 
+werden, um Prognosen, Empfehlungen und Entscheidungen 
+zu erstellen. Die Entwicklung maschinellen Lernens beginnt 
+in den 1940er Jahren, wobei Phasen wissenschaftlichen 
+Fortschritts von Phasen der Stagnation unterbrochen wur-
+den. Durchbrüche waren dabei insbesondere durch die 
+technische Entwicklung der Computertechnologie um die  Jahrtausendwende zu verzeichnen. In der Folge verstärkte 
+sich die Forschung und praktische Erfolge im Bereich der KI  
+(vgl. Döbel et al., 2018 für einen ausführlichen historischen 
+Überblick).  
+Entscheidende Vorbedingung für den effektiven Einsatz des 
+maschinellen Lernens sind große Datenmengen in einem  
+eng abgegrenzten Feld, die zum Training der Modelle ge-
+nutzt werden können. Beispiele für nutzbare Datenquellen 
+sind Sensordaten, Texte oder Bilder, anhand derer Modelle 
+aufgestellt und verbessert werden können. Die anschließen-
+de Anwendung der Modelle kann sowohl in physische  
+Maschinen und auch rein digital in IT -Anwendungen erfol-
+gen. Die Qualität des Modells und damit auch der erzielten 
+Resultate in der Anwendung hängt entscheidend von der 
+Qualität und der Menge der Trainingsdaten ab. Die Erwar-
+© Pexels.com, florianweihmann  2. Künstliche Intelligenz — Grundlagen   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   7 
+    
+tung für die Zukunft der Anwendung von maschinellem Ler-
+nen im Kontext von künstlicher Intelligenz ist die immer tie-
+fergehende Analyse von Daten in allen gesellschaftlichen 
+und wirtschaftlichen Zusammenhängen, um durch ein tiefe-
+res Verständnis der zugrundeliegenden Strukturen effizien-
+tere Prozesse und effektive Entscheidungsunterstützung zu 
+ermöglichen. Ökonomisch betrachtet werden neue Ge-
+schäftsmodelle und Effizienzgewinne in bestehenden Bran-
+chen erwartet, die durch ein tieferes Verständnis und besse-
+re Planbarkeit von Unternehmensprozessen zustande kom-
+men (vgl. Döbel et al., 2018).  
+Auf Ebene der Patente für ML -Techniken stehen die USA und 
+China an der Spitze der Entwicklung, wobei Korea und Ja-
+pan folgen. Deutschland spielt eine geringe Rolle. Auf 
+Deutschland bezogen sind die Patentanmelder vorrangig 
+Großunternehmen, v.a. Siemens, Bosch, Deutsche Telekom, 
+Daimler, BMW und SAP. Mittlere und kleinere Unternehmen 
+spielen eine geringere Rolle, wobei die Patentanmeldungen 
+keine Aussage zur faktischen Anwendung von ML -Technik 
+ermöglichen. Dennoch zeigen die Patentanmeldungen an, 
+wie die internationalen Forschungs - und Entwicklungszen-
+tren gelegen sind. Trotz dieser für Deutschland schwachen 
+Position ist Berlin nach London Europas zweitgrößtes Zent-
+rum für KI -Start -Ups, wobei insgesamt die „deutsche ML -
+Unternehmenslandschaft heterogen und fragmen-
+tiert “ (Döbel et al., 2018, S. 25) ist. Sie ist von Großunterneh-
+men und Forschungseinrichtungen geprägt und hat wenige 
+Kontaktpunkte zum klassischem Mittelstand. Diese geringe 
+Durchdringung der mittelständischen Wirtschaft hat zur ex-pliziten Zielsetzung eines besseren Transfers zu KMU in der 
+deutschen nationalen KI -Strategie von 2018 geführt. Die 
+zentralen Schwierigkeiten beim Technologietransfer liegen 
+– wie bei vielen Digitalisierungsthemen – in der hohen Unsi-
+cherheit einer Neuentwicklung von Technologie, dem Man-
+gel an spezifischer Kompetenz in den Unternehmen und ei-
+ner zu geringen bzw. verstreuten Datenmenge (vgl. Döbel et 
+al., 2018; siehe auch Heinen et al., 2021 für das Handwerk). 
+Trotz dieser Schwierigkeiten und einer global betrachtet 
+schwachen Position bestehen für die mittelständisch ge-
+prägte Unternehmenslandschaft in Deutschland erhebliche 
+Potenziale bei der Adaption von KI, wobei insbesondere die 
+Automatisierung von Produktionsprozessen und die Opti-
+mierung firmeninterner Prozesse die Position deutscher Un-
+ternehmen stärken kann. Umgekehrt bedeutet die dauer-
+haften Nicht -Implementierung der vorhandenen techni-
+schen Möglichkeiten ein Zurückfallen im globalen Wettbe-
+werb, der langfristige negative Auswirkungen auf Wert-
+schöpfung und Wohlstand haben würde. Dabei ist eine der 
+zentralen Herausforderungen der Aufbau von Transferstruk-
+turen, der die vorhandenen Forschungskapazitäten effektiv 
+mit der Unternehmenslandschaft verbindet und dabei die 
+Besonderheiten und Stärken der mittelständischen Wirt-
+schaft berücksichtigt.  
+Im Folgenden werden dafür die bisherigen Untersuchungen 
+zur (internationalen) Umsetzung in Mittelstand und Hand-
+werk zusammengefasst und zentrale Ergebnisse abgeleitet. 
+Im Anschluss wird die Anwendung im Handwerk diskutiert.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   8 
+    
+ 
+ In diesem Kapitel wird die Fragestellung behandelt, wie der 
+Wissensstand der Adaption von KI bei KMUs in der internationa-
+len Forschungsliteratur aussieht. Grundlage ist eine strukturier-
+te Recherche der internationalen Forschungsliteratur zum The-
+menbereich künstlicher Intelligenz und KMU bei Google 
+Scholar sowie eine unstrukturierte Suche über zitierte Studien 
+in den relevanten Forschungsartikeln. Das Ziel ist es dabei, eine 
+übergreifende Einordnung der deutschen Diskussion um die KI -
+Förderung in Mittelstand und Handwerk zu geben und zentrale 
+Ergebnisse der Forschung zu formulieren.  
+Übergreifend fügt sich die Literatur in die Forschungslinien zur 
+Technologieadaption mit Bezug auf KMU ein, wobei insbeson-
+dere auf die Besonderheiten von KI eingegangen wird. Prinzipi-
+ell werden KI -Anwendungen für KMU jedoch nicht anders als 
+andere Aspekte der Digitalisierung mit ähnlichen Konzepten 
+analysiert. Entsprechend sind die Herausforderungen und 
+Adaptionsmuster vergleichbar mit vergangenen Innovations-
+wellen im Bereich der Informationstechnologie, wobei insbe-
+sondere die zentralen Eigenschaften der KMU für die langsame-
+re Technologieadaption verantwortlich sind.  
+Der folgende Literaturüberblick ist gegliedert in Grundlagen der 
+KI-Adaption bei KMU sowie Hemmnisse und Erfolgsfaktoren. 
+Ein Fazit fasst die zentralen Ergebnisse der Studien zusammen.  
+  
+ 3.1 Grundlagen  
+Hansen & Bogh (2021) fassen die Literatur zu KI und 
+Internet of Things (IoT) und ihrer Anwendung in KMU 
+zusammen. Dabei wird zunächst auf Basis bestehen-
+der Studien festgehalten, dass KMU auf dem Weg zur 
+„Industrie 4.0“ keine umfängliche Umsetzung aller 
+technischen Möglichkeiten benötigen, sondern dass 
+die Kombination aus IoT -Anwendung und KI zur 
+Analyse der dort entstehenden Daten zentral für die 
+Steigerung der Leistungsfähigkeit ist. Dabei wird 
+davon ausgegangen, dass dieser Ansatz ein erhebli-
+ches Potenzial hat, aber KMU selbst keine Fähigkeiten 
+zur eigenständigen Implementierung haben – ent-
+sprechend müssen Forschungseinrichtungen die 
+Implementierung in KMU vorbereiten und fördern. 
+Konzeptionell werden Schnittmengen der drei 
+Bereiche KMU, KI und IoT betrachtet, die wiederum 
+drei mögliche Anwendungsfelder ergeben: Modelle, 
+intelligente Entscheidungssysteme, Produktionsda-
+ten und Prognose -Analytik (predictive analytics) 
+(siehe Abb. 1.). Die Prognose -Analytik stellt dabei das 
+Fernziel einer weitgehend datengestützten Produkti-
+on dar, für die sich in KMU bislang keine oder sehr 
+wenige Anwendungsfälle zeigen.  
+Abb. 1.: Verbindungen von IoT, KMU und KI  
+ und resultierende Anwendungen  
+Quelle:  Hansen & Bogh (2021), S. 4,  
+  eigene Darstellung  
+Anmerkung: SME steht für small and medium -sized  
+            enterprises, IoT für internet of things,  
+            P.A. für predictive analytics und  
+            AI für artificial intelligence.  3. AI in SMEs — der internationale Kontext   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   9 
+    
+ 
+ 
+Abb. 2.: Google Suchtrends nach zentralen Begriffen  
+Quelle:  Daten von Google Trends, eigene Darstellung  
+Abb. 2 zeigt die relativen Suchhäufigkeiten der 
+relevanten Themen im Kontext künstlicher Intelli-
+genz für Deutschland seit 2010. Dabei zeigt sich seit 
+etwa 2013  bereits ein gesteigertes Interesse an Big 
+Data, ab 2015 für das Internet der Dinge und für 
+maschinelles Lernen etwa ab 2016. Das maschinelle 
+Lernen zeigt dabei einen leicht zunehmenden Trend 
+der Bedeutung, während Big Data und das Internet 
+der Dinge eher wieder an Relevanz in den letzten 
+beiden Jahren verloren haben.  Für den Themenkom-
+plex KI insgesamt ist ein sprunghafter Anstieg der Relevanz  in 2016 festzustellen und ein stark zunehmender 
+Trend seitdem.  Grundlegend belegt die Übersicht das 
+steigende Interesse an den Kernthemen KI, IoT und ML seit 
+2016, was dafürspricht, dass in diesem Zeitraum die weitge-
+hende Technologiediffusion in den Unternehmen beginnt 
+und entsprechend ein größeres öffentliches Interesse 
+besteht. Dies erklärt auch, warum wissenschaftliche Stu-
+dien  zur Nutzung in KMU noch begrenzt sind, da die Techno-
+logiediffusion hier noch wesentlich geringer fortgeschritten 
+ist.  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   10 
+    
+Der Literaturüberblick  von Hansen & Bogh (2021)  stützt sich auf 
+37 Studien mit explizitem thematischen Fokus auf KI -
+Anwendungen und KMU aus dem produzierenden Gewerbe.  
+ 
+Übergreifend stellen die Autoren heraus, dass die Anwendung von 
+IoT und KI in einzelnen Maschinen kostengünstiger und realisti-
+scher  ist als eine digitale Abbildung der  vollständigen  Produktion. 
+Daher sollten KMU diese Anwendung anstreben. Die Anwendung 
+erfolgte in diesen Beispielen über IoT -Technologie in Kombination 
+mit einfachen Cloud -Lösungen. Die Autoren plädieren entspre-
+chend dafür, dass dieser Entwicklungsweg künftig stärker für KMU 
+beschritten wird, um schrittweise günstige und einfache Anwen-
+dungen auszubauen.   Tanane  et al. (2022) präsentieren einen konzeptionellen Rahmen 
+für die Umsetzung von  vorausschauender Wartung (predictive 
+maintenance)  bei produzierenden KMU und betonen, dass bislang 
+alle wesentlichen Industrie 4.0 -Ansätze für größere Firmen konzi-
+piert wurden, sodass die Bedarfe von KMU trotz ihrer zahlenmäßi-
+gen Relevanz  nicht abgedeckt werden. Als Gründe werden neben 
+Ressourcenbeschränkungen die Vielzahl an möglichen technologi-
+schen Ansätzen gesehen, bei denen KMU schwerlich einen Über-
+blick schaffen können. Weiterhin sind die Kosten des kompletten 
+Ersetzens der bestehenden Maschinenausstattung prohibitiv 
+hoch, sodass fortgeschrittenere Stadien der KI -Nutzung nicht er-
+reicht werden.   
+Dumbach et al. (2021) untersuchen KMU aus dem medizinischen 
+Bereich und vergleichen die KI -Nutzung zwischen China und 
+Deutschland. Dabei zeigen sich als zentrale Vorteile der KI -Nutzung 
+die Effizienzgewinne, Marketing -Vorteile, Erhöhung der Leistungs-
+fähigkeit, die Reduktion der Arbeitslast für medizinische Fach-
+kräfte, Kostenreduktion, Vermeidung menschlicher Fehler und die 
+Gewinnung von Fachkräften. Die deutschen KMU zeichnen sich 
+dadurch aus, dass die Gewinnung von Fachkräften und die Werbe-
+wirksamkeit von KI deutlich wichtiger als bei den chinesischen 
+Firmen eingeschätzt werden. Auf Seite der Herausforderungen 
+sind insbesondere die Datenqualität und -verfügbarkeit, die  KI-
+Regulierung,  der Mangel an Experten und die Transparenz und 
+Interpretabilität der Ergebnisse schwierig. Für Deutschland sind 
+insbesondere die Datenverfügbarkeit,  die Transparenz, der Mangel 
+an Experten und die Regulierung wichtiger als bei den chinesi-
+schen KMU.  Übergreifend zeigen sich  in beiden Staaten  ähnliche 
+Problemmuster bei der Adaption; wichtiger sind  jedoch  der stärke-
+re Mangel an Daten und  Fachkräften  sowie  Regulierungs -
+probleme.  
+Crockett et al. (2021) untersuchen den Aspekt der KI -Ethik und der 
+Adaption von Tools zur Sicherstellung ethischer KI -Standards. 
+Dafür werden eine Reihe verschiedener Tools genutzt und die 
+Nutzbarkeit für KMU getestet. Dabei zeigt sich, dass KMU entspre-
+chende  Werkzeuge selten nutzen und es wenige KMU -spezifische 
+Unterstützungen gibt. Im Artikel wird ein Mechanismus zur einfa-
+chen Zuordnung entsprechender Tools für KMUs präsentiert, 
+der sich an den Kapazitäten, Ressourcen und ethische Standards 
+des Unternehmens ausrichtet.  Es zeigen sich als zentrale Ergebnisse:  
+■ Kleinere IoT -Anwendungen können ohne großen 
+Aufwand erfolgreich umgesetzt werden. Dennoch 
+ist die generelle Adaption von IoT sehr gering, 
+wobei fehlendes Wissen und Expertise als Grund 
+genannt werden. Treibende Faktoren der Einfüh-
+rung kamen v.a. aus der Firma selbst, nicht von 
+außen (z.B.  Kunden  oder  Lieferanten).   
+■ Ein Hemmnisfaktor ist weiterhin, dass  die 
+Produkt -ionsmaschinen der Unternehmen lange 
+genutzt werden. Dadurch  werden diese Maschi-
+nen inkrementell verbessert und sehr selten 
+komplett neue Anlagen gekauft. Insofern kön-
+nen  KI-Anwendungen oftmals nicht  mit dieser 
+älteren Technik verwendet werden.   
+■ Eine realistische Zukunftsvision ist nicht die 
+Ausstattung von kompletten Produktionsanlagen 
+mit IoT -Ausrüstung, sondern die kostengünstige 
+Etablierung von  lokalen  Predictive  Analytics -
+Systemen an einzelnen Maschinen zur unterneh-
+mensweiten Analyse der Daten eines spezifischen 
+Prozesses.    
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   11 
+    
+3.2 Hemmnisse bei der  
+KI-Einführung  
+Aarstad & Saidl (2019) untersuchen Hemmnisse bei der Ein-
+führung von KI -Systemen in KMU. Dafür wird zunächst aus-
+führlich die bisherige Literatur betrachtet, die sich mit der 
+Entscheidung für die Adaption eines KI -Systems auseinan-
+dersetzt. Dabei werden zehn Konzepte aufgestellt, die bei 
+der Entscheidung eine Rolle spielen. Diese sind: der wahrge-
+nommene Wert der KI, der „black -box “-Charakter von KI, die 
+Erfordernisse des jeweiligen Daten -Ökosystems, die Passfä-
+higkeit in die eigene Strategie und Ressourcenverfügbarkeit,  
+ 
+  
+ 
+ 
+die Fähigkeiten zur Digitalen Transformation, die Bereit - 
+schaft der Organisation, die Unterstützung durch das Ma-
+nagement, das Vorhandensein von KI -Fähigkeiten, die Risi-
+kowahrnehmung in der Organisation sowie die Zugänglich-
+keit von KI -Technologie. Abb. 3. verdeutlicht das Zusam-
+menspiel der Faktoren bei der Entscheidung für oder gegen 
+eine Adaption von KI, wobei keine Wertung zwischen den 
+Einzelfaktoren vorgenommen wird.  
+Abb. 3. Dimensionen der Technologieadaption  
+Quelle:  Aarstad & Saidl (2019), S. 33., eigene Darstellung   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   12 
+    
+  In diesem theoretischen Rahmen werden auf Basis von 
+Interviews mit KMU die zentralen Hemmnisse für die Adap-
+tion von KI analysiert.  
+Übergreifend stellen Aarstad & Saidl (2019) damit eine um-
+fängliche Liste möglicher Herausforderungen bei der  
+KI-Einführung in KMU zusammen. Diese gelten in ähnlicher 
+Form auch für jedes Digitalisierungsprojekt in KMU, zeigen 
+jedoch auch die im KI -Bereich größeren Schwierigkeiten 
+durch die abstrakte und durch bislang wenige praktische  
+Erfahrungen unterlegte Struktur von KI -Anwendungen.  
+Bunte et al. (2021) bestätigen im Wesentlichen die zentralen 
+Hemmnisse in Deutschland, Österreich und der Schweiz,  
+insbesondere fehlendes Wissen und Fähigkeiten, die zu lange 
+Amortisationszeit sowie eine zu geringe Firmengröße und 
+damit zu wenig Raum für Verbesserungen. Sie betonen, dass 
+eine klarere Definition von KI und ein messbarer Nutzen für 
+die Unternehmen wichtig sind, um eine Entscheidung für die 
+Nutzung von KI einzuleiten.  
+Iftikhar & Nordbjerg (2021) analysieren und diskutieren die 
+Schwierigkeiten der KI -Einführung für KMU am Beispiel däni-
+scher Unternehmen. Dabei zeigen sich Schwierigkeiten bspw. 
+bei der Etablierung einer konkreten Anwendung im  
+Geschäftsmodell oder der organisationalen Kultur, bei der 
+Einführung neuer Technologien, bei der Investitionshöhe in 
+die neuen Technologien, dazu fehlende Fähigkeiten beim 
+Entwicklungsprozess und der Aufstellung einer geeigneten 
+Strategie.  
+Delponte & Tamburrini (2018) stellen in einem Bericht für das 
+Europäische Parlament strategische Überlegungen zur  
+KI-Durchsetzung in europäischen Unternehmen dar. Dabei 
+wird u.a. auf die Schwierigkeiten der KI -Durchsetzung in KMU 
+abgestellt. Grundlegend sind dabei drei Hemmnisse vorhan-
+den: fehlende interne Fähigkeiten, regulatorische Risiken und 
+fehlende Marktreife unmittelbar nutzbarer KI -Anwendungen 
+sowie die nur bedingte soziale Akzeptanz von KI. Bei der  
+zugrundeliegenden Umfrage zeigen KMU jeweils etwas  
+stärkere Bedenken in den entsprechenden Hemmnissen.  Die Ergebnisse werden auf 20  
+verschiedene Hemmnisse verdichtet:  
+■ Fehlende KI -Kompetenz  
+■ Abhängigkeit von externen Dienstleistungen  
+■ Mangel an IT -Kompetenzen und Wissen  
+■ Keine oder zu geringe Erfahrung mit KI  
+■ KI- oder Technologieskepsis  
+■ Widerstand gegen Veränderungen  
+■ Unklarer Nutzen der KI -Einführung  
+■ Konkurrierende Prioritäten im Unternehmen  
+■ Alter der Beschäftigten  
+■ Stetig konkurrierende Problemlösung im Unternehmen  
+■ Mangel an Verständnis für KI  
+■ Begrenzte Ressourcen  
+■ Mangel an klarem Business Case zur Einführung  
+■ Qualifikationsmängel bei den Beschäftigten  
+■ Finanzielle Beschränkungen  
+■ Inkompatibilität von KI -Anwendungen mit bestehenden 
+IT-Systemen  
+■ Kein Verfolgen aktueller KI -Trends und Möglichkeiten  
+■ Kosten der KI -Lösung  
+■ Risiko des Reputationsverlusts und Schaden bei Kunden-
+beziehungen  
+■ Unternehmen verfolgt Prozesse oder Aufgaben, die nur 
+schwer über KI -Prozesse abbildbar wären   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   13 
+    
+3.3 Erfolgsfaktoren bei der  
+KI-Einführung  
+Kinkel et al. (2022) stellen zunächst heraus, dass sich der 
+Großteil der Forschungsliteratur bislang mit  spezifischen   
+technologischen Anwendungen und weniger mit der Adapti-
+on der  bestehenden  KI in Unternehmen befasst. Da die 
+Mehrzahl der Unternehmen KI bislang noch nicht nutzt, prä-
+sentieren sie internationale Umfragedaten aus dem produ-
+zierenden Gewerbe zur erfolgreichen Umsetzung von KI -
+Projekten. Zentral sind dabei organisationale Faktoren wie 
+digitale Fähigkeiten, Firmengröße und FuE -Intensität. 
+Im Hinblick auf die internationale Aktivität machen die For-
+schungsintensität sowie Wissensfokus und Service -
+Orientierung der Unternehmen eine Einführung von KI im 
+Heimatstandort und in den ausländischen Produktionsstät-
+ten wahrscheinlicher. Übergreifend wird deutlich, dass vor 
+allem größere, FuE -, Service - und  wissensgetriebene Unter-
+nehmen KI einführen. Dies kann als komplementärer Befund 
+zu Aarstad & Saidl (2019) gelesen werden und erklärt spie-
+gelbildlich die schwache Nutzung von KI in KMU, die obige 
+Eigenschaften in aller Regel nicht aufweisen.  Bettoni  et al. 
+(2021) kommen hinsichtlich der Unternehmensgröße zum 
+selben Ergebnis.  
+Sandkuhl (2019) weist darauf hin, dass medial und gesell-
+schaftlich mit starken Erwartungen aufgeladene Technolo-
+gien wie KI das Risiko von gescheiterten Innovationsprojek-
+ten in Firmen erhöhen können. In der Studie werden zwei 
+Unternehmen untersucht, die auf organisationaler Ebene KI -
+Anwendungen einführen. Dabei zeigt sich ein starker Fokus 
+auf die Technologie selbst und nicht die Organisationsstruk-
+turen der Unternehmen, sodass  die saubere Prozessintegra-
+tion und  die Datenverfügbarkeit vernachlässigt werden, was 
+zum Scheitern der Einführung führen kann. Um diesem 
+Problem abzuhelfen, schlägt der Beitrag eine Komponente 
+zum Management der Organisationsarchitektur vor. Diese 
+beschreibt, wie der organisationale Kontext für die Analyse 
+der Nutz - und Anwendbarkeit von KI -Anwendungen analy-
+siert werden kann. Diese Methodik wird anhand einer KI -
+Zahlungsanwendung demonstriert.   Selamat & Windasari (2021) untersuchen die Anwendung von 
+Chatbots in KMUs, wobei grundlegende Erfolgsbedingungen 
+einfacher KI -Anwendungen deutlich werden. Es zeigt sich, dass 
+der Anthropomorphismus, also die Ähnlichkeit zu einem realen 
+Menschen, die wahrgenommene Freude an der Nutzung und die 
+wahrgenommene Nützlichkeit die kundenseitige Bereitschaft 
+zur Nutzung des Chatbots und das Einkaufen im Webshop des 
+KMU positiv beeinflussen.  Insgesamt stellen die Chatbots eine 
+einfach zu nutzende KI -Technologie dar, die beim Aufbau von 
+Webshops für KMUs nützlich sein können.   
+Baabdullah et al. (2021) untersuchen anhand von Umfragedaten 
+von B2B -KMUs aus Saudi -Arabien die Bedingungen erfolgreicher 
+KI-Einführung. Dabei zeigt sich, dass gute Planung der Einfüh-
+rung (technology roadmapping) und die positive Einstellung zur 
+Einführung im Unternehmen, nicht aber direkte KI -
+Fachkompetenz entscheidende Erfolgsfaktoren sind. Die Akzep-
+tanz von KI -Anwendungen wurde durch die IT -Infrastruktur und 
+das Bewusstsein im Unternehmen, nicht aber durch die techni-
+schen Kompetenzen im engeren Sinne beeinflusst. Im Falle ei-
+ner hohen Akzeptanz von KI -Anwendungen verbesserte sich das 
+Management der Unternehmensbeziehungen, der Leistungsfä-
+higkeit des Unternehmens sowie die Interaktion mit den Kun-
+den. Übergreifend zeigt sich damit, dass  die Einstellung und 
+Akzeptanz von KI in der Technologieadaption oftmals eine wich-
+tigere Rolle spielen als eigene technische Fähigkeiten, wie sie 
+etwa für die Eigenentwicklung erforderlich wären.   
+Chatterjee et al. (2021) untersuchen für indische KMU, wie KI -
+basierte CRM -Systeme und strategische Planungstools einge-
+führt und genutzt werden. Zentrale Determinanten einer   
+erfolgreichen Einführung sind dabei der wahrgenommene Nut-
+zen und die einfache Nutzung der Tools.  Ähnliche Ergebnisse 
+hinsichtlich der Relevanz des wahrgenommenen Nutzens erzie-
+len Ghobakhloo & Ching (2019).  
+Alemann (2020)  skizziert für das Beispiel von juristischen Analy-
+sen auf Basis von KI, wie KMU durch direkten oder anonymen 
+Zusammenschluss Datenpools teilen können, auf diese Wei-
+se mit Hilfe von Dienstleistern zu besseren ML -Modellen gelan-
+gen können und somit im Anschluss KI -Dienstleistungen 
+nutzen können. Diese Form der indirekten Kooperation  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   14 
+    
+durch Datenbereitstellung könne zu besseren Modellen füh-
+ren und damit ein Wettbewerbsfaktor gegenüber Großun-
+ternehmen und deren KI -Lösungen werden.   
+Bauer  et al. (2020) zeigen ebenfalls die größenbedingten Nachtei-
+le von KMU bei der KI -Adaption und argumentieren, dass andere 
+Einführungsprozesse gewählt werden müssen. Die Nachteile 
+könnten durch die Nutzung externer Dienstleister  kompensiert 
+werden; zudem  sei die  persönliche Initiative von Angestellten 
+entscheidend für den Erfolg einer KI -Einführung.   
+Kaiser et al. (2021) diskutieren, inwiefern KMU grundsätzlich 
+komplexe ML -Anwendungen benötigen und kommen an-
+hand von Fallstudien zu dem Ergebnis, dass sog. „low -cost -
+Anwendungen “ ausreichend sind. Komplexe Algorithmen 
+sind für die konkreten Probleme der KMU demnach nicht 
+erforderlich, es reichen in der Regel einfache und kosten-
+günstige ML -Anwendungen. In ihrem Papier stellen sie eine 
+Struktur dar, anhand derer die Bedürfnisse und zweckmäßi-
+gen Anwendungen für KMU analysiert werden können.  
+Mittal et al. (2019) präsentieren für den Bereich des Smart Manu-
+facturing eine Struktur, wie KMU vorgehen sollen, um erfolgreich 
+KI-Anwendungen einzuführen. Diese sind:  
+■ Identifikation der vorhandenen Daten   
+■ Analyse der Datennutzbarkeit  
+■ Entwicklung von KI -Bewusstsein bei der KMU -Führung 
+und Mitarbeitern  
+■ Entwicklung einer angepassten Vision für das KMU  
+■ Identifikation passender Anwendungen im Unternehmen  
+Dieser Prozess wird darüber hinaus ausdifferenziert und 
+anhand von Fallstudien konkret nachgezeichnet. Darüber 
+hinaus geben sie eine umfängliche Literaturübersicht über 
+konkrete KI -Anwendungen in den Produktionsprozessen, 
+wobei betont wird, dass vor allem Großunternehmen bis-
+lang diese Form der Anwendungen nutzen.   Drydakis  (2022)  nutzt ILO -Daten zum Geschäftsrisiko für KMU 
+in Folge der Covid -19-Pandemie, um zu untersuchen, ob KI -
+Anwender ein geringeres Geschäftsrisiko aufweisen.  Dabei 
+werden zehn  Kern -Anwendungen für KI in KMU definiert:  
+■ Informationsgewinnung zu Kundenkäufen, Online -
+Transaktionen und dem digitalen Fußabdruck  der Kunden  
+■ Erstellung individualisierter Kaufempfehlungen  
+■ Präzise Online -Kundengewinnung  
+■ Chatbots für die direkte Online -Beantwortung von Fragen  
+■ Vorhersage des Cash -Flows  
+■ Datensammlung über die Angebote der Konkurrenz  
+■ Umgang mit Fake -Bewertungen   
+■ Datenschutz und Cybersicherheit  
+■ Juristische Beratung  
+■ Fachkräftegewinnung und HR -Aktivitäten  
+Für eine Stichprobe  englischer KMUs zeigt sich, dass Unter-
+nehmen, die Online -Kundengewinnung, Cashflow -
+Vorhersagen und HR -Aktivitäten über KI unterstützt haben, 
+ein geringeres Geschäftsrisiko aufweisen. Übergreifend zeigt 
+die Studie, dass KI die dynamischen Fähigkeiten von KMU 
+erhöht, um schneller auf Nachfrageänderungen zu reagie-
+ren, schnellerwichtige Projekte abzuschließen, effizienter zu 
+arbeiten und dadurch insgesamt die Geschäftsrisiken in Kri-
+sensituationen zu reduzieren.  Zu ähnlichen Ergebnissen in 
+Bezug auf die Corona -Pandemie kom-
+men Kumar  & Kalse  (2021). Für den Bereich des Social Media
+-Marketings zeigt Basir (2020) für  saudi -arabische KMU  
+einen  leistungs - und  umsatzfördernden Effekt von KI.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   15 
+    
+ 
+3.4 Fazit zur internationalen  
+Forschungsliteratur  
+Die Forschungsliteratur zur KI -Adaption in KMU ist bislang 
+begrenzt, das Forschungsinteresse wächst jedoch seit 
+2016 an und es gibt relevante Journal -Artikel zum Thema, 
+die gute Literaturgrundlagen und Anknüpfungspunkte für 
+die weitere Forschung geben. Zentrale Themen sind künst-
+liche Intelligenz selbst, Cloud -Nutzung und Internet of 
+Things,  welche  Anknüpfungspunkte für die Einführung 
+und Nutzung von KI in KMU darstellen.   
+Übergreifend besteht ein Konsens, dass KI -Anwendungen 
+bislang nur in Ausnahmefällen in KMU eingesetzt werden 
+und die Technologieadaption langsam und inkrementell 
+erfolgt. Stärker genutzt werden KI -Anwendungen von  
+größeren, internationalen, wissensintensiven und service -
+orientierten Unternehmen, nicht aber von KMU.  Gleichwohl 
+können kleinere IoT -Anwendungen  („low cost “) mit KI -Anteil 
+bereits mit geringem Aufwand umgesetzt werden. Realis-
+tisch erscheint die Etablierung einzelner datengenerieren-
+der Messpunkte und somit von lokalen  Predictive  Analytics -
+Systemen zur unternehmensweiten Analyse spezifischer 
+Daten,  ohne dass eine umfängliche Datenanalyse aller Un-
+ternehmensprozesse angestrebt wird.  Themen der KI -Ethik, 
+die in der öffentlichen Diskussion eine große Rolle spielen,  
+  
+ 
+ 
+ 
+sind für KMU bislang nicht relevant.  Das branchenspezifi-
+sche Poolen von Daten zum Aufbau von kostengünstigen KI -
+Lösungen wird als Möglichkeit diskutiert.   
+Zentrale bereits jetzt bestehende Anwendungsfelder von 
+KI, die ebenfalls in KMU einsetzbar wären, sind:  
+■ Informationsgewinnung, Kundengewinnung, Kaufemp-
+fehlungen, Marktanalysen  
+■ Online -Kommunikation mit Kunden und Bewertungsma-
+nagement  
+■ Vorhersage von Cash -Flows, Personal - und Materialbedarfe   
+■ Fachkräftegewinnung, juristische Beratung sowie Daten-
+schutz und Cybersicherheit  
+ 
+ 
+ 
+ 
+ 
+Entscheidend für die Entscheidung zur Einführung von KI sind:   
+© Shutterstock.com, ozrimoz   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   16 
+    
+■ der wahrgenommene Wert der KI für das Unternehmen, 
+die einfache Verfügbarkeit und die Erfordernisse des ei-
+genen Daten -Ökosystems.  
+■ die Passfähigkeit in die eigene Strategie und Ressourcen-
+verfügbarkeit, die eigenen Fähigkeiten und der Stand der 
+digitalen Transformation.  
+■ die Unterstützung durch Mitarbeiter und Management 
+und die interne Risikowahrnehmung.  
+Zentrale Hemmnisse bei der KI -Einführung sind:  
+■ die lange Laufzeit der Maschinen von KMU, die eine Etab-
+lierung von Messsystemen erschweren und die hohen Kos-
+ten einer Neuanschaffung mit KI -Systemen. Damit verbun-
+den die Inkompatibilität mit den bestehen IT -Systemen.  
+■ Mangel an  Kompetenzen und Wissen in den KMU, um KI -
+Systeme selbst zu etablieren, sie zu nutzen oder auch 
+nur den Nutzen zu beurteilen.  
+■ zu geringe Erfahrungen  mit KI, begrenzte finanzielle und orga-
+nisationale Ressourcen und ein schwacher Business Case für 
+die Investition in KI. Dazu kommt die Abhängigkeit von exter-
+nen Dienstleistern im Falle einer Einführung durch Dritte.  
+■ Widerstände gegen die Einführung, Qualifikationsmängel, das 
+Alter der Beschäftigten sowie KI - bzw. Technologieskepsis.  
+ 
+ 
+ 
+ 
+ 
+Erfolgsfaktoren der Nutzung von KI  zusammengefasst:  ■ Es sollten keine übertriebenen Erwartungen an die Leistungs-
+fähigkeit von KI vor deren Einführung aufgebaut werden.   
+■ Neben dem notwendigen Fokus auf die Technologie 
+selbst muss die Organisationsstruktur des Unterneh-
+mens, d.h. die saubere Prozessintegration und die Da-
+tenverfügbarkeit,  beachtet werden.   
+■ Für Kunden muss der Nutzen der KI offensichtlich werden und 
+Freude bereiten, damit die Technologie angenommen wird.  
+■ Gute Planung der Einführung und eine im Unternehmen ver-
+breitete positive Einstellung zu KI sind starke Erfolgsfaktoren 
+und wichtiger als direkte KI -Fachkompetenz. Ebenfalls ent-
+scheidend sind der wahrgenommene Nutzen und die einfache 
+Nutzbarkeit der Tools für die Anwender im Unternehmen.   
+■ Unternehmen,  die Aspekte der Online -Kundengewinnung, 
+Cashflow -Vorhersagen und HR -Aktivitäten über KI nutzen, 
+haben gleichzeitig dynamischere Fähigkeiten, höhere Effi-
+zienz und geringere Geschäftsrisiken in Krisensituationen.   
+ 
+Insgesamt erklären die KMU -spezifischen Hemmnisse sehr 
+gut und nachvollziehbar die bislang begrenzte Adaption von 
+KI-Technologien und die inkrementelle Innovationstätigkeit 
+in diesem Bereich. Hierbei unterscheidet sich KI nicht von 
+anderen Aspekten der Digitalisierung bzw. der Innovations-
+tätigkeit von KMUs allgemein (vgl. Thomä & Bizer, 2021; 
+Proeger & Runst, 2020 für den Mittelstand sowie Proeger et 
+al. (2020) für das Handwerk) und sollte auch in diesem 
+Rahmen als eine weitere Welle technologischer Innovation 
+verstanden werden, die jedoch noch in einem sehr frühen 
+Stadium der Anwendung in KMU ist.  Für den Mittelstand und 
+das Handwerk bedeutet dies eine schrittweise Adaption der 
+neuen technischen Möglichkeiten, die bestmöglich von 
+Wirtschafts - und Innovationspolitik gefördert werden sollte, 
+um die Effizienz - und damit Wachstumsgewinne von KI in 
+KMU möglichst früh auszuschöpfen.  Im Folgenden werden 
+dafür die Forschungsergebnisse dargestellt, die spezifisch 
+für den deutschen Mittelstand erzielt wurden,  bevor die 
+Ergebnisse für das Handwerk präsentiert werden.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   17 
+    
+4.1 Grundlagen  
+ 
+Das folgende Kapitel untersucht, welche  grundlegenden Erkennt-
+nisse für die Anwendung von KI im Mittelstand festgehalten wer-
+den können.  In den vergangenen Jahren wurde eine Reihe von 
+umfassenden Studien von Ministerien bzw. im Rahmen von Be-
+gleitforschungen erstellt,  welche  einen Überblick insbesondere im 
+industriellen Bereich geben  und  deren zentrale Ergebnisse einen 
+guten Überblick über den Adaptionsgrad von KI in einem KI -affinen 
+Teil der deutschen Volkswirtschaft  verschaffen.   
+ 
+ 
+Eine zentrale Grundlagenstudie wurde durch das ZEW im Auftrag 
+des Bundeswirtschaftsministeriums  erstellt (BMWi, 2020).  Sie nutzt 
+eine Sonderauswertung der Deutschen Innovationserhebung des 
+Jahres 2019 sowie einer Zusatzbefragung von KI einsetzenden Un-
+ternehmen. Darin wird repräsentativ für  den Berichtskreis der Inno-
+vationserhebung (Unternehmen mit  fünf oder mehr Beschäftigten 
+in der produzierenden Industrie  und in überwiegend unterneh-
+mensorientierten Dienstleistungen)  der Einsatz von KI erhoben.   
+ 
+ 
+■ 16 % der Betriebe haben ihre KI -Anwendungen selbst 
+entwickelt, in 24  % der Fälle gab es Kooperationsentwicklun-
+gen und in 60  % der Fälle werden extern entwickelte Anwen-
+dungen genutzt.   
+■ Zentrale Anwendungsfelder sind maschinelles Lernen und 
+maschinelles Beweisen mit 55  % der KI -nutzenden Unter-
+nehmen. Bild - und Tonerkennung werden von 50  % genutzt, 
+Sprach - und Textverstehen von rund 30  %. Hauptanwen-
+dungsgebiete sind dabei Produkte und Dienstleistungen 
+sowie die Automatisierung von Prozessen.   
+■ 30 % der KI -Nutzer haben zusätzliche KI -Beschäftigte 
+gesucht, wobei 43  % der Stellen unbesetzt blieben.   
+■ Branchenbezogen zeigt sich, dass primär Unternehmen im 
+Bereich  Informations - und Kommunikationstechnolo-
+gien  (IKT), Finanzdienstleistungen und unternehmensnahe 
+Dienstleistungen KI einsetzten. In deutlich geringerem Maße 
+folgten Elektrotechnik und Maschinenbau  sowie Chemie -, 
+Pharma - und  Grundstoffindustrie.  Alle weiteren  Branchen 
+des betrachteten Wirtschaftsbereichs haben deutlich 
+geringere Anteile an KI -einsetzenden Unternehmen.   Als zentrale Ergebnisse werden dort ermittelt:  
+■ Rund 5  % aller deutschen  Unternehmen im Bereich 
+des produzierenden Gewerbes und unternehmens-
+orientierten Dienstleistungen nutzen KI in Produk-
+ten, Dienstleistungen oder internen Produkten.   
+■ Pro Unternehmen mit KI -Einsatz werden rund 
+270.000  Euro für Entwicklung, Einführung und Pflege 
+von KI -Anwendungen ausgegeben;  drei Viertel 
+davon sind interne laufende Aufwendungen, insb. 
+für Beschäftigte.   
+■ In den KI -einsetzenden Unternehmen sind rund 
+50.000 Personen hauptsächlich und 89.000 Personen 
+zu einem kleineren Teil der Arbeitszeit  mit KI tätig. 
+Insgesamt entsprechen diese Personen 0,84  % der 
+Beschäftigten  aller  betrachteten Unternehmen.  
+■ Rund 4  % der Unternehmen setzen KI in ihren 
+Produkten und Dienstleistungen ein und erzielen 
+damit rund 8  % aller Umsätze in den KI -
+einsetzenden Unternehmen.  
+■ Für 12  % der KI -einsetzenden Unternehmen ist KI 
+zentral für das Geschäftsmodell. Entsprechend 
+haben 2.100 Betriebe ein stark auf KI basierendes 
+Geschäftsmodell.  4. KI im Mittelstand   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   18 
+    
+Eine zweite umfassende Grundlagenarbeit stellt 
+die Auswertung der Erhebung „Modernisierung der Produkti-
+on“ 2018 des Fraunhofer -Instituts  für System - und Innovations-
+forschung  ISI dar, die als  „KI-Readiness im Verarbeitenden Ge-
+werbe mit Fokus  auf Baden -Württemberg “ ausgewertet wurde 
+(Lerch et al., 2021).  Zielgruppe der Befragung sind Betriebe aller 
+Branchen des Verarbeitenden Gewerbes in Deutschland mit mindestens 20 Beschäftigten, wobei in Bezug auf die regionale 
+Verteilung eine gute Abdeckung der Grundgesamtheit erreicht 
+wird.  Dafür werden insgesamt 16 KI -nahe Technologien und 
+Maßnahmen aus drei verschiedenen  Feldern ((1) Digitales Pro -
+dukt -Service Angebot, (2) Digitale Produktion, (3) Daten und 
+Sicherheit) abgefragt, wobei aus den Nennungen insgesamt ein 
+Indexwert gebildet wird.   
+Zentrale Ergebnisse sind:  
+■ Die KI -Anwendungen werden unterschiedlich stark 
+genutzt, wobei die Spanne zwischen 4 -5 % bei Big -
+Data -Analysen bzw. mobilen  Robotern  und rund 
+60 % bei Datenspeicherung bzw. digitalen Elemen-
+ten im Kernprodukt liegen. Die gleichzeitige Nut-
+zung mehrere KI -Technologien ist wenig verbreitet.  
+■ Nach dem entwickelten Index weisen 5  % der 
+Industriebetriebe Deutschlands eine hohe KI -
+Readiness auf, während 70  % keine oder lediglich 
+eine geringere Bereitschaft aufweisen. 26  % weisen 
+eine mittlere KI -Readiness auf.   
+■ Grundlegend wird  KI eher  in Unterneh-
+men  eingesetzt, je höher die Produktkomplexität und 
+die Seriengröße und desto größer der Betrieb ist.    
+■ Maschinenbau und Elektroindustrie sind in 
+der betrachteten  Stichprobe  die Branchen mit dem höchs-
+ten Indikatorwert. Geringe Werte weisen Metallbranche, die 
+Holz - und Papierindustrie, die Nahrungs - und Getränke -
+industrie sowie die Textil - und Lederindustrie  auf.   
+■ Baden -Württemberg weist insgesamt hohe Indikatorwerte 
+auf, was durch den Maschinen - und Automobilbau, die 
+Ausrüster - und Systemzuliefererstrukturen sowie einen KI -
+affinen Mittelstand  bedingt ist.  Eine besondere Führungsrol-
+le identifiziert die Studie für den Bereich der Digitalen 
+Produktion, die CPS -nahe Produktionssysteme und intelli-
+gente Roboter umfasst.    
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   19 
+    
+Eine weitere grundlegende Analyse zur Relevanz geben Dö-
+bel et al. (2018), die auf Basis vorheriger Studien und Exper-
+teneinschätzungen die Branchenrelevanz von KI darstellen 
+und das geschätzte Umsatzpotenzial von KI -Anwendungen 
+aufzeigen.  Von den Branchen mit hoher Relevanz auf dem 
+deutschen Markt weisen insbesondere die Konsumelektro-
+nik, Gesundheitswesen und Medizin, Bankverkehr, Dienst-
+leistungen und Versicherungen sowie Transport / Mobilität / 
+Logistik ein hohes Umsatzpotenzial durch KI -
+Anwendungen  auf (Abb.  4). Ein ähnliches Bild vermittelt die ebenfalls sehr umfassende 
+Studie von Seifert et al. (2018)  im Auftrag 
+des Bundeswirtschaftsministeriums, die das produzierende 
+Gewerbe betrachtet.  Dabei wird zusätzlich eine Analyse des 
+Wertschöpfungspotenzials von KI im produzierenden Ge-
+werbes erstellt, wobei mit einem Wachstum der Bruttowert-
+schöpfung in Höhe von rund 32  Mrd. EUR gerechnet wird, 
+was einem Drittel des  insgesamt erwarteten Wachstums 
+entspricht.  Darüber hinaus werden Kennzahlen zur bisheri-
+gen KI -Relevanz und Nutzung in der deutschen Wirtschaft 
+vorgestellt, die im Wesentlichen den Ergebnissen der BMWi - 
+bzw.  Fraunhofer -Studien ähneln.  Im Hinblick auf die Unter-
+nehmensbereiche werden ebenfalls Forschung und Entwick-
+lung (FuE), Service/Kundendienst, Produktion, Marketing/ 
+Vertrieb und Planung als zentrale Anwendungsbereiche ge-
+nannt, wobei die größten Potenziale in den Bereichen Pre-
+dictive Analytics,  Intelligente Assistenzsysteme, Robotik, 
+Intelligente Automatisierung sowie Intelligente Sensorik 
+erwartet werden. Ähnliche Ergebnisse ermittelt die Studie 
+im Hinblick auf die Unternehmensgröße und KI -Anwendung, 
+die bislang geringe Durchdringung  der Unternehmen  mit KI -
+Anwendungen und die Nutzung externer KI -Anbieter sowie 
+der geringen Rolle von KMU  in Bezug auf KI -Anwendungen. 
+Als Hemmnisse  werden wiederum der Mangel an Fach-
+kräften und internen Kompetenzen genannt.  Auf Ebene 
+der Politikempfehlungen  diskutieren die Autoren eine ge-
+zielte Bewerbung spezifischer KMU -Anwendungsfelder wie 
+Wissensmanagement und Qualitätskontrolle, die Verbesse-
+rung der Informationslage zu Anbietern, Dienstleistern und 
+FuE -Kooperationspartnern und die Bereitstellung von 
+Use  Cases und Best  Practice -Beispielen. Ebenso sollten die 
+berufliche und akademische Ausbildung stärker auf KI fo-
+kussiert werden und Umsetzungshemmnisse für KI -
+Anwendungen auf allen Ebenen soweit wie möglich redu-
+ziert werden.   
+Ergänzend gelesen werden kann in diesem Zusammenhang 
+die Studie von Rammer (2020) für  das BMWi, der auf Basis 
+des Mannheimer Innovationspanels  einen  Beitrag zur Inno-
+vationsleistung und wirtschaftlichen Performance KI leistet. 
+Dabei stellt die Studie erhebliche Innovationsbeiträge durch 
+KI heraus,  substanzielle Umsätze mit KI (wobei  keine zusätz-
+Abb. 4.: Anwendungsbranchen für Maschinelles Lernen  
+Quelle:  Döbel et al. (2018), S. 9., eigene Darstellung   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   20 
+    
+lichen Umsätze erzielt werden) sowie ein Beschäftigungsauf-
+bau in den betreffenden Unternehmen, trotz der bislang nur 
+in kleinen Segmenten verbreiteten KI -Nutzung. Ei-
+ne Produktivitätssteigerung in den betreffenden Unterneh-
+men  zeigt sich nicht, was als  erwartbare  Anfangsschwäche 
+der KI -Nutzung in neuen Unternehmensabläufen interpre-
+tiert wird.   
+Das übergreifende Bild, das sich von der  bisherigen  KI-
+Nutzung  in Deutschland  zeichnen lässt,  betrifft  also größere 
+Betriebe mit hoher Produktkomplexität  und  Seriengröße im Industriebereich  sowie  Unternehmen der Branchen IKT, Fi-
+nanzdienstleistungen und Unternehmensberatungen, wobei 
+die Umsatzanteile und der Durchdringungsgrad sehr niedrig 
+bleiben und  ein Fachkräftemangel besteht. Bei den künftig 
+umsatzstarken KI -Anwendern sind für Deutschland insbe-
+sondere die Bereiche Konsumelektronik, Gesundheitswesen 
+und Medizin, Bankverkehr, Dienstleistungen und Versiche-
+rungen sowie Transport / Mobilität / Logistik zentral. Diese 
+sind insgesamt weniger stark durch mittelständische Unter-
+nehmen geprägt.  
+ 
+ 
+■ Grundlegend wird  KI eher in Unternehmen eingesetzt, je 
+höher die Produktkomplexität und die Seriengröße und 
+desto größer der Betrieb ist.   
+■ Bei den Betrieben, die KI einsetzen, werden 8  % der Umsätze 
+mit oder in Bezug zur KI -Anwendung erzielt.   
+■ Mit KI werden beachtliche Umsätze erzielt, wobei 
+sich  Umsatzsteigerungen  oder höhere Produktivität bislang 
+nicht zeigen.  Dennoch werden KI -einsetzende Unternehmen 
+innovativer und sind eher in der Lage, Weltneuheiten im 
+Innovationsprozess zu erzielen.   
+■ Es werden primär extern entwickelte KI -Anwendungen 
+genutzt;  Eigenentwicklungen sind die Ausnahme, Kooperati-
+onen etwas häufiger.  
+■ Es besteht ein Fachkräftemangel im  Hinblick auf die Beset-
+zung von KI -bezogenen Stellen.  Welche Schlüsse lassen sich nun aus diesen umfassen-
+den, empirisch fundierten Grundlagenstudien zur 
+Verbreitung von KI in der deutschen Wirtschaft und im 
+Mittelstand ziehen?   
+■ Faktisch wird KI in rund 5  % aller Betriebe genutzt, 
+wobei  primär Unternehmen im Bereich IKT, Finanz-
+dienstleistungen und unternehmensnahe Dienstleis-
+tungen KI einsetzten. In deutlich geringerem Maße 
+folgten Elektrotechnik und Maschinenbau sowie 
+Chemie -, Pharma - und Grundstoffindustrie.   
+■ Bei einer weitergehenden Definition von KI -Nutzung 
+können differenzierte Nutzungsgrade gezeigt 
+werden, wobei erneut rund 5  % intensive Nutzer 
+sind, 25  % mittlere Werte aufweisen und 70  % keine 
+oder nur geringe Berührungspunkte aufweisen.   
+■ Unter 1  % der Beschäftigten der Betriebe 
+der produzierenden Industrie / den unternehmensori-
+entierten Dienstleistungen befassen sich mit KI -
+Anwendungen.    
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   21 
+    
+4.2 Einzelstudien  
+ 
+Neben den umfassenden Grundlagenuntersuchungen wer-
+den in kleineren Studien Einzelaspekte von KI im Mittel-
+stand untersucht.   
+Zimmermann (2021) beschreibt die Erwartungen an KI im 
+Mittelstand und stellt dem empirisch die bislang geringe 
+Verbreitung  von KI  im Mittelstand entgegen. Anhand des 
+KfW -Mittelstandspanels 2019 zeigt er, dass sich vor allem 
+solche Unternehmen mit KI befassen, die hohe Digitalisie-
+rungsinvestitionen tätigen, eine Digitalisierungsstrategie 
+haben, eigene FuE betreiben und eher größer sind.  Daraus 
+wird abgeleitet, dass der Nutzung von KI hohe Hürden ent-
+gegenstehen, die jedoch im Rahmen einer umfassenden 
+Förderstrategie abgebaut werden  könnten.   
+Ulrich &  Frank (2021) zeigen, dass bei der KI -Einführung  im 
+Mittelstand  eher  Effizienzgewinne statt  Entscheidungs -
+unterstützung  wichtig sind, wobei auf technischer Ebene 
+regelbasierte Systeme und maschinelles Lernen  die höchste 
+Relevanz haben. Zentrale Anwendungsbereiche sind Pro-
+duktion und Logistik,  die größten Hemmnisfaktoren sind 
+fehlende Qualifikationen und finanzielle Restriktionen.   
+André et al. (2021) diskutieren anhand eines Whitepapers, 
+welche Kompetenzanforderungen der Einsatz und Aufbau 
+von KI in Unternehmen haben wird und geben eine Reihe 
+von  mittelstandsrelevanten Anwendungsbeispielen. Ferner 
+wird ein Kompetenzmanagement -Prozess vorgeschlagen, 
+durch den ein Ansatzpunkt für Unternehmen zum Aufbau 
+der nötigen Kompetenzen erstellt werden kann.   
+Demary & Geocke (2020) diskutieren, ob es eine Mittel-
+standsskepsis gegenüber Künstlicher Intelligenz gibt. Auf 
+Basis einer Umfrage zeigen sie, dass KMU KI für die Volks - 
+und Weltwirtschaft gleichermaßen als sehr wichtig einschät-
+zen. KMU gehen im Gegensatz zu Großunternehmen jedoch 
+in höherem Maße davon aus, dass KI eine Bedrohung ist und 
+weniger stark eine Chance. Insgesamt werten sie die Annah-
+men als Skepsis, der durch Information und Qualifikation zu   
+ 
+ 
+begegnen sei.  Eine ähnliche Bewertung haben Axmann & 
+Harmoko (2021), die ebenfalls die Skepsis im  Hinblick auf die 
+KMU -Anwendbarkeit als Hauptgrund für die Zurückhaltung 
+von KMU bei KI ansehen. Geeignete Gegenmaßnahmen seien 
+der Aufbau von Vertrauen und Fähigkeiten bei den KMU sowie 
+die Bereitstellung von Bewertungswerkzeugen und Richtlinien 
+für die KI -Anwendung durch externe Akteure.   
+Lüth (2019) beschreibt Herausforderungen bei der Einführung 
+KI in KMUs, wobei im Wesentlichen dieselben Grundprobleme 
+identifiziert werden, die in anderen Studien gefunden wurden. 
+Relevant ist zusätzlich seine Einschätzung, dass ein häufiger 
+Fehler bei der Anwendung bzw. Wahrnehmung von KI der 
+Glaube daran sei, dass große Datenmengen in Kombination 
+mit KI automatisch und auf „magische Art und Weise einen 
+Mehrwert produzieren “ (Lüth, 2019, S. 3). Vielmehr sei die Da-
+tenanalyse voraussetzungsreich und an einer Reihe von strik-
+ten Kriterien orientiert, sodass eine enge Begleitung und gute 
+Vorbereitung für den Erfolg von KI -Projekten unabdingbar sei.   
+Demary & Goecke (2021) stellen auf Basis des IW -
+Zukunftspanels eine positive Tendenz bei  der Nutzung von KI 
+sowohl bei Großunternehmen als auch bei KMU fest:  Seit 2019 
+sei demnach die Nutzung in beiden Gruppen deutlich ange-
+stiegen auf (Stand 2021) 40  % bei Großunternehmen und 
+17,6  % bei KMU. Als weiterhin unterstützende Politikmaßnah-
+men sehen die Autoren das Aufzeigen von Anwendungsmög-
+lichkeiten, die Erhöhung von Rechtssicherheit, den staatlichen 
+Einsatz von KI und eine Erhöhung der Transparenz von 
+KI. Demary et al. (2020) analysieren auf Basis vielfälti-
+ger Indikatoren den Durchdringungsgrad  von KI in Wirtschaft 
+und Gesellschaft. Für KMU werden Studienergebnis-
+se geringererNutzung  von KI in KMU  als in Großunternehmen 
+zitiert,  welche  ebenso die Hemmnisse der  fehlenden Fach-
+kenntnis, Datenbasis, Infrastruktur sowie Sicherheitsbeden-
+ken aufzeigen. Als Politikmaßnahmen werden entsprechend 
+Qualifikation, Datenverfügbarkeit,  Anwendungsbeispiele und 
+Startup -Förderung genannt, wobei kein spezifischer KMU -
+Fokus gewählt wird.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   22 
+    
+Pfeiffer (2020) untersucht  die Erfordernisse von Beschäftig-
+ten zur praktischen Anwendung von KI -Lösungen, wobei 
+insbesondere auf die Anwender und nicht die Entwickler der 
+Technologien abgezielt wird. Auf Basis der BIBB/BAuA -
+Erwerbstätigenbefragung werden  Predictive  Maintenance 
+und beratungsintensive Sachbearbeitung untersucht.  Es 
+zeigt sich,  dass die Beschäftigten  der betreffenden Bereiche 
+insgesamt  hohe Kompetenzen aufweisen, die für den Ein-
+satz von KI erforderlich sind.  Haarmeier (2022) betrachtet 
+die Rolle des Eigentümers eines KMU und schlägt ein Vorge-
+hensmodell bei der KI -Einführung vor, das klassisches und 
+agiles Projektmanagement kombiniert.   
+Dahm & Constantine (2020)  behandeln Machine Learning 
+aus der Perspektive mittelständischer Betriebe und disku-
+tieren Ansätze und Erfolgsfaktoren anhand ei-
+ner kleinen  Stichprobe  an mittelständischen Betrie-
+ben.  Dabei werden insbesondere Open -Source -
+Lösungen  und kosteneffiziente Lösungen zum Aufbau tech-
+nischer Kompetenzen diskutiert.  Ulrich & Bachlechner 
+(2020) betrachten die schwierige wirtschaftliche Bewertung 
+von KI -Projekten in KMU. Aufgrund des starken Wettbe-
+werbs ist für KMU die wirtschaftliche Bewertung von Investi-
+tionen stets wichtig, wobei diese Bewertung aufgrund der 
+vielfältigen Unsicherheiten im Bereich der KI schwer ist. In 
+ihrem Beitrag nehmen die Autoren eine Bestandsaufnahme 
+der verschiedenen Bewertungsmethoden vor und geben 
+Empfehlungen für die Bewertungstätigkeit bei transformati-
+ven Vorhaben.   
+Röhl & Engels (2021)  diskutieren die Möglichkeit der Koope-
+ration von Mittelständlern und Start -Ups, um digitale Inno-
+vationen in den KMU zu etablieren und nennen die Einfüh-
+rung von KI als ein mögliches Thema. Dabei werden Proble-
+me bei der Kooperation thematisiert, wobei insbesondere 
+die unterschiedlichen Firmenkulturen und unterschiedliche 
+regionale  Schwerpunkte  dargestellt  werden. Eine ergänzen-
+de empirische Untersuchung  zeigt, dass die digitale Reife, 
+Internationalität und Größe des Mittelständlers die Koope-
+rationswahrscheinlichkeit positiv beeinflusst. Als Empfeh-
+lungen für die Steigerung der Kooperation wird auf Plattfor-
+mangebote, Netzwerknutzung, Geschäftsmodellentwick-lung bei industriellen Produzenten sowie die Breitband - und 
+Mobilfunkabdeckung eingegangen. Übergreifend wird die 
+Kooperation mit KMU als eine zukunftsweisende Option dar-
+gestellt, die bislang jedoch nur begrenzte Segmente des 
+Mittelstandes nutzen.   
+Lundbord & Gull  (2021) stellen im Rahmen der Begleitfor-
+schung zum Programm  Mittelstand -Digital  dar, dass der 
+Mittelstand zwar weiterhin zögerlich bei der KI -Adaption sei, 
+jedoch die zunehmende Anzahl an Fallbeispielen zuneh-
+mendes Interesse wecken. Dabei wird betont, dass insbe-
+sondere inkrementelle Verbesserungen der Unternehmens-
+prozesse mit „passiver KI “, also zugekauften KI -
+Anwendungen die realistischere  breitere Anwendungsmög-
+lichkeit darstellen. Insofern sei ein Fokus auf  inkrementeller 
+statt radikaler Innovationstätigkeit für KMU sinnvoll, was 
+einen Wandel in der öffentlichen Darstellung und Wahrneh-
+mung von KI bedeuten würde. Auf Policy -Ebene betonen die 
+Autoren wiederum die  Relevanz von finanzieller Unterstüt-
+zung, Qualifizierung, Best Practice -Beispielen 
+und  strukturellen Instrumenten des Wissenstransfers sowie 
+Datenpools.   
+Übergreifend  ähneln  die Einzelstu-
+dien  der internationalen  Forschungsliteratur;  diese 
+argumentiert  zum Teil  differenzierter  ist empirisch 
+besser fundiert. Die grundlegenden Hemmnisse und 
+Erfolgsfaktoren sowie daraus abgeleiteten Unterstüt-
+zungsbedarfe für KMU zeigen sich in den rein deutsch-
+sprachigen Publikationen  gleichermaßen  wie  auch  in 
+den internationalen Studien.  Darüber hinaus werden 
+viele konkrete Fallbeispiele deutscher KMU  untersucht, 
+die mit KI -Anwendungen  in Kontakt gekommen sind, 
+woraus sich Use  Cases im  deutschen Kontext ergeben. 
+Einen stärker praktisch ausgerichteten Blick für einzel-
+ne Anwendungsfelder der KI -Einführung geben diverse 
+Transfer -Papiere.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   23 
+    
+ 4.3 Transfer -Papiere  
+ 
+Basierend auf der Begleitforschung zum Förderpro-
+gramm  „Mittelstand -Digital “ diskutieren  Märkel  & Lund-
+borg  (2019) die Relevanz, Anwendungen 
+und  Transfermöglichkeiten für KI im Mittelstand. Sie nutzen 
+Ergebnisse einer Expertenumfrage und ökonomische Progno-
+sen, nach denen KI auf betrieblicher und volkswirtschaftli-
+cher Ebene höchste Relevanz haben  wird. Dabei seien KI -
+Dienstleistungen (AI as a Service) zentral, wobei sich 
+die größten Chancen in den Bereichen Optimierung der Dis-
+tribution und Logistik, der Prozesseffizienz, zielgenauer Wer-
+bung / Promotion, Entwicklung neuer Geschäftsmodelle und 
+Produktinnovationen zeigen werden. Zentrale Hemmnisse 
+für den Mittelstand seien das fehlende Know -how und 
+die fehlenden  Fachkenntnisse, die mangelnde Datenbasis, 
+Sicherheitsbedenken, der mangelnde digitale Reifegrad des 
+Unternehmens insgesamt und die unzureichende digitale 
+Infrastruktur. Als wichtigste Anwendungsfelder im Mittel-
+stand werden  von den Experten  die intelligente Automatisie-
+rung, intelligente Sensorik, Assistenzsysteme, vorausschau-
+ende Wartung und optimiertes Ressourcenmanagement ge-
+nannt. Für die öffentliche Unterstützung werden vor allem 
+die Aufbereitung von Best  Practices, die Bereitstellung von KI
+-Trainern, Qualifizierungsmaßnahmen,  Info - und Sensibilisie-
+rungsmaßnahmen, mobile Demonstratoren, Implementie-
+rung von KI -Testbeds, Organisation von Netzwerkveranstal-
+tungen, Schaffung von Datenpools / Datenplattformen, Bera-
+tungsgutscheine und die Einrichtung von KI -Clustern ge-
+nannt. Übergreifend betonen die Autoren, dass  den Progno-
+sen nach  die Förderung von KI beschleunigt wird und der 
+Mittelstand mit einer breiten Palette an Beratungsangeboten 
+unterstützt wird.   
+Wangermann (2020) thematisiert für die Konrad -Adenauer -
+Stiftung das Thema KI im Mittelstand.  Basierend auf der KI -
+Strategie der Bundesregierung wird die Relevanz von KMU für 
+den Erfolg von KI -Transferbemühungen betont. Basierend 
+auf Expertenaussagen in einem Workshop werden eine Reihe 
+von Ergebnissen erzielt. Zunächst wird konstatiert, dass KMU 
+aufgrund des öffentlichen KI -Diskurses eher Risiken sehen   
+ 
+ 
+würden und die Chancen von KI -Anwendungen   
+nicht  ausreichend wahrgenommen  würden. Es mangele an 
+konkreten Startpunkten und einem hinreichenden Verständ-
+nis der eigenen Unternehmensdaten; externe Dienstleister 
+wären wegen des Einblicks in die eigenen Prozesse und Da-
+ten ungern gesehen.  Obwohl es Datenplattformen in ver-
+schiedenen Branchen und Strukturen gäbe, wäre ein zentra-
+les Hemmnis die Frage nach deren rechtssicherer Nutzung. 
+Der Fachkräftemangel wiederum sei neben einer in der Flä-
+che fehlenden Infrastruktur im Bereich Breitband und mobile 
+Netze ein weiterer großer Hemmnisfaktor. Als wirtschaftspo-
+litisches Fazit wird auf die Notwendigkeit einer effektiven 
+Kommunikation von KI -Anwendungen sowie ih-
+rer Chancen  hingewiesen, sowie darauf  fokussiert,  dass  dem 
+Fachkräftemangel durch Aus - und Weiterbildung und den 
+Infrastrukturschwächen durch staatliche Investitio-
+nen  abzuhelfen ist.  
+BSP (2021)  verfolgen einen praktischen Ansatz und präsentie-
+ren ein „KI-Kochbuch “ für Unternehmen. Hierin werden Defi-
+nitionen von KI, Ansatzpunkte für die Einführung und Best-
+Practice -Beispiele anschaulich verarbeitet, um Unternehmen 
+einen Einstieg in die Nutzung  zu ermöglichen.  Dukino et al. 
+(2020a)  geben einen praktischen  Basischeck zur KI -
+Einführung  im Bereich der Posteingangsklassifikation, prä-
+sentieren Möglichkeiten zur KI -basierten  Unterstützung der 
+Prozesse und stellen einen 10 -Punkte -Plan zur Einführung 
+von KI in diesem Bereich auf, der von Unternehmen konkret 
+befolgt werden kann.  Dukino et al. (2020b) geben einen um-
+fassenden Überblick über bestehende Möglichkeiten der KI -
+Anwendung im Bereich der Sachbearbeitung, wobei im Detail 
+die Themenfelder Marketing, Vertrieb und Verkauf, Beschaf-
+fung und Einkauf, Produktion / Dienstleistungserbringung, 
+Logistik, Finanzierung / Steuern / Recht, Service / Kunden-
+dienst und Personalwirtschaft genannt werden. Darüber hin-
+aus werden technische Möglichkeiten in verschiedenen An-
+wendungsfeldern benannt und erklärt. Insgesamt wird so ein 
+umfassendes und tiefes Bild von den bereits bestehenden 
+Einsatzmöglichkeiten von KI in der Sachbearbeitung gegeben  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   24 
+    
+und technische Grundlagen  beschrieben, wobei Wissenschaft 
+und Transfer  die Zielgruppe  darstellt, während für die Unter-
+nehmensanwendung andere Formate bereitgestellt werden.   
+Im Auftrag der Roland Berger Stiftung für Europäische Unter-
+nehmensführung erstellten Kaul  et al. (2019) einen europäi-
+schen Überblick über KI -Nutzung  des Mittelstandes  auf Ba-
+sis einer Unternehmensumfrage  und Experteninter-
+views.  Beim Abgleich von Visionen der KI -Experten und der 
+betrieblichen Realität zeigt sich eine große Diskrepanz der 
+beiden Perspektiven. Die Autoren formulieren verschiedene 
+Szenarien, die je nach Akzeptanz der Gesellschaft und Adap-
+tionsgeschwindigkeit der Unternehmen zwi-
+schen  umfassender („KI-Paradies “) und schwacher  ( „KI-
+Winter “) KI-Nutzung unterscheiden. Um die bisher schwache 
+KI-Nutzung im Mittelstand zu überwinden, plädieren die Au-
+toren für den Ausbau von 5G und  Breitband in der Fläche, um 
+ländliche Mittelständler zu erreichen. Sie plädieren zu-
+dem  für substanzielle Investitionen in die Ausbildung und die 
+Durchführung dieser Ausbildung durch KI -Start -Ups im Wei-
+terbildungsbereich  sowie  gezielte Förderung von KI -
+einsetzenden Unternehmen. Unternehmen sollten künftig 
+Gesamtkonzepte für die KI -Nutzung erstellen und umsetzen, 
+statt lediglich  vereinzelte KI -Piloten  einzusetzen. Der Staat 
+sei gefordert, den gesellschaftlichen Rückhalt von KI -
+Nutzung zu erhöhen; die Regulierung müsse Datensicherheit, 
+Transparenz und Haftung klären, aber gleichzeitig ausrei-
+chend Freiraum für die Weiterentwicklung von KI -Lösungen 
+bieten. Unternehmen könnten die KI -Akzeptanz erhöhen, 
+indem sie Demonstrationslabore und Modellfabriken einrich-
+ten, um den Nutzen von KI transparenter zu machen.   
+ 
+ 
+ 
+ 
+ Übergreifend werden in den Transferpapieren eine Reihe von 
+Aspekten  adressiert, die der insgesamt bislang geringen  KI-
+Adaptionsrate  im Mittelstand abhelfen sollen. Dazu zählen:  
+■ die Schaffung einer breiten Beratungs - und Transferinf-
+rastruktur auf allen Ebenen, um KMU bei der KI -
+Anwendung zu unterstützen.   
+■ Erhöhung der Kooperationen  zwischen Universitäten, 
+Hochschulen, Start -Ups und mittelständischen Unter-
+nehmen.  
+■ Ausbau der physischen Infrastruktur (Breitband und 5G).  
+■ die Entwicklung von KI -Dienstleistungen und deren Um-
+setzung durch externe Beratung.  
+■ Anstrengungen bei Aus - und Weiterbildung, um dem KI -
+bezogenen Fachkräftemangel zu begegnen.   
+■ die Schaffung regulatorischer Grundlagen, die für Trans-
+parenz und Sicherheit in Bezug auf Datenschutzbeden-
+ken sorgen.   
+Die Publikationen mit Transferfokus betonen die Notwen-
+digkeit dieser Maßnahmen und erklären diese anhand em-
+pirischer Grundlagen.  Zum Teil werden in den Publikatio-
+nen konkrete Schritte zum Transfer vorberei-
+tet.  Der  Schwerpunkt der konkreten Transfer -Aktivitäten 
+liegt jedoch in den Transfer -Organisationen, die den Groß-
+teil der Aktivitäten tragen.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   25 
+    
+4.4 Transfer -Organisationen  
+ 
+Grundlegend besteht eine große Anzahl staatlicher, halb-
+staatlicher und privater Akteure, die im Wissenstransfer, der 
+Aus - und Weiterbildung und der Unternehmensberatung im 
+Bereich KI aktiv sind. Diese wird intensiv durch Bundes - und 
+Landesministerien gefördert und arbeitet am strategischen 
+Ziel einer möglichst umfassenden Wissensdiffusion von KI -
+Anwendungen in die deutsche Wirtschaft. Im Rahmen dieser 
+Initiativen sind eine große Anzahl an Fallbeispielen, Leitfä-
+den und Forschungsberichte entstanden, die Einzelthemen 
+der KI -Anwendungen  und des Transfers in die Unterneh-
+menslandschaft thematisieren. Unabhängig von den For-
+schungsorganisationen bestehen  breite Forschungs - und 
+Förderprogramme verschiedener Bundes - und Landesmi-
+nisterien, die zu einer großen Anzahl an Forschungs - und 
+Transferprojekten geführt haben.   
+Das  Netzwerk  Mittelstand -Digital  ist ein deutschlandweiter 
+Zusammenschluss aus diversen Zentren, die vom BMWK 
+gefördert werden und die Digitalisierung im Mittelstand ge-
+zielt unterstützen. Dabei wird anbieterneutral Wissen ver-
+mittelt, Demonstrationszentren betrieben, Veranstaltungen 
+durchgeführt und Praxisbeispiele gezeigt.  Dazu werden  sog. 
+KI-Trainer eingesetzt, die über verschiedene Formate die 
+Anwendung von KI im Mittelstand direkt fördern sollen.   
+  
+ 
+ 
+ 
+Die Fraunhofer -Gesellschaft bietet über die Fraunhofer -
+Allianz Big Data und Künstliche Intelligenz ein umfassen-
+des Schulungs - und Förderungsangebot für Unternehmen 
+und Wissenschaft an. Darüber hinaus werden Publikatio-
+nen, Fallstudien und Best  Practice -Beispiele präsen-
+tiert.  Darüber hinaus bestehen Angebote zur Unterstüt-
+zung von Start -Ups und umfassende Netzwerkaktivitäten 
+zur Etablierung von Innovationskooperationen.   
+Die Plattform  „Lernende Systeme – die Plattform für 
+Künstliche Intelligenz “ ist ein weiterer großer Ak-
+teur,  der durch die Deutsche Akademie der Technikwissen-
+schaften acatech aufgestellt und durch das BMBF geför-
+dert wird. Auf dieser  Plattform  werden umfassend Studien 
+und Leitfäden so wie Themen der KI für den Mittelstand 
+aufbereitet. Die Plattform betreibt eine umfassende 
+Sammlung an Anwendungsbeispielen und Akteuren im 
+Rahmen einer KI -Landkarte. Sie bietet  diverse  Online -
+Lehrformate und Seminare  an, um Wirtschaft und Wissen-
+schaft auf allen Ebenen zu informieren und die Wissens-
+weitergabe zu unterstützen.  Auf der Plattform wird zudem 
+ein Überblick über KI - bzw.  Digitalisierungsstrategien der 
+Bundesländer, des Bundes und für den internationalen 
+Kontext gegeben.  
+© AdobeStock.com, Shuo   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   26 
+    
+4.5 Policy -Ebene  
+ 
+Auf Ebene der  innovationspolitischen Förderung von KI kön-
+nen  drei  zentrale Strategiepapiere zusammengefasst sowie 
+eine Reihe von einzelnen Policy -Vorschlägenexemplarisch 
+aufgeführt werden, die zur schnelleren und umfassende-
+ren Adaption von KI führen sollen.   
+Die drei  zentralen strategischen Grundlagen der Innovati-
+onspolitik im Bereich der KI in Europa wurden durch die 
+Europäische Kommission 2018 und durch die Bundesregie-
+rung 2020 aufgestellt;  2020 wurde zudem ein Weißbuch zur 
+KI von der EU -Kommission vorge-
+legt.  Bei allen  Strategiepapieren werden KMU gesondert 
+adressiert und eine Transferstruktur über FuE -Mittel und 
+Beratungszentren skizziert, die eine Technologieadaption 
+fördern sollen. Ebenso soll der Rechtsrahmen so gestaltet 
+werden, dass für KMU kein unverhältnismäßiger Aufwand 
+mehr verursacht werden, wenn KI -Anwendungen aufgebaut 
+oder eingesetzt werden. Grundsätzlich sehen Bundesregie-
+rung und EU -Kommission die KI als zentrale Zukunftstech-
+nologie an, die über breite und finanziell gut ausgestatte-
+te Forschungs -, Entwicklungs - und Transferstrukturen auf 
+allen Ebenen unterstützt werden soll.   
+Die KI-Strategie der Bundesregierung (2020)  skizziert wiede-
+rum die nationalen Ziele, Maßnahmen und Vorhaben für die 
+Förderung der KI -Entwicklung und Anwendung. Die The-
+menfelder umfassen die Ausbildung und Gewinnung von KI -
+Fachkräften, den Aufbau von erfolgreichen Forschungs-
+strukturen und die Bereitstellung konkurrenzfähiger KI - und 
+Rechnerinfrastrukturen,  um den Ausbau von international 
+sichtbaren KI -Ökosystemen zu forcieren. Dies zielt auf eine 
+breite Verwendung von KI insbesondere in mittelständi-
+schen Unternehmen ab und auf die Förderung innovativer 
+Neugründungen. Schließlich soll ein vertrauens - und inno-
+vationsförderlicher Ordnungsrahmen entwickelt werden, um 
+so die  Entwicklung sicherer und vertrauenswürdiger KI zu stär-
+ken sowie die Zivilgesellschaft in die Entwicklung und Nutzung 
+gemeinwohlorientierter KI  einzubeziehen. Auf KMU bezogen 
+werden insbesondere Transferangebote  beschrieben  und die   
+ 
+ 
+Vernetzung mit Universitäten und Fachhochschulen durch 
+die Einrichtung von KI -Professuren thematisiert. Darüber 
+hinaus müsse die Vermittlung von KI -Kompetenzen an KMU 
+gefördert und Vernetzungsangebote von Start -Ups, KMU 
+und Großunternehmen etabliert werden. Insgesamt greift 
+die Strategie die Ergebnisse der BMWi -Erhebung zur KI -
+Nutzung auf und skizziert auf allen Ebenen Transfer - und 
+Qualifikationsmöglichkeiten  sowie  -ziele.   
+Abgesehen von den Strategien auf  europäischer und natio-
+naler Ebene haben alle Bundesländer und viele andere In-
+dustriestaaten spezifische KI - bzw. Digitalisierungsstrate-
+gien aufgestellt. Die Plattform  „Lernende Systeme “ hat zu 
+diesem Zweck eine kompakte Übersicht erstellt (https://
+www.plattform -lernende -systeme.de/ki -strategien.html).  
+Watney & Auer (2021) diskutieren auf Policy -Ebene die 
+politischen Notwendigkeiten für eine verbesserte KI -
+Anwendung  spezifisch für  KMU. Dabei stellen sie vier zent-
+rale Forderungen auf:  
+■ Dateninvestitionen  als öffentliches Gut:  Die Anreize sollen 
+so gestaltet werden, dass der private Sektor auf sektoraler 
+Ebene Daten an öffentliche und private Daten -Stiftungen 
+bereitstellt, damit diese von allen genutzt werden können. 
+Staatlicherseits sind Investitionen in Forschungsorganisa-
+tionen gefordert, die neue wissenschaftliche oder kom-
+merzielle öffentliche Datensätze erstellen sollen.   
+■ Herstellung regulatorischer Sicherheit:  Die rechtlichen 
+Anforderungen und Pflichten für KMU im Falle einer KI -
+Nutzung sollten klargestellt werden. Eine Webseite sollte 
+erstellt werden, die Informationsmaterial über Chancen 
+und Risiken von KI -Anwendungenenthält. Vor der Aufstel-
+lung neuer Regulierungen oder Behörden sollte das be-
+treffende Ökosystem betrachtet werden, um zu sehen, ob 
+dasselbe Ziel nicht durch industriespezifische Regulierung 
+oder Änderungen der Haftung erreicht werden  könnte.    
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   27 
+    
+■ Förderung eines Ökosystems von KI -
+Plattformen:  Protektionistische Maßnahmen sollten ver-
+hindert werden,  welche  Angebote internationaler KI -
+Plattformen für europäische KMU bereitstellen wollen. 
+Es sollte in die Investition von Open -Source -KI-
+Plattformen investiert werden, die durch KMU genutzt 
+werden können. Auf Ebene der Mitgliedsstaaten sollten 
+Best  Practice -Beispiele formuliert und in andere Länder 
+getragen werden.   
+■ Ausweitung des Pools an KI -Talenten:  Weiterbildung in 
+KI sollte gefördert werden. Immigration qualifizierter 
+Fachkräfte sollte gefördert werden und Barrieren 
+für Cross -Border M&A sollten reduziert werden, um den 
+internationalen Wissensaustausch zu fördern.   
+Heumann & Jentzsch (2019)  diskutieren die Möglichkeit, 
+Datenpools zu bilden, um über eine gemeinsame Nutzung 
+und Verwertung zur verstärkten Entwicklung europäischer 
+KI-Lösungen zu gelangen. Zunächst wird dafür eine Über-
+sicht über bestehende Datenpools, Plattformen und Reposi-
+torien in privater oder öffentlicher Trägerschaft erstellt.  Das 
+größte Hindernis für die Autoren im  Hinblick auf die Koope-
+ration privater Unternehmen ist der Aspekt der Rechtssi-cherheit und der Zugriffsrechte auf die Datenpools, wofür 
+entsprechende Regeln entwickelt werden müssten, um An-
+reize zur Kooperation zu geben. Übergreifend stellen die 
+Autoren aber fest, dass es bislang keine Strategie und nicht 
+genügend Wissen über Kooperationsmechanismen im Rah-
+men von Datenpools gibt, um eine relevante Menge an Da-
+ten bereitzustellen.   
+© AdobeStock.com, Tippapatt  Die politische Betrachtungsebene von KI im Mittel-
+stand  zeigt eine umfassende und hochrangige Befassung 
+mit der KI, die als strategisch zentrale ökonomische und 
+politische Größe angesehen wird. Die schwache europäische 
+und deutsche Position im internationalen Vergleich wird als 
+Ausgangspunkt für eine Vielzahl an Initiativen gesehen, die 
+Forschung, Entwicklung und Transfer in die Unternehmens-
+landschaft verbessern sollen. Der Mittelstand wird aufgrund 
+seiner zahlenmäßigen Relevanz als wichtiger Ansatzpunkt 
+gesehen, wobei die erheblichen Herausforderungen eines 
+weitergehenden Transfers und ihre strukturellen Grün-
+de gesehen werden.  Die Transferstrukturen und Investitio-
+nen  in KI-Ökosysteme können an den identifizierten Schwä-
+chen ansetzen, sofern eine umfassende Umsetzung der 
+ambitionierten Programme erfolgt.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   28 
+    
+Im Folgenden  wird als dritter Baustein des Literaturüber-
+blicks ein Überblick über die KI -Anwendung im Handwerk 
+gegeben. Dabei werden verschiedene Ebenen kombi-
+niert:  Zunächst werden die bestehenden empirischen Unter-
+suchungen vorgestellt und mit der zuvor zusammengefass-
+ten Forschungsliteratur verknüpft. Im Anschluss werden die 
+aktuell bestehenden Forschungsprojekte vorge-
+stellt,  politische Positionspapiere zusammengefasstund 
+auf die Angebote der Organisation Mittelstand -Digital Zent-
+rum Handwerk eingegangen. Abschließend werden eine 
+Reihe von Anwendungsfällen präsentiert, die in der Recher-
+che identifiziert werden konnten.  
+ 
+5.1 Studien  
+Bislang wurden  drei Erhebungen zur KI im Handwerk durchge-
+führt. Eine Studie von  techconsult im Auftrag der Deutschen 
+Telekom aus  dem Jahr  2019 zeigt, dass 6  % der Handwerksbe-
+triebe KI nutzen und 24  % in den nächsten zwei Jahren den Ein-
+satz  von KI  planen, während 40  % KI zurzeit für  ihren  Betrieb  als 
+nicht relevant  einschätzen (zit.  nach Heinen et al., 2021). In einer 
+ZDH -Umfrage unter  Hauptgeschäftsführern der Handwerksor-
+ganisationen gehen 91  % der Befragten von einem Wettbe-
+werbsvorteil für Betriebe mit KI -Anwendung aus  (zit. nach Hei-
+nen et al., 2021). Um diese Vorteile zu realisieren, müssten Be-
+triebe über die Nutzung und Grenzen des Einsatzes von KI infor-
+miert werden und das Thema in die Aus - und Weiterbildung 
+verankert werden. Zur Anwendung sollten Innovationswerkstät-
+ten und Leuchtturmprojekte durchgeführt und kommuni-
+ziert  werden. Aspekte wie der Know -how -Transfer aus Wissen-
+schaft und Forschung in die  Betriebe, fairer Zugang zu Daten, 
+Transparenzstandards, KI -Schulbildung sowie Haftungsfragen 
+wurden als deutlich weniger wichtig angesehen  (zit. nach Hei-
+nen et al., 2021).  Schließlich führten Heinen et al. (2021) eine 
+Expertenumfrage unter den Beratern verschiedener Funktionen 
+aus den Handwerksorganisationen durch, die durch einen Ex-
+pertenworkshop validiert wurden.  
+ 
+ ■ Dabei wird bestätigt, dass aus Beratersicht  der überwie-
+gende Anteil der  Handwerksunternehmen keinerlei Erfah-
+rungen mit KI haben und nur eine sehr geringe Anzahl 
+grundlegend oder sehr gut mit dem Thema vertraut sind.   
+■ Hinsichtlich der Anfragen zum Thema KI durch Betriebe hat-
+ten 91  % der Berater im Berichtszeitraum keinerlei Anfragen.   
+■ Die geringe Anzahl an  Anfragen  betraf die Themenberei-
+che: Bild - und Contentanalyse, Bots, Smart Factory, 
+Smart Home, Vernetzung mit Kunden und Lieferanten, 
+Kalkulation und Angebote, Auftragsverwaltung, Automa-
+tisierung von Buchhaltungsprozessen, Automatische Prü-
+fung von Dokumenten.   
+■ Die Berater sehen größtenteils (60,3  %) KI als Chance 
+für Handwerksbetriebe, 25,4  %sehen KI weder als Chance 
+noch als Risiko und 14,3  % eher als Risiko.   
+■ Hinsichtlich des Einsatzes von KI ist die Mehrzahl (59,3  %) 
+der Meinung, dass diese einen hohen Beitrag zur Effizienz-
+steigerung leisten kann. 30,5  % sehen einen geringen Beitrag 
+und 10,2  % einen sehr hohen Beitrag  zur Effizienzsteigerung.   
+Potenzielle Anwendungsgebiete sind aus Sicht der Berater 
+die Themen:  
+■ Autonomes Fahren  
+■ Persönliche Assistenzsysteme  
+■ Übernahme von eintönigen Aufgaben  
+■ Verwaltungstätigkeiten  
+■ Personalisierung von Dienstleistungen  
+■ Synchronübersetzung am Telefon  
+■ Smart Home lernt Nutzerverhalten und assistiert  
+■ Marktrecherchen  5. KI im Handwerk   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   29 
+    
+■ Rechtsberatung,  Building Information Modeling  (BIM)  
+■ Kundenfragen und Auftragsbearbeitung für 
+schnelle Reaktion im Marketing  
+■ Geschäftstätigkeit im Ausland (Abwicklung, Export 
+von Waren, Wartungsservice, Kundenkontakte)  
+■ Rentenberechnungen  und  -bescheide prüfen  
+■ Die wichtigsten Anwendungsgebiete sind aus Sicht der 
+Berater die Übernahme eintöniger Aufgaben, Verwal-
+tungstätigkeiten und persönliche Assistenzsysteme.  
+■ Zentrale Hemmnisse sind die fehlenden Fachkräfte bzw. 
+die fehlende Mitarbeiterkompetenz, ein mangelnder Ein-
+blick in Entscheidung der KI sowie Bedenken zu Daten-
+schutz und Sicherheit.   
+Als weitere zentrale Hemmnisse wurden angegeben:  
+■ Zu wenige Routinetätigkeiten im Betrieb  
+■ Unwissen, Zeitmangel, Angst vor Veränderungen, 
+Beratungsresistenz, fehlendes Problembewusst-
+sein und Kompetenz im Management  
+■ Ethische Risiken  
+■ Mangelndes Wissen über Einsatz und Mehrwert  von KI  
+Der Expertenworkshop bestätigt die Ergebnisse der Um-
+frage und betont die Rolle des fehlenden Know -hows 
+in Unternehmen. Ebenso wird betont, dass Betriebe un-
+mittelbar den Nutzen der neuen Technologie einsehen 
+müssen und die Technologie ohne großen Aufwand ein-
+führen können. Um diese Schwierigkeiten zu umgehen, 
+wurden folgende Maßnahmen vorgeschlagen:   
+ 
+ ■ Es sollte  Forschungsprogramme zu KI  mit kleineren Be-
+trieben  geben.  
+■ Die Relevanz einer geringeren Komplexität der Begriff-
+lichkeiten in der Kommunikation mit Betrieben  und all-
+gemein KI als eine weitere Software  sollte  dargestellt 
+werden, um die wahrgenommenen Hürden der Nutzung 
+zu reduzieren.  
+■ Roadshows mit Beispiel -Technologien  werden vorge-
+schlagen, um konkrete Anwendungsfälle zu benennen.  
+■ Ferner sollten die etablierten Formate der Wissensvermittlung 
+durch die Handwerksorganisation stärker genutzt werden, 
+also Sensibilisierungsveranstaltungen,  Unternehmerabende, 
+Messen und Best  Practice -Beispiele.   
+■ Hervorzuheben sind dabei die Möglichkeiten zur Zeit - 
+und Kostenersparnis für die Betriebe.   
+Übergreifend zeigen sich damit ähnliche Ergebnisse für die 
+Handwerksbetriebe wie in der internationalen Forschungs-
+literatur und im  Hinblick auf den deutschen Mittelstand 
+allgemein, auch wenn die empirischen Untersuchungen 
+noch sehr begrenzt sind und sich auf kleine  Stichproben -
+Größen bei Betrieben sowie Berater und Funktionäre der 
+Handwerksorganisation beschränken. Es zeigt sich, dass 
+KI im Handwerk bislang  sehr selten genutzt wird und das 
+bekannte Bündel an organisationalen und motivatorischen 
+Faktoren greift, das auch sonst  Innovations - und Digitali-
+sierungsprozesse im Handwerk hemmt.  Es sind viele An-
+wendungsgebiete denkbar, aber solange keine nied-
+rigschwelligen KI -Dienstleistungen verfügbar sind, ist eine 
+weite Verbreitung unrealistisch. Die bekannten Transfer-
+formate der Handwerksorganisation, gekoppelt mit For-
+schungstätigkeit zur Entwicklung von KI -
+Dienstleistungen,  stellen die nächsten möglichen Schritte 
+zur KI -Adaption im Handwerk dar, wobei sich auch dieser 
+Aspekt wenig von den Empfehlungen und Erfahrungen der 
+restlichen Forschungsliteratur unterscheidet.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   30 
+    
+5.2 Forschungsprojekte  
+ 
+Die Forschungsergebnisse sind zum Teil aus laufenden For-
+schungsprojekten abgeleitet, in denen weiter Erkenntnisse 
+zur KI im Handwerk gewonnen werden.  Es bestehen vier 
+öffentlich geförderte und laufende Forschungsprojekte mit 
+unmittelbarem Handwerksbezug.   
+■ Im Projekt  KomKI  wird vom ITB Karlsruhe mit Kooperati-
+onspartnern zu den erforderlichen Kompetenzen zur 
+Implementierung von künstlicher Intelligenz im Hand-
+werk geforscht. Die laufende Untersuchung  stellt als Zwi-
+schenfazit fest, dass KI in den Unternehmen und in der 
+Beratung noch nicht umfangreich genutzt und themati-
+siert wird. Es besteht demnach eine Wissens - und Trans-
+ferlücke, sodass weder genügend Wissen vorhanden ist, 
+noch das bestehende Wissen angemessen weitergege-
+ben wird. Um diese Bedingungen zu verbessern, werden 
+eine Reihe von Kompetenzen vorgeschlagen 
+(Fachkompetenzen, Methoden, KI -Selbst - und Personal-
+kompetenzen, KI -Sozialkompetenzen), die in künftigen 
+Lehrformaten verankert werden müssten, um eine höhe-
+re Durchdringung von KI zu erreichen. Entsprechend 
+werden künftig Qualifizierungsbausteine entwickelt, die 
+in allen Bereichen der betrieblichen Tätigkeit und Ausbil-
+dung Eingang finden können,  um Kompetenzen aufzu-
+bauen und dadurch einen besseren Eingang von KI -
+Anwendungen in den betrieblichen Alltag zu ermögli-
+chen (Schliephake & Cordes, 2021).   
+■ SmartAIwork: Im Rahmen des Projekts wird vom ITB 
+Karlsruhe gemeinsam mit Fraunhofer -Instituten zum 
+Thema der KI in der Sachbearbeitung geforscht. Es zeigte 
+sich, dass die betreffenden Kooperationsbetriebe für KI -
+Anwendungen nicht ausreichend Daten zur Verfügung 
+stellen konnten. Eine Umfrage unter Betriebsberatern 
+zeigt wahrgenommene Potenziale von KI in der Sachbe-
+arbeitung, wobei insbesondere die Übernahme eintöni-
+ger Aufgaben, Verwaltungstätigkeiten und persönliche 
+Assistenzsysteme als wichtige künftige Anwendungsfel-
+der benannt werden. Als zentrale Hemmnisse werden   
+ 
+ 
+fehlende Fachkräfte bzw. fehlende Mitarbeiterkompe-
+tenz genannt sowie mangelnden Einblick in die Entschei-
+dungen  der KI. Expertenworkshops ergänzten die Umfra-
+ge, wobei erneut die Rolle fehlender Kompetenz betont 
+wurde. Für die Einführung von KI in der Breite ist eine 
+einfache und verständliche Darstellung und hohe Nutz-
+barkeit erforderlich, was sich in den Transferformaten 
+wiederspiegeln sollte (Heinen et al., 2021). Grundlegend 
+wird deutlich, dass ähnliche Vorbehalte und Herausfor-
+derungen  bei der Einführung von KI im Bereich der Sach-
+bearbeitung bestehen, wie bei der Digitalisierung allge-
+mein (vgl. Thonipara et al., 2020).  
+■ Bau Prevent  entwickelt im Auftrag 
+des Bundesministeriums  für Arbeit und Sozia-
+les (BMAS)  Messmodelle für arbeitsbezogene Bewe-
+gungsmuster bei Malern und Stuckateure über entspre-
+chende Sensorik. In Kombination mit Gesundheitsdaten 
+werden Messungen  von Bewegungen  getätigt und am 
+Ende des Arbeitstagesautomatische Hinweise zu Aus-
+gleichsübungen für die Angestellten  erstellt, um die spe-
+zifischen gemessenen Belastungen auszugleichen.   
+■ Das Projekt KI -Nergy befasst sich im Auftrag des BMWK 
+mit der Optimierung von Heizungsanlagen durch KI, um 
+so Effizienzgewinne durch stärkeren Einsatz von Senso-
+ren zu bewirken, da diese Fernwartung bzw. Wartung 
+durch weniger hochqualifiziertes Personal ermöglichen. 
+Träger des Projekts ist das Hamburger Start -up ENER -IQ.  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   31 
+    
+5.3 Positionspapiere  
+ 
+Von Seiten der Handwerksorganisation  sind  bislang  zwei Po-
+sitionspapiere erstellt werden: vom Zentralverband des Deut-
+schen Handwerks (2019) und vom Westdeutschen Hand-
+werkskammertag (2020).  Beide  betonen die Relevanz des 
+Themas und die großen Potenziale von KI, warnen aber auch 
+vor überzogenen Erwartungen. Im Schwerpunkt wird für die 
+Nutzung von KI als Dienstleistung plädiert und  damit für  eine 
+schrittweise marktbasierte Durchdringung des Handwerks 
+mit geeigneten Einzelanwendungen. Das Handwerk als Ent-
+wickler von KI -Lösungen wird skeptisch gesehen, da Kompe-
+tenzen und finanzielle Ressourcen in den oftmals kleinen und 
+mittleren Betrieben realistisch nicht zur Verfügung stehen.  Als 
+realistische Anwendungsfelder von KI im Handwerk nennt der 
+ZDH Betriebsdaten von Kraft - und Nutzfahrzeugen, Heizun-
+gen, Anlagen für erneuerbare Energien oder Wartungsbedar-
+fe. Expertensysteme sollen verteiltes Betriebswissen bündeln 
+und so allen Angestellten gleichermaßen und kontextunab-
+hängig zur Verfügung gestellt werden. Der Bereich von Buch-
+haltung und Rechnungswesen wiederum biete sich für die 
+Unterstützung durch KI an. Dasselbe gelte für KI -Lösungen für 
+die digitale Kommunikation mit Kunden sowie optische Mus-
+tererkennung und intelligente Exoskelette zur Unterstützung 
+körperlicher Arbeit. Übergreifend wird argumentiert, dass ein 
+realistisches Entwicklungsmuster darin besteht, dass hand-
+werksexterne Anbieter für spezifische Nutzungsfälle KI -
+Anwendungen  entwickeln und im Handwerk kommerzialisie-
+ren im Sinne von „AI as a  Service  (AIaaS) “. Die Handwerksor-
+ganisation soll ferner Rahmenbedingungen mitgestalten und 
+KI-Themen in die Curricula aufnehmen, KI in der eigenen Or-
+ganisation einzuführen sowie  Best  Practice -Beispiele verbrei-
+ten sowie sich für handwerksspezifische Regulierung der Da-
+tenökonomie einsetzen, um Monopolisierungstendenzen bei 
+großen Plattformen entgegenzuwirken.  Ferner seien Transfer-
+mechanismen zu KMU allgemein zu stärken und gleicherma-
+ßen die Bemühungen zur Basis -Digitalisierung weiter zu stär-
+ken. Im  Hinblick auf die Zusammenfassung von Daten zur 
+Ermöglichung von maschinellem Lernen seien Branchenweite 
+Lösungen nötig, um eine nutzbare Größenordnung zu ge-
+währleisten.   
+5.4 Mittelstand -Digital  
+Zentrum Handwerk  
+ 
+Im Rahmen des vom  Bundesministerium für Wirtschaft und 
+Klimaschutz  (BMWK)finanzierten Kompetenzzentrums mit 
+Schwerpunkt auf die Digitalisierung des Handwerks sind 
+eine Vielzahl von KI -bezogenen Angeboten für das Hand-
+werk verfügbar, die dem Wissenstransfer dienen sollen. Da-
+bei wird ein KI -Readiness -Check angeboten, KI -
+Veranstaltungen durchgeführt, ein kostenloses KI -Coaching 
+angeboten, individuelle, kostenfreie Beratung durch das 
+Mittelstand -Digital -Netzwerk bereitgestellt, Fördermöglich-
+keiten kompakt dargestellt sowie auf Live -Demonstrationen 
+verwiesen. Für allgemeinere Informationen wird auf das 
+Netzwerk von Mittelstand -Digital verwiesen, das eine Viel-
+zahl weiterer Angebote aufweist. Übergreifend besteht da-
+mit für das Handwerk eine gut ausgebaute Struktur zur KI -
+spezifischen Information und Beratung für die Etablierung 
+von KI -Lösungen in  Betriebe. Die Transferstruktur ist sowohl 
+aus den bisherigen Erfahrungen zur Digitalisierungsförde-
+rung im Handwerk als auch durch das breite und gut etab-
+lierte Mittelstand -Digital -Netzwerk gewachsen und mit den 
+Institutionen des Handwerks verknüpft, sodass von einer 
+hohen Passgenauigkeit der Angebote auszugehen ist.  
+© Shutterstock.com, bizvector   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   32 
+    
+5.5 Bestehende Anwendungs - 
+felder von KI im Handwerk  
+Abschließend können eine Reihe von Anwendungsfeldern 
+von KI im Handwerk identifiziert werden, die einen Eindruck 
+vom Adaptionsgrad geben.   
+■ Die ersten Anwendungen von KI entstanden im Zuge der 
+Nutzung von  Robotern  in der Produktion und haben auf 
+diesem Wege auch Einzug ins Handwerk gefunden.  Hier 
+ist sowohl  die klassische Robotertechnik, aber auch in-
+telligente Cobots für einzelne wiederkehrende und be-
+lastende Bewegungen  zu erwähnen. Intelligente Robo-
+tertechnologie wird dabei am stärksten im produzieren-
+den Gewerbe eingesetzt.   
+■ Eine starke Anwendung von KI zeigt sich im   
+Bäckerhandwerk:  Hier haben mehrere Start -Ups (z.B. 
+Meteolux, BäckerAI,  Delicious Data) auf Basis historischer 
+Daten die Planung von Verbrauchen sowie Umsatz -, Ma-
+terial - und Personalprognosen für das Bäckerhandwerk 
+übernommen. Auf Plattformen können interessierte Be-
+triebe ihre eigenen Betriebsdaten hochladen und erhal-
+ten tagesgenaue Prognosen, an denen das betriebliche 
+Handeln ausgerichtet werden kann.   
+■ Auf Seiten der Handwerksorganisation hat  eine   
+Kreishandwerkerschaft im Zuge der Corona -Pandemie 
+einen auf KI beruhenden  Chatbot  („Crafty “) programmie-
+ren lassen, der auf Fragen zur Corona -Lage und Vor-
+schriften reagieren kann und nunmehr durch die gesam-
+te Handwerksorganisation genutzt werden kann.   
+■ Das Start -Up EnergIQ Startup zielt auf die Optimierung 
+von  Heizungsanlagen  durch den verstärkten Einbau von 
+Sensoren und der Analyse von Sensordaten. Ziel ist es 
+dabei, den Aufwand einer Wartung von Heizungsanlagen 
+deutlich zu reduzieren, um so Energieeinsparpotenziale 
+in großem Maßstab zu realisieren. Dies soll sowohl Kos-
+tenersparnisse als auch Nachhaltigkeitswirkung bei glei-
+cher Wärmeleistung bewirken.   
+ 
+  
+■ Weitere Beispiele liegen im Bau - und Ausbaubereich, wo 
+im Themenbereich des  Building Information Mode-
+lings  (BIM)  auf einer Vielzahl an Plattformen und Soft-
+waresystemen Elemente des maschinellen Lernens ein-
+gesetzt werden. Auch wenn BIM -Ansätze noch keine flä-
+chendeckende Einführung erfahren haben, sind die gro-
+ße Zusammenfassung von Daten eine wertvolle Grundla-
+ge für die künftige Entwicklung von KI -Anwendungen. 
+Damit verknüpft wird an offenen Datenplattformen für 
+BIM gearbeitet (BIMeta), die einen offenen Zugang und 
+hohe Kompatibilität sichern sollen und von einer Vielzahl 
+an Akteuren der Bauwirtschaft unterstützt wird.   
+■ Für das Bauhandwerk bestehen KI -gestützt Software -
+Lösungen wie „Building Radar “, das automatisch digitale 
+Plattformen nach Ankündigungen,  Ausschreibungen  und 
+Informationen zu Bauprojekten durchsucht, um indivi-
+duelle Recherchezeit zu sparen und die Chance auf eine 
+erfolgreiche Auftragsvergabe zu erhöhen.   
+■ Das Start -Up Handwai zielt auf eine Analyse von   
+Leistungsverzeichnissen, um auf Basis von KI die Nach-
+tragpotenziale und Risiken einer Bewerbung sowie eine 
+monetäre Bewertung von Angeboten für Bauunterneh-
+men zu ermöglichen. Auf einer Plattform können Betrie-
+be Leistungsverzeichnisse analysieren lassen und auf 
+Basis eigener Eingaben damit Entscheidungshilfen erhal-
+ten, ob Angebote abgegeben werden sollen oder nicht 
+und mit welchen Risiken eine Angebotsabgabe verknüpft 
+wäre.  
+■ Software zur Überwachung von Baustellen,  wie Oculai, 
+Buildvue und Eskimo,  nutzen KI, um  als Monitoring - und 
+Managementsoftware den Verlauf komplexer Bauprojek-
+te zu überwachen und zu steuern.   
+  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   33 
+    
+■ Im Rahmen von Smart Home -Lösungen kann ferner 
+durch Sensorsysteme der  Zustand der Bausubstanz und 
+Haustechnik überwacht werden und  die erhobenen Da-
+ten in einem Gebäudemanagementsystem analysiert 
+werden, was frühzeitige Reaktionen ermöglicht.  
+■ Zwei technische Bereiche, in denen KI genutzt wird,  und 
+die eine hohe Handwerksrelevanz haben, sind der  3D-
+Druck  und die Technologien im Bereich des  CNC -
+Fräsens. Beide Technologien generieren hohe Daten-
+mengen, die die Entwicklung von abgeleiteten KI -
+Anwendungen ermöglichen.   ■ Neben diesen handwerksspezifischen Anwendungsfällen 
+gibt es eine Vielzahl von Unternehmen, die allgemein die 
+Nutzung von KI zur Optimierung von Produktionsprozes-
+sen als Dienstleistung anbieten, wobei bislang  nur wenige 
+direkte Bezüge zum Handwerk zu sehen sind.   
+Übergreifend zeigen sich somit vielfältige Anwendungsbe-
+reiche,  wobei  die Anwendungen  jedoch bislang keine 
+Durchdringung der betreffenden Märkte erlangt haben.  
+© AdobeStock.com, Anon   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   34 
+    
+6.1 Ergebnisse der Forschungs - 
+literatur  
+Die internationale und nationale Literatur zur KI -Anwendung 
+in KMU ermöglicht eine Reihe von allgemeinen Schlussfolge-
+rungen, die zur Anwendung auf das  in Bezug auf KI  bislang 
+schwach untersuchte Handwerk relevant sind.   
+■ KI-Anwendungen werden bislang nur selten in KMU einge-
+setzt; die Technologieadaption verläuft langsam und in-
+krementell. Die Anreize, Hemmnisse und Potenziale äh-
+neln strukturell denen der Digitalisierung von KMU, wobei 
+der Komplexitätsgrad und die Anwendungsnähe von KI 
+ungleich höher sind als bei Digitalisierungsprozessen.   
+■ Bereits häufiger genutzt werden KI -Anwendungen von 
+internationalen, wissensintensiven und service -
+orientierten Unternehmen. In Deutschland nutzen  neben 
+diesen Branchen, allerdings mit deutlichem Ab-
+stand,  größere Unternehmen des produzierenden Gewer-
+bes (Elektrotechnik, Maschinenbau, Chemie -, Pharma -
+ und Grundstoffindustrie)  KI-Anwendungen zur Optimie-
+rung der Produktion.  Allgemein  gilt dabei:  Je höher die 
+Produktkomplexität und die Seriengröße und  je größer 
+der Betrieb ist, desto eher  wird KI eingesetzt.  
+■ Innerhalb dieser Branchen wird KI von rund 5  % aller 
+Betriebe aktiv genutzt, wobei unter 1  % der Beschäftig-
+ten sich mit der Anwendung befassen. Es  werden erheb-
+liche Gewinne durch KI erzielt, wobei empirisch bislang 
+keine Umsatzsteigerungen in Folge der KI gezeigt wur-
+den. Dennoch sind KI -einsetzende Unternehmen deut-
+lich innovativer.   
+■ Es werden in aller Regel externe KI -Anwendungen ge-
+nutzt, während Eigenentwicklungen die Ausnahme blei-
+ben. Es besteht ein deutlicher Fachkräftemangel in Be-
+zug auf KI -bezogene Stellen.   
+ 
+ 
+  
+ 
+ 
+Welche Schlüsse können für das deutsche Handwerk aus 
+diesen allgemeinen Erkenntnissen zur KI -Adaption gezogen  
+werden?  Primär zeigt sich, dass KI bislang noch ein Phäno-
+men wissens - und IKT -intensiver Branchen ist und auch in 
+Industrieunternehmen mit hoher Stückzahl und prinzipiell 
+guter Datenverfügbarkeit noch die Ausnahme dar-
+stellt.  Mittelständische Unternehmen allgemein und insbe-
+sondere kleine Unternehmen nutzen KI -Anwendungen noch 
+einmal deutlich seltener.  
+Die KI-Anwendung in Mittelstand und Handwerk 
+ist demnach  bislang noch im Anfangsstadium. Es 
+bestehen eine breite Kenntnis über die wahrgenomme-
+ne Relevanz von KI in den Betrieben  sowie  Politik und 
+Wirtschaftsorganisationen, aber  nur begrenzt  praktisch 
+anwendbares Wissen um mögliche Anwendungsfel-
+der.  Die Schwierigkeiten bei der Technologieadaption 
+sind international  ähnlich  und in der praktischen 
+Betriebsführung kleinerer Betriebe nachvollziehbar: 
+Ressourcenbeschränkungen, unklarer Nutzen, fehlende 
+Fachkräfte und hohe Kosten bei  schwachen betriebs-
+wirtschaftlichen Argumenten für die Einführung. 
+Insofern unterscheiden sich die Bemühungen zur KI -
+Anwendung nicht wesentlich von den Hemmnissen und 
+Erfolgsfaktoren bei der allgemeinen Digitalisierung der 
+Betriebe. Ein  wichtiger  Unterschied liegt jedoch in der 
+bislang geringen Zahl an niedrigschwellig einsetzbaren 
+KI-Angeboten und dem prohibitiv hohen Aufwand von 
+Eigenentwicklungen.  Insofern ist konzeptionell eine 
+Trennung zwischen bereits jetzt leicht möglicher 
+Digitalisierung in den Betrieben und der bislang kom-
+plexen und nicht einfach umsetzbaren Einführung von 
+KI vorzunehmen, die in der öffentlichen Diskussion oft 
+nicht vorgenommen wird.  Die medial überhöhten 
+Erwartungen an die zeitnahe einzelbetriebliche Nut-
+zung von KI sind daher  zu relativieren.  6. Diskussion: KI -Anwendung im Handwerk   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   35 
+    
+6.2 KI -Einführung und Digitali - 
+sierung  
+Neben dem Aspekt der erheblichen Herausforderungen bei 
+einer flächendeckenden Nutzung von in kleineren Betrieben 
+ist das Verhältnis von Digitalisierung und KI -Einführung zu 
+diskutieren. In Forschung und wirtschaftspolitisch motivier-
+tem Transfer  wird  die Anwendung von künstlicher Intelli-
+genz häufig als logische Fortsetzung der Digitalisierung von 
+Unternehmen verstanden. Der Grundgedanke dabei  ist, dass 
+eine weitgehende Digitalisierung von Firmenprozessen und 
+der umfassende Ausbau datengenerierender Systeme in 
+Produktion und Dienstleistungserbringung die Grundlage 
+für die Nutzung von KI legt. Für erfolgreich digitalisierte Be-
+triebe ist demnach der logische Folgeschritt für die Optimie-
+rung der Produktion und des Geschäftsmodells der Aufbau 
+von KI -Systemen im Anschluss an einen  weitgehenden Digi-
+talisierungsprozess (vgl. z.B. Heinen et al., 2021 für diese 
+Perspektive). Dabei wird unabhängig von Firmengröße und 
+Branche ein logischer und zwingender Zusammenhang zwi-
+schen Prozessdigitalisierung und der Einführung von künst-
+licher Intelligenz hergestellt, was zu einer einzelbetriebli-
+chen Perspektive auf die KI -Anwendung beiträgt.   
+Diese Perspektive ist mit einer Reihe von Problemen behaf-
+tet. Die Annahme, dass KI -Anwendungen letztlich eine inkre-
+mentelle Fortsetzung von im Kern simplen Digitalisierungs-
+schritten seien, unterschätzt die Herausforderung bei der 
+Umsetzung von KI -Projekten in Unternehmen. Künstliche 
+Intelligenz ist im Kern ein Teilgebiet der Statistik mit hohen 
+Anforderungen an die Datenqualität und -quantität und ist  
+  
+ 
+ 
+mit erheblichem Entwicklungsaufwand für oftmals sehr eng 
+begrenzte Anwendungsfelder verbunden. Während Großun-
+ternehmen mit bereits lang und sorgfältig etabliertem Daten-
+aufbau zumindest Grundlagen für die Nutzung von 
+KI aufweisen, besitzt die Mehrzahl der kleinen und mittleren 
+Unternehmen weder die Daten noch die Fachkräfte 
+für einen  kosteneffizienten Aufbau von KI -Anwendungen. 
+Insofern ist die lineare Vorstellung vom Digitalisierungspro-
+zess, der logisch zur Nutzung von KI führt,  problematisch und 
+zugunsten einer sektoralen Sichtweise fortzuentwickeln.   
+Hierbei sind für einzelne Branchen kooperative Vorhaben 
+zwischen einer Vielzahl an Betrieben erforderlich, die in eng 
+begrenzten Feldern  Daten zur Verfügung stellen und auf 
+Basis einer breiten und langfristig angelegten Datengrundla-
+ge gemeinsam mit Entwicklerteams KI -Anwendungen auf-
+bauen, die anschließend kommerziell der gesamten Bran-
+che angeboten werden können. Auf diese Weise kann künst-
+liche Intelligenz als Dienstleistung (AI  as a Service) in die 
+Breite der Unternehmenslandschaft getragen werden. Erst 
+an diesem Punkt im Entwicklungsprozess von KI -
+Anwendungen ist eine einzelbetriebliche Perspektive, die 
+auf eine individuelle Beratung, den Aufbau der nötigen Da-
+tensätze für die spezifische Anwendung und die schrittweise 
+Umsetzung im Betrieb abzielt, zweckmäßig. Den Auftakt 
+jedoch müssen größere Daten - und Entwicklungsverbünde 
+mit starkem Interesse an der kommerziellen Nutzbarma-
+chung des Endprodukts bilden.   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   36 
+    
+6.3 Vier Ebenen der KI -Nutzung 
+im Handwerk  
+Um diese  Argumentation zu  illustrieren, können vier Ebenen 
+der Interaktion des Handwerks mit KI unterschieden werden 
+(Abb.  5). Diese sind die Eigenerstellung von KI -Anwendung 
+durch einzelne Betriebe, die Beauftragung spezifischer  
+Lösungen, die Nutzung von KI -Dienstleistungen und die indi-
+rekte (passive) Nutzung von KI im Rahmen anderer Anwen-
+dungen, z.B. der Buchführung  oder Social Media.  
+Die Eigenerstellung  von KI durch Fachkräfte im eigenen Be-
+trieb bleibt bislang die  Ausnahme und wird es –auch 
+bei Verfügbarkeit entsprechend qualifizierten  Personals – 
+auf absehbare Zeit auch bleiben. Dies steht im Gegensatz 
+zur medialen und politischen Wahrnehmung von der Eigen-
+erstellung von KI als Abschluss eines erfolgreichen Digitali-
+sierungsprozesses und damit dem künftigen Modellfall der 
+betrieblichen Digitalisierung.   
+Die Beauftragung  einer spezifischen Lösung für einen Teilbe-
+reich des Unternehmens wird  aufgrund  hoher  Kosten und 
+der Unsicherheit des Erfolgs  für kleinere Betriebe zunächst  
+eher  selten bleiben, kann sich aber im Zuge des Fortschrei-
+tens von KI -Lösungen verbreiten, wie es auch in größeren 
+Betrieben des industriellen Mittelstandes bereits erfolgt.    
+ 
+ 
+ 
+Die Nutzung von  KI-Dienstleistungen  wiederum ist bereits heute 
+in wenigen  Segmenten problemlos möglich und kann  
+sich im Zuge der schrittweisen Wissensdiffusion und marktli-
+chen Durchsetzung von geeigneten Lösungen schnell verbrei-
+ten. Der Punkt einer in der Breite wirksamen Angebotspalette an 
+KI-Dienstleistungen ist jedoch noch nicht erreicht.  
+Die indirekte Nutzung  von KI wiederum ist bereits heute bei der 
+Mehrzahl der Betriebe Realität. Sobald größere Plattformen für 
+die Homepage -Erstellung oder etwa Social Media genutzt wer-
+den, wird automatisch KI auf Seiten der Plattformanbieter bei 
+der Leistungserbringung genutzt. Dasselbe gilt für die großen 
+Anbieter von CRM und Buchführungsprogrammen, die KI -
+Anwendungen (z.B. automatische Rechnungserkennung) als 
+regulären Teil ihrer Software  implementiert haben. Nicht min-
+der stark von KI betroffen sind alle Nutzer von Software und 
+Cloudlösungen von Herstellern wie Microsoft und Google, deren 
+Geschäftsmodelle  auf der effektiven Nutzung von Daten und 
+maschinellem Lernen beruhen. Die im Rahmen anderer Dienst-
+leistungen automatisch zur Verfügung gestellten  Daten der 
+Handwerksbetriebe werden durch die Dienstleister wiederum 
+zur immer weiteren Verbesserung der eigenen Produkte durch 
+KI genutzt.  
+Abb. 5.: Nutzungsformen von KI in KMU  
+Quelle:  Eigene Darstellung   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   37 
+    
+6.4 Fokus der KI -Förderung  
+ 
+Auf die oben beschriebenen vier Ebenen der KI -Nutzung 
+bezogen,  liegt  der Fokus des  medialen Interesses – wie häu-
+fig bei technologischen Neuerungen – auf den ersten beiden 
+Ebenen, also der gelungenen Eigenerstellung oder der Be-
+auftragung spezifischer Lösungen. Diese dienen als 
+Best  Practice -Beispiele, sind aber fast nie realistisch auf die 
+Mehrzahl der Betriebe anwendbar. Eine direkte Förderung 
+dieser Unternehmen in Kooperation mit der Wissenschaft 
+kann damit Leuchtturmprojekte  erzeugen, die Potenziale 
+aufzeigen und das Wachstum einer Firma oder eines regio-
+nalen Innovationsnetzes fördern.   
+Für die Erzielung von technologischem Fortschritt in der 
+Breite der Unternehmenslandschaft wiederum ist dieser 
+Ansatz nur bedingt geeignet, da er zu viele Vorbedingungen 
+und Anforderungen an das beteiligte Unternehmen stellt, 
+die im Handwerk (und allgemein bei kleinen und mittleren 
+Unternehmen) nur in Ausnahmefällen erreicht werden. Für 
+die effizienzfördernde Wirkung von KI muss hier auf die un-
+teren Ebenen fokussiert werden: die Adaption bestehender 
+Softwarelösungen und Technologien mit KI -Anteil (z.B. 
+Cloud -Lösungen, CRM, Buchhaltungssoftware) oder aber 
+dem gezielten Aufbau von Gründerökosystemen, die AI  as a 
+Service  für spezifische Branchen und innerhalb dessen für   
+ 
+ 
+spezifische Anwendungen im  Handwerk för-
+dern.  Voraussetzungen hierfür sind  die Organisation bran-
+chenspezifischer Datensätze sowie die Herstellung von Kon-
+takten mit Gründungsinteressierten und KI -Fachkräften, die 
+die technische Seite der Entwicklung bewältigen kön-
+nen.  Eine entscheidende Voraussetzung ist dabei die Verfüg-
+barkeit interessierter KI -Fachkräfte, kooperierender Unter-
+nehmen und die Möglichkeit zur raschen Kommerzialisierung 
+der aus den Daten gewonnenen Erkenntnisse. Ist erst einmal 
+eine niedrigschwellig nutzbare Branchenlösung entstanden, 
+können die bestehenden Transferkanäle des Handwerks ge-
+nutzt werden, um eine breite Adaption zu bewirken . 
+Während der Impuls zur Verbreitung von KI -Themen und zur 
+Motivation vieler Betriebe zur Verfolgung einer eigenen KI -
+Strategie nachvollziehbar ist, muss er jedoch angesichts der 
+erheblichen Komplexität des Vorhabens und der Anforde-
+rungen als wenig realistisch beurteilt werden. Sinnvoller ist 
+eine fokussierte Entwicklung von  KI-Dienstleistungen  mit 
+ausgewählten Betrieben, Forschungseinrichtungen und 
+Start -Ups, die anschließend in Produkte münden, die zwar 
+KI enthalten, aber kein  oder nur  geringes Vorwis-
+sen erfordern und sich so reibungslos in den Betriebsalltag 
+einfügen.  
+© AdobeStock.com, metamorworks   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   38 
+    
+Aarstad, A. & Saidl, M. (2019). Barriers to adopting ai techno-
+logy in SMEs.  Copenhagen Business School, Copenha-
+gen.  
+Alemann, S. V. (2020). How SMEs Can Compete in a Data -
+Driven Economy Through Collaboration.  In Jacob, K., 
+Schindler, D. & Strathausen, R. (Hrsg.).  Liquid Le-
+gal.Springer, Cham,  359-370.  
+André , E. & Bauer , W. et al. (Hrsg.). Kompetenzentwicklung 
+für Künstliche Intelligenz – Veränderungen, Bedarfe 
+und Handlungsoptionen. Whitepaper aus der Plattform 
+Lernende Systeme, München. https://doi.org/10.48669/
+pls_2021 -2 
+Axmann,  B. &  Harmoko, H. (2021). Herausforderungen bei 
+der Einführung neuer digitaler Technologien bei KMU 
+Teil 1: Am Beispiel der Künstlichen Intelligenz.  Zeit -
+schrift für wirtschaftlichen Fabrikbetrieb, 116  (4), 269-
+271.  https://doi.org/10.1515/zwf -2021 -0040  
+Baabdullah, A. M., Alalwan, A. A., Slade, E. L., Raman, R. & 
+Khatatneh, K. F. (2021).  SMEs and artificial intelligence 
+(AI): Antecedents and consequences of AI -based B2B 
+practices.  Industrial Marketing Management,  98, 255 -
+270.  
+Basri, W. (2020). Examining the impact of artificial intelli-
+gence (AI) -assisted social media marketing on the per-
+formance of small and medium enterprises: toward 
+effective business management in the Saudi Arabian 
+context.  International Journal of Computational Intelli-
+gence Systems,  13 (1), 142.  
+Bauer, M.,  van Dinther, C. &  Kiefer, D. (2020).  Machine Learn-
+ing in SME: An Empirical Study on Enablers and Success 
+Factors.  AMCIS 2020 Proceedings,  3. https://aisel.  
+aisnet.org/amcis2020/adv_info_systems_research/
+adv_info_systems_research/3  (Zugriff am 04.04.2022).  
+ Bettoni, A., Matteri, D., Montini, E., Gładysz, B. & Carpanza-
+no, E. (2021). An AI adoption model for SMEs: a concep-
+tual framework.  IFAC -PapersOnLine,  54(1), 702 -708.  
+Brockhaus, C. P., Bischoff, T. S., Haverkamp, K., Proeger, T. & 
+Thonipara, A. (2020).  Digitalisierung von kleinen und 
+mittleren Unternehmen in Deutschland – ein For-
+schungsüberblick.  Göttinger Beiträge zur Handwerks-
+forschung (Heft 46). Göttingen.  
+Bundesministerium für Wirtschaft und Energie  [BMWi]  
+(Hrsg.) (2020). Einsatz von Künstlicher Intelligenz in der 
+Deutschen Wirtschaft: Stand der KI -Nutzung im Jahr 
+2019.  Berlin.   
+Bunte, A., Richter, F. & Diovisalvi, R. (2021). Why It is Hard to 
+Find AI in SMEs: A Survey from the Practice and How to 
+Promote It.  ICAART,  2, 614-620.  
+Business School Berlin – Hochschule für Management GmbH 
+[BSP]  (2021). KI -Kochbuch. Rezepte für den Einsatz 
+Künstlicher Intelligenz im Unternehmen. https://www.  
+mittelstand -digital.de/MD/Redaktion/DE/
+Publikationen/zentrum -kommunikation -ki-
+kochbuch.html (Zugriff am 04.04.2022).  
+Chatterjee, S., Chaudhuri, R., Vrontis, D. & Basile, G. (2021). 
+Digital transformation and entrepreneurship process in 
+SMEs of India: a moderating role of adoption of AI -CRM 
+capability and strategic planning.  Journal of Strategy 
+and Management.  
+Crockett, K. A., Gerber, L., Latham, A. & Colyer, E. (2021). 
+Building Trustworthy AI Solutions: A Case for Practical 
+Solutions for Small Businesses.  IEEE Transactions on 
+Artificial Intelligence, 1 -1. 
+Dahm,  M. H. & Constantine,  B. (2020). Machine Learning für 
+den Mittelstand. In Dahm,  M. &  Thode,  S. (Hrsg.).   
+Digitale Transformation in der Unternehmenspraxis. 
+Springer Gabler, Wiesbaden, 327 -344.  https://
+doi.org/10.1007/978 -3-658-28557 -9_16  7. Literatur   
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   39 
+    
+Delponte, L. & Tamburrini, G. (2018).  European Artificial In-
+telligence (AI) leadership, the path for an integrated 
+vision.  European Parliament.  
+Demary, V.,  Engels, B., Goecke, H., Koppel, O., Mertens, A., 
+Rusche, C., Scheufen, M. &  Wendt, J. (2020).  KI-Monitor 
+2020. Status quo der Künstlichen Intelligenz in Deutsch-
+land. Gutachten im Auftrag des Bundesverbands Digita-
+le Wirtschaft (BVDW) e.V.  
+Demary, V. &  Goecke, H.  (2021).  Wie KMU Künstliche Intelli-
+genz nutzen.  IW-Kurzbericht, No. 81/2021, Institut der 
+deutschen Wirtschaft (IW)  Köln.  
+Döbel, I., Leis, M., Molina Vogelsang, M., Welz, J., Neustroev, 
+D., Petzka, H., Riemer, A., Püping, S., Voss, A. & Wegele, 
+M. (2018).  Maschinelles Lernen. Eine Analyse zu Kompe-
+tenzen, Forschung und Anwendung. Fraunhofer Gesell-
+schaft München.   
+Drydakis, N. (2022). Artificial Intelligence and Reduced SMEs ’ 
+Business Risks. A Dynamic Capabilities Analysis During 
+the COVID -19 Pandemic.  Information Systems Fron-
+tiers, 1 -25. 
+Dukino, C., Kötter, F., Müller, T., Renner, T. & Zaiser, H. 
+(2020a).  Künstliche Intelligenz anwenden – Einsatz-
+möglichkeiten und Methoden. Fraunhofer Verlag Stutt-
+gart.   
+Dukino, C., Hanussek, M. & Kötter, F. (2020b).  Basischeck zu 
+KI-Einführung für KMU. Am Beispiel: Posteingangsklas-
+sifikation. Fraunhofer Verlag Stuttgart.  
+Dumbach, P., Liu, R., Jalowski, M. & Eskofier, B. M. (2021).   
+The Adoption Of Artificial Intelligence In SMEs  - A Cross -
+National Comparison.  In German And Chinese 
+Healthcare. http://ceur -ws.org/Vol -2991/paper08.pdf 
+(Zugriff am 04.04.2022).  
+Europäische Kommission (2018).  Mitteilung der Kommission 
+an das Europäische Parlament, den Europäischen Rat, den Rat, den europäischen Wirtschafts - und Sozialaus-
+schuss und den Ausschuss der Regionen: Koordinierter 
+Plan für künstliche Intelligenz.  https://eur -
+lex.europa.eu/legal -content/DE/TXT/?uri=CELEX%
+3A52018DC0795 (Zugriff am 04.04.2022).  
+Ghobakhloo, M. & Ching, N. T. (2019). Adoption of digital 
+technologies of smart manufacturing in SMEs.  Journal 
+of Industrial Information Integration,  16, 100107.  
+Haarmeier,  M. (2021). Vorgehen bei der Einführung von KI in 
+mittelständischen Unternehmen. In  Haarmeier, M. 
+(Hrsg.).  Künstliche Intelligenz für den Mittel-
+stand.essentials. Springer Gabler, Wiesbaden, 37 -47. 
+https://doi.org/10.1007/978 -3-658-36085 -6_5 
+Hansen, E. B. & Bøgh, S. (2021).  Artificial intelligence and 
+internet of things in small and medium -sized enterpri-
+ses: A survey.  Journal of Manufacturing Systems,  58, 
+362-372.  
+Heinen, E., Scholz, R.  & Wegele, K. (2021). Künstliche Intelli-
+genz im Handwerk.  Automatisierung und Unterstüt-
+zung in der Sachbearbeitung mit Künstlicher Intelli-
+genz, 5. Fraunhofer Verlag Stuttgart.  
+Heumann, S.  & Jentzsch, N. (2019).  Wettbewerb um Daten. 
+Über Datenpools zu Innovationen. Stiftung neue Ver-
+antwortung Berlin.  
+Iftikhar, N. & Nordbjerg, F. E. (2021).  Adopting Artificial Intel-
+ligence in Danish SMEs –Barriers to become a Data Dri-
+ven Company, its Solutions and Benefits. In  2nd Inter-
+national Conference on Innovative Intelligent Industrial 
+Production and Logistics (IN4PL 2021). SCITEPRESS 
+Digital Library.  
+Kaiser, J., Terrazas, G., McFarlane, D. & De Silva, L. (2021). 
+Towards low -cost machine learning solutions for ma-
+nufacturing SMEs.  AI & SOCIETY, 1 -7. 
+  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   40 
+    
+Kaul, A., Schieler, M.  & Hans, C. (2019).  Künstliche Intelligenz 
+im europäischen Mittelstand: Status quo, Perspektiven 
+und was jetzt zu tun ist. Universität des Saarlan-
+des.  Saarbrücken.   
+Kinkel, S., Baumgartner, M. & Cherubini, E. (2022).  Pre-
+requisites for the adoption of AI technologies in manu-
+facturing –Evidence from a worldwide sample of manu-
+facturing companies.  Technovation,  110, 102375.  
+Kumar, A. & Kalse, A. (2021). Usage and adoption of artificial 
+intelligence in SMEs.  Materials Today: Proceedings.  
+Lerch, C.,  Heimberger, H.,  Jäger, A.,  Horvat, D. &  Bitter, 
+J. (2021).  KI-Readiness im Verarbeitenden Gewerbe: 
+Stand und Perspektiven für Baden -Württemberg.   
+Studie im Auftrag für das Ministerium für Wirtschaft, 
+Arbeit und Tourismus Baden -Württemberg. Karlsruhe.  
+Lüth, C. (2019). Herausforderungen beim erstmaligen Ein-
+satz von KI in KMUs. Journal für Mobilität und Verkehr, 
+4 (2019), 1 -3. 
+Lundborg, M.  & Gull, I. (2021).  Künstliche Intelligenz im Mit-
+telstand So wird KI für kleine und mittlere Unterneh-
+men zum Game Changer.  Begleitforschung Mittelstand -
+Digital WIK -Consult GmbH Bad Honnef.  
+Märkel, C.  & Lundborg, M. (2019).  Künstliche Intelligenz im 
+Mittelstand. Relevanz, Anwendungen, Transfer.  WIK – 
+Wissenschaftliches Institut für Infrastruktur und Kom-
+munikationsdienste.  Bad Honnef.  
+Mittal, S., Khan, M. A., Purohit, J. K., Menon, K., Romero, D. & 
+Wuest, T. (2020).  A smart manufacturing adoption 
+framework for SMEs.  International Journal of Produc-
+tion Research,  58 (5), 1555 -1573.  
+Pfeiffer, S. (2020). Kontext und KI: Zum Potenzial der Be-
+schäftigten für Künstliche Intelligenz  und Machine -
+Learning. HMD 57, 465 -479. https://doi.org/10.1365/
+s40702 -020-00609 -8  Proeger, T. & Runst, P.  (2020).  Digitization and Knowledge 
+Spillover Effectiveness —Evidence from the “German 
+Mittelstand ”. Journal of the Knowledge Economy, 
+11 (4), 1509 -1528.  
+Proeger, T., Thonipara, A. & Bizer, K. (2020).  Mechanismen, 
+Erfolgsfaktoren und Hemmnisse der Digitalisierung im 
+Handwerk.  Göttinger Beiträge zur Handwerksforschung 
+(Heft 35). Göttingen.  
+Rammer, C.  (2020).  Auf Künstliche Intelligenz kommt es an: 
+Beitrag von KI zur Innovationsleistung und Perfor-
+mance der deutschen Wirtschaft.  Bundesministerium 
+für Wirtschaft und Energie (BMWi).  Berlin.  
+Röhl, K. H. & Engels, B. (2021). Mehr Kooperation von Start -
+ups und Mittelstand als Chance für Digitalisierung und 
+Innovationen. Wirtschaftsdienst, 101(5), 381 -386.  
+Sandkuhl, K. (2019). Putting AI into context -method support 
+for the introduction of artificial intelligence into orga-
+nizations.  In 2019 IEEE 21st Conference on Business 
+Informatics (CBI),  1, 157-164.  
+Seifert, I., Bürger, M., Wangler, L., Christmann -Budian, 
+S., Rohde, M., Gabriel, P.  & Zinke, G. (2018).  Potenziale 
+der Künstlichen Intelligenz im Produzierenden Gewer-
+be in Deutschland.  Studie im Auftrag des Bundesminis-
+teriums für Wirtschaft und Energie (BMWi) im Rahmen 
+der Begleitforschung zum Technologieprogramm PAiCE 
+– Platforms | Additive Manufacturing | Imaging | Com-
+munication | Engineering.  Berlin.   
+Selamat, M. A. & Windasari, N. A. (2021). Chatbot for SMEs: 
+Integrating customer and business owner perspecti-
+ves.  Technology in Society,  66, 101685.  
+Tanane, B., Bentaha, M. L., Dafflon, B., Ferreiro, V. & Moalla, 
+N. (2022).  Toward an adaptive approach to implement 
+predictive maintenance in metallurgical industry SMEs 
+through IoT and AI. In  Canciglieri Junior, O., Noël, F., 
+Rivest, L. & Bouras, A. (Hrsg.) (20221).  Product Lifecycle  
+KÜNSTLICHE INTELLIGENZ IN HANDWERK UND MITTELSTAND  
+EIN FORSCHUNGSÜBERBLICK   41 
+    
+Management. Green and Blue Technologies to Support 
+Smart and Sustainable Organizations. PLM 2021. IFIP 
+Advances in Information and Communication Techno-
+logy, 639. Springer, Cham. 537 -547.  
+Thomä, J. & Bizer, K. (2021).  Governance mittelständischer 
+Innovationstätigkeit – Implikationen des Doing -Using -
+Interacting -Modus.  Perspektiven der Wirtschaftspolitik, 
+22 (4), 350 -369.   
+Thonipara, A., Höhle, D., Proeger,  T. & Bizer, K. (2020). Digita-
+lisierung im Handwerk - ein Forschungsüberblick.  
+Göttinger Beiträge zur Handwerksforschung (Heft 36).   
+Göttingen.  
+Ulrich, M. &  Bachlechner, D. (2020). Wirtschaftliche Bewer-
+tung von KI in der Praxis – Status Quo, methodische 
+Ansätze und Handlungsempfehlungen.  HMD,  57, 46–
+59. https://doi.org/10.1365/s40702 -019-00576 -9 (Zugriff 
+am 04.04.2022).  
+Ulrich, P.  & Frank, V. (2021). Relevance and Adoption of AI 
+technologies in German SMEs –Results from Survey -
+Based Research.  Procedia Computer Science,  192, 2152
+-2159.  
+Wangermann, T. (2020). KI in KMU.  Analysen & Argumente, 
+Nr. 381.  Konrad -Adenauer -Stiftung. Berlin.  
+Watney, C. & Auer,  D. (2021).  Encouraging AI adoption by EU 
+SMEs.  Progressive Policy Institute.  https://
+www.progressivepolicy.org/wp -content/
+uploads/2021/03/PPI_Encouraging -AI-adoption -by-EU-
+SMEs -3.24.21 -2.pdf (Zugriff am 04.04.2022).  
+Westdeutscher Handwerkskammertag (2020).  WHKT -
+Position »Künstliche Intelligenz« im Handwerk – Erwar-
+tungen für morgen. Düsseldorf. https://www.whkt.de/
+fileadmin/user_upload/whkt/downloads/whkt -
+stellungnahmen -positionen/20 -04-2020_WHKT -
+Position_KI -K%C3%BCnstliche_Intelligenz.pdf (Zugriff 
+am 06.04.2022).  Zentralverband des Deutschen Handwerks [ZDH] (2019).   
+Hintergrundpapier Künstliche Intelligenz und Hand-
+werk.  Berlin.  
+Zimmermann, V. (2021).  Künstliche Intelligenz: hohe Wachs-
+tumschancen, aber geringe Verbreitung im Mittelstand, 
+KfW Research, Fokus Volkswirtschaft, Nr. 318. Frankfurt 
+am Main. https://www.kfw.de/PDF/Download -Center/
+Konzernthemen/Research/PDF -Dokumente -Fokus -
+Volkswirtschaft/Fokus -2021/Fokus -Nr.-318-Februar -
+2021 -KI.pdf (Zugriff am 06.04.2022).  
